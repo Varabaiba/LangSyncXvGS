@@ -3,3 +3,7 @@ ProjectName: LangSyncXvGS
 ProjectDesc: |
   Project provides bidirectional smart sync between another projects localisation files
   and google sheets as the main interface for cloud based, multiuser side by side editing
+ProjectModules:
+  - colorama
+  - gspread
+  -
