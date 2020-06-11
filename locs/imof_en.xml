@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="en">
+  <texts>
+    <text name="Add" value="Add"/>
+    <text name="Edit" value="Edit"/>
+    <text name="Delete" value="Delete"/>
+    <text name="Cancel" value="Cancel"/>
+    <text name="Save" value="Save"/>
+    <text name="SaveAndClose" value="Save and Close"/>
+    <text name="Refresh" value="Refresh"/>
+    <text name="From" value="From"/>
+    <text name="To" value="To"/>
+    <text name="DevelopmentProgress" value="Development is in progress"/>
+    <text name="Actions" value="Actions"/>
+    <text name="Id" value="Id"/>
+    <text name="Detail" value="Detail"/>
+    <text name="NewVersion" value="New version"/>
+    <text name="DocVersion" value="Version"/>
+    <text name="Success" value="Success"/>
+    <text name="ChangePurpose" value="Change purpose"/>
+    <text name="PrevVersion" value="Previous version"/>
+    <text name="NextVersion" value="Next version"/>
+    <text name="Active" value="Active"/>
+    <text name="All" value="All"/>
+    <text name="Yes" value="Yes"/>
+    <text name="No" value="No"/>
+    <text name="MoveUp" value="Move Up"/>
+    <text name="MoveDown" value="Move Down"/>
+    
+    <text name="Registry" value="Registry"/>
+
+    <text name="FilterData" value="Filter data"/>
+    <text name="GroupData" value="Group data"/>
+
+
+    <text name="FormHasPendingChanges" value="Form has unsaved changes \n Close without saving?"/>
+
+    <text name="SessionExpiring" value="Your Session Will Expire Soon"/>
+    <text name="ContinueSession" value="Continue Session?"/>
+
+    <text name="ManagerOrganizationMappedErrorMessage" value="Manager orgnaization not defined or not mapped with institutional classification!"/>
+
+
+    <text name="Folder" value="Folder"/>
+
+
+    <text name="EditCode" value="Edit Code"/>
+    <text name="Name" value="Name"/>
+    <text name="Template" value="Template"/>
+    <text name="Version" value="Version"/>
+    <text name="ShowInPositions" value="Show in positions"/>
+    <text name="Search" value="Search"/>
+    <text name="Find" value="Find"/>
+    <text name="AreYouSure" value="Are you sure?"/>
+
+    <text name="Mapping_Note" value="Mapping changed,please save form"/>
+
+
+    <text name="Error_GeneralErrorTitle" value="Something went wrong"/>
+    <text name="Error_GeneralErrorMsg" value="Please contact your system administrator for further information."/>
+
+    <text name="Error_InternalSystem" value="Internal system error!"/>
+    <text name="Error_ParameterValidation" value="Parameter can't be null or undefined!"/>
+    <text name="Error_DataNotFound" value="Data not found!"/>
+    <text name="File_Name" value="File name"/>
+    <text name="File_Size" value="size"/>
+    <text name="File_Date" value="Upload date"/>
+
+    <text name="Error_WorkPeriodNotFound" value="{0} work period not found!"/>
+    <text name="Error_WorkPeriodConfigurationNotFound" value="Dashboard configuration for {0} work period not found!"/>
+
+    <text name="Cm_DashboardConfiguration_BpNotFoundErrorMessage" value="Business process not found!"></text>
+    <text name="Cm_DashboardConfiguration_BpInvalidPath" value="Business process path is invalid!"></text>
+    <text name="Cm_DashboardConfiguration_BpInvalidParams" value="Business process parameters is invalid!"></text>
+    <text name="Cm_DashboardConfiguration_BpIsAlreadyUnderExecution" value="Business process is already under execution or compated!"></text>
+    <text name="Cm_DashboardConfiguration_SSISExecutionError" value="SSIS integration service execution error ocured!"></text>
+    <text name="Cm_DashboardConfiguration_InvalidWorkPeriod" value="Invalid work period identificator!"></text>
+
+
+    <!-- Classification And Mapping / Dictionaries / Categories -->
+    <text name="CAM_Dictionaries_Categories_CategoryName" value="Category Name"/>
+    <text name="CAM_Dictionaries_Categories_AttributeName" value="Attribute Name"/>
+    <text name="CAM_Dictionaries_Categories_IsMember" value="Is Member"/>
+    <text name="CAM_Dictionaries_Categories_IsRequired" value="Is Required"/>
+    <text name="CAM_Dictionaries_Categories_Order" value="Order"/>
+    <!-- Classification And Mapping / Dictionaries / Categories END -->
+
+
+    <text name="MI_MoreItems" value="More Items"/>
+    <text name="MI_MoreItems_Trading" value="Trading"/>
+    <text name="MI_MoreItems_Trading_SystemLocale" value="System Locale"/>
+    <text name="MI_MoreItems_Trading_WorkPeriod" value="Work Period"/>
+
+    <text name="MI_Security_Groups" value="Groups"/>
+    <text name="MI_Security_Users" value="Users"/>
+
+    <text name="MI_Dashboard" value="Dashboard"/>
+    <text name="MI_CM" value="Cash Management"/>
+    <text name="MI_Cash_Management" value="Cash Management"/>
+    <text name="MI_Cash_Management_Dashboard" value="Dashboard"/>
+
+    <text name="MI_Cash_Management_Revenues" value="Revenues"/>
+    <text name="MI_Cash_Management_Revenues_Analytics" value="Revenues Analytics"/>
+    <text name="MI_Cash_Management_Revenues_Decision_Making" value="Decision Making"/>
+    <text name="MI_CashManagement_Revenues_RevenueDashboard" value="Revenue Dashboard"/>
+
+    <text name="MI_CashManagement_Revenues_Classifications" value="Classifications"/>
+    <text name="MI_CashManagement_Revenues_Classifications_EconomicSector" value="Economic Sector"/>
+    <text name="MI_CashManagement_Revenues_Classifications_GeographicStructure" value="Geographic Structure"/>
+    <text name="MI_CashManagement_Revenues_Classifications_RevenueType" value="Revenue Type"/>
+    <text name="MI_CashManagement_Revenues_Directories" value="Directories"/>
+    <text name="MI_CashManagement_Revenues_DataCollection" value="Data Collection"/>
+    <text name="MI_CashManagement_Revenues_Reporting" value="Reporting"/>
+
+    <text name="MI_Cash_Management_Expenditures_" value="Allocation of Special Payments"/>
+
+    <text name="Cash_Management_Expenditure_static_rule"                value="Static Rules"/>
+    <text name="Cash_Management_Expenditure_dynamic_rule"                value="Dinamic Rules"/>
+
+    <text name="Cash_Management_Expenditure_Column_name"                value="Rule Name"/>
+    <text name="Cash_Management_Expenditure_Column_category"                value="Category"/>
+    <text name="Cash_Management_Expenditure_Column_type"                value="Rule Type"/>
+    <text name="Cash_Management_Expenditure_Column_region"                value="Regions"/>
+    <text name="Cash_Management_Expenditure_Column_organisation"                value="Organization"/>
+    <text name="Cash_Management_Expenditure_Column_fincode"                value="Funding Sources"/>
+    <text name="Cash_Management_Expenditure_Column_ecocode"                value="Economic Section"/>
+    <text name="Cash_Management_Expenditure_Column_funcode"                value="Functional Codes"/>
+    <text name="Cash_Management_Expenditure_Column_programcode"                value="Programm Codes"/>
+    <text name="Cash_Management_Expenditure_Column_active_from"                value="Active From"/>
+    <text name="Cash_Management_Expenditure_Column_active_until"                value="Active To"/>
+    <text name="Cash_Management_Expenditure_Column_counttransaction"                value="Number of Payments"/>
+    <text name="Cash_Management_Expenditure_Column_sumtransaction"                value="Payment Amount"/>
+
+
+    <text name="Cash_Management_Expenditure_name"                value="Name"/>
+    <text name="Cash_Management_Expenditure_ecocode"                value="Economic Section"/>
+    <text name="Cash_Management_Expenditure_terrcode"                value="Regions"/>
+    <text name="Cash_Management_Expenditure_category"                value="Category"/>
+    <text name="Cash_Management_Expenditure_fincode"                value="Sources"/>
+    <text name="Cash_Management_Expenditure_programcode"                value="Programm Codes"/>
+    <text name="Cash_Management_Expenditure_activeuntil"                value="Active To" />
+    <text name="Cash_Management_Expenditure_funcode"                value="Functional Classification"/>
+
+
+    <text name="Cash_Management_Expenditure_transaction"                value="Transactions"/>
+    <text name="Cash_Management_Expenditure_move_toExclude"                value="Move to Exception"/>
+
+    <text name="Cash_Management_Expenditure_date"                value="Date"/>
+    <text name="Cash_Management_Expenditure_sum"                value="Amount"/>
+
+    <text name="Cash_Management_Expenditure_ecxlude"                value="Exception"/>
+    <text name="Cash_Management_Expenditure_move_back"                value="Move to Transactions"/>
+
+    <text name="Cash_Management_Expenditure_eq"                  value="Equals"/>
+    <text name="Cash_Management_Expenditure_more"                value="More than"/>
+    <text name="Cash_Management_Expenditure_less"                value="Less than"/>
+    <text name="Cash_Management_Expenditure_between"             value="Between"/>
+    <text name="Cash_Management_Expenditure_moreEq"              value="More than or equal to"/>
+    <text name="Cash_Management_Expenditure_lessEq"              value="Less than or equal to"/>
+    <text name="Cash_Management_Expenditure_diff"                value="Different"/>
+
+
+    <text name="MI_CashManagement_Expenditure_ExpenditureDashboard" value="Expenditure Dashboard"/>
+
+    <text name="MI_Cash_Management_Payments" value="Payments"/>
+    <text name="MI_Cash_Management_Payments_MappingAndClassifiers" value="Mapping and Classifiers"/>
+    <text name="MI_CashManagement_Payments_Reporting" value="Reporting"/>
+    <text name="MI_CashManagement_Payments_Classifications_Territorial" value="Territorial Classification"/>
+    <text name="MI_CashManagement_Payments_Classifications_Economic" value="Economic Classification"/>
+    <text name="MI_CashManagement_Payments_Classifications_Financial" value="Financial Classification"/>
+    <text name="MI_CashManagement_Payments_Classifications_Program" value="Program Classification"/>
+    <text name="MI_CashManagement_Payments_Classifications_Functional" value="Functional Classification"/>
+    <text name="MI_CashManagement_Payments_Classifications_Institutional" value="Institutional Classification"/>
+    <text name="MI_CashManagement_Payments_CashPlan" value="Cash Plan"/>
+    <text name="MI_CashManagement_Payments_PriorityLiabilities" value="Priority Liabilities"/>
+    <text name="MI_CashManagement_Payments_AnalysisAndCorrections" value="Analysis and Corrections"/>
+    <text name="MI_CashManagement_Payments_AnalysisAndCorrections_ExternalCorrections" value="External Corrections"/>
+    <text name="MI_CashManagement_Payments_AnalysisAndCorrections_InternalCorrections" value="Internal Corrections"/>
+
+    <text name="MI_Cash_Management_Reserves" value="Reserves"/>
+    <text name="MI_Cash_Management_Reserves_DataEntry" value="Data Entry"/>
+    <text name="MI_Cash_Management_Reserves_Reporting" value="Reporting"/>
+
+    <text name="MI_Cash_Management_Classification" value="Classification"/>
+    <text name="MI_CashManagement_Classifications_Accounts" value="Accounts"/>
+    <text name="MI_CashManagement_Classifications_Organizations" value="Organizations"/>
+    <text name="MI_CashManagement_Classifications_Select_Year" value="Select Year"/>
+    <text name="MI_CashManagement_Classifications_Search" value="Search"/>
+    <text name="MI_CashManagement_Classifications_Update" value="Update revenue administrator info"/>
+    <text name="MI_CashManagement_Classifications_UpdateRevenueType" value="Update revenue type info"/>
+    <text name="MI_CashManagement_Classifications_EconomicClassification" value="Update economic classification info"/>
+    <text name="MI_CashManagement_Classifications_Code" value="Code"/>
+    <text name="MI_CashManagement_Classifications_Name" value="Name"/>
+    <text name="MI_CashManagement_Classifications_IsRevenueAdministrator" value="Is revenue administrator"/>
+    <text name="MI_CashManagement_Classifications_IsGrant" value="Is grant"/>
+    <text name="MI_CashManagement_Classifications_RevenueAdministratorName" value="Revenue administrator name"/>
+    <text name="MI_CashManagement_Classifications_ManagerOrganization" value="Manager Organization"/>
+    <text name="MI_CashManagement_Classifications_UpdateStatus" value="Operation status"/>
+    <text name="MI_CashManagement_Classifications_UpdateMessage" value="Data updated succesfully!"/>
+    <text name="MI_CashManagement_Classifications_Name_Tj" value="Tajik Name"/>
+    <text name="MI_CashManagement_Classifications_Name_Ru" value="Russian Name"/>
+    <text name="MI_CashManagement_Classifications_Name_En" value="English Name"/>
+    <text name="MI_CashManagement_Classifications_Name_Tr" value="Turkey Name"/>
+
+
+    <!-- Enums Start -->
+
+    <text name="Enum_Category_Material" value="Material"/>
+    <text name="Enum_Category_NonMaterial" value="Non Material"/>
+    <text name="Enum_MeasureCodeDefinition_IsService" value="Service"/>
+    <text name="Enum_DepreciationTypeKind_Coefficient" value="Coefficient"/>
+    <text name="Enum_DepreciationTypeKind_LifeCycle" value="LifeCycle"/>
+    <text name="Enum_DepreciationTypeKind_Parameter" value="Parameter"/>
+    
+    <!-- Enums End-->
+
+    <!-- Classification Codes Start -->
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCode" value="Classification Code"/>
+
+    <text name="MI_ClassificationsAndMappings_Dictionaries_MofClassificationCodes" value="Classification Codes"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_OldVersionAddOrModifyProhibited"
+          value="Making changes to the old version of codes is prohibited!"/>
+
+    <text name="ClassificationsAnClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_TheCodeDoesNotMatchThePattern"
+          value="The code does not match the pattern!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_WrongCodeFormat" value="Wrong code format!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_CodeAlreadyExists" value="Code already exists!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_ChangesAreAllowedOnlyForTheCurrentLevel"
+          value="Changes are allowed only for the current level!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_WrongVersion" value="Wrong version!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Message_TotalCount" value="Deleting items count"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Message_AddItemToSameNode" value="Add code"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Message_AddItemChildNode" value="Add child code"/>
+
+    <!-- Classification Codes End -->
+
+    <!-- Depreciation Types Start -->
+
+    <text name="MI_ClassificationsAndMappings_Dictionaries_DepreciationTypes" value="Depreciation Types"/>
+    <text name="CM_Classifications_DepreciationType" value="Depreciation Type"/>
+
+    <text name="CM_Classifications_DepreciationTypeCode" value="Depreciation Type Code"/>
+    <text name="CM_Classifications_DepreciationRate" value="Depreciation Rate"/>
+    <text name="CM_Classifications_DepreciationTypeId" value="Depreciation Type Id"/>
+    <text name="CM_Classifications_DepreciationTypeKind" value="Depreciation Type Kind"/>
+    
+    <text name="CM_Classifications_Depreciation_Error_Message_WrongRate" value="Rate must be more then 0 and less or equal 1!"/>
+    <text name="CM_Classifications_Depreciation_Error_Message_FormIsNotValid" value="Fill all necessary fields!"/>
+    <text name="CM_Classifications_Depreciation_Error_Message_CodeAlreadyExists" value="Code already exists!"/>
+    <text name="CM_Classifications_Depreciation_Error_Message_DeletionDenied" value="Unable to delete entry!"/>
+
+    <!-- Depreciation Types End -->
+
+    <!-- Category Start -->
+
+    <text name="CM_Classifications_CategoryId" value="Category Id"/>
+    <text name="CM_Classifications_Category" value="Category"/>
+    <text name="CM_Classifications_CategoryType" value="Category Type"/>
+    <text name="CM_Classifications_DepreciationYears" value="Depreciation Years"/>
+    <text name="CM_Classifications_DepreciationTypeName" value="Depreciation Type Name"/>
+    <text name="CM_Classifications_IsAsset" value="Is Asset"/>
+    <text name="CM_Classifications_MeasureUnitCode" value="Measure Unit Code"/>
+    <text name="CM_Classifications_MeasureUnitDefinition" value="Measure Unit Definition"/>
+    <text name="CM_Classifications_CategoryAttributes" value="Attributes"/>
+    <text name="CM_Classifications_NoAttributesToAdd" value="No new attributes to add"/>
+    <text name="CM_Classifications_Category_Error_Message_FormIsNotValid" value="Form is not valid!"/>
+    <text name="CM_Classifications_Category_Error_Message_DuplicateAttributesFound" value="Duplicate attribute(s) found!"/>
+        
+    <!-- Category End -->
+
+    <text name="MI_ClassificationsAndMappings_Dictionaries_ForecastingMethod" value="Forecasting Method"/>
+
+    <text name="MI_CM_Management" value="Balance Management"/>
+    <text name="MI_CM_Revenues" value="Revenues"/>
+    <text name="MI_Cash_Management_Management" value="Balance Management"/>
+
+    <text name="MI_CM_Expenditures" value="Expenditures"/>
+
+    <text name="MI_Cash_Management_Expenditures" value="Expenditures"/>
+    <text name="MI_Cash_Management_Expenditures_Analytics" value="Expenditures Analytics"/>
+    <text name="MI_Cash_Management_Expenditures_Decision_Making" value="Decision Making"/>
+
+    <text name="MI_CashManagement_Management_Analytics" value="Analytics"/>
+    <text name="MI_CashManagement_Management_Reporting" value="Reporting"/>
+
+    <text name="MI_Cash_Management_Queue_Management" value="Queue Management"/>
+    <text name="MI_Cash_Management_Queue_Management_Column_ID" value="Document ID"/>
+    <text name="MI_Cash_Management_Queue_Management_Column_Name" value="Name"/>
+    <text name="MI_Cash_Management_Queue_Management_Column_Status" value="Status"/>
+    <text name="MI_Cash_Management_Queue_Management_Filter_Status_Label" value="Select Status"/>
+    <text name="MI_Cash_Management_Queue_Management_Save_Button" value="Save"/>
+    <text name="MI_Cash_Management_Dictionary_Mapping" value="Dictionary Mapping"/>
+
+
+    <text name="MI_Cash_Management_Reporting" value="Reporting"/>
+    <text name="MI_Cash_Management_Dictionary" value="Dictionary"/>
+
+    <text name="MI_Cash_Management_Trading" value="Trading"/>
+    <text name="MI_Cash_Management_Trade" value="Trade"/>
+
+
+    <text name="MI_Asset" value="Asset Management"/>
+    <text name="MI_Asset_Assets" value="Assets"/>
+    <text name="MI_Asset_Assets_AssetsBack" value="Assets (Back Office)"/>
+    <text name="MI_Asset_Assets_AssetsFront" value="Assets (Front Office)"/>
+    <text name="MI_Asset_Group_Managment" value="Group Management"/>
+    <text name="MI_Asset_Management" value="Asset Management"/>
+    <text name="MI_Asset_Management_Dashboard" value="Dashboard"/>
+    <text name="MI_Asset_Management_Assets" value="Assets"/>
+    <text name="MI_Asset_Management_Asset_FrontOffice_Registry" value="Assets front office"/>
+    <text name="MI_Asset_Management_Asset_BackOffice_Registry" value="Assets back office"/>
+
+
+    <text name="MI_Asset_Operations" value="Operations"/>
+    <text name="MI_Asset_Management_Asset_OperationsFrontOffice" value="Operations (Front Office)"/>
+    <text name="MI_Asset_Management_Asset_OperationsBackOffice" value="Operations (Back Office)"/>
+
+    <text name="MI_Asset_Management_Organisation" value="Organisation"/>
+    <text name="MI_Asset_Management_Asset_Preferences" value="Asset Preferences"/>
+    <text name="MI_Asset_Management_Dictionary" value="Dictionary"/>
+    <text name="MI_Asset_Management_Reports" value="Reports"/>
+
+
+    <text name="MI_LM" value="Liability Management"/>
+    <text name="MI_Liability" value="Liability Management"/>
+
+    <!--Information(K)-->
+    <text name="MI_LM_Information" value="M2G01 - Information(K)"/>
+    <text name="MI_LM_Information_Dashboard" value="G01U01 - Dashboard"/>
+    <text name="MI_LM_Information_ShowReports" value="G01U08 - Show Reports"/>
+    <text name="MI_LM_Information_PrintReports" value="G01U09 - Print Reports"/>
+
+
+    <!--Information(BO)-->
+    <text name="MI_LM_InformationBO" value="M2G01 - Information (BO)"/>
+    <text name="MI_LM_InformationBO_Dashboard" value="G02U01 - Dashboard"/>
+    <text name="MI_LM_InformationBO_Resources" value="G02U02 - Resources"/>
+    <text name="MI_LM_InformationBO_ShowReports" value="G02U08 - Show Reports"/>
+    <text name="MI_LM_InformationBO_PrintReports" value="G02U09 - Печатная Отчетность"/>
+
+
+    <!--Obligations-->
+    <text name="MI_LM_Requirements" value="M2G03 - Requirements"/>
+    <text name="MI_LM_Requirements_Registry" value="G03U01 - Registry"/>
+    <text name="MI_LM_Requirements_Categories" value="G03U02 - Categories"/>
+
+    <!--ContractPackages-->
+    <text name="MI_LM_ContractPackages" value="M2G04 - Contract Packages"/>
+    <text name="MI_LM_ContractPackages_Registry" value="G04U01 - Registry"/>
+
+    <!--Contracts-->
+    <text name="MI_LM_Contracts" value="M2G05 - Contracts"/>
+    <text name="MI_LM_Contracts_FastLook" value="G05U01 - Fast Look"/>
+    <text name="MI_LM_Contracts_Registry" value="G05U02 - Registry"/>
+    <text name="MI_LM_Contracts_ApiStatus" value="G05U10 - Api Status"/>
+
+    <!--Debts-->
+    <text name="MI_LM_Debts" value="M2G06 - Debts"/>
+    <text name="MI_LM_Debts_FastLook" value="G06U01 - Fast Look"/>
+    <text name="MI_LM_Debts_Categories" value="G06U03 - Categories"/>
+    <text name="MI_LM_Debts_ApiStatus" value="G06U05 - Api Status"/>
+    <text name="MI_LM_Debts_Registry" value="G06U02 - Registry"/>
+
+    <!--Liabilities-->
+    <text name="MI_LM_Obligations" value="M2G07 - Liabilities"/>
+    <text name="MI_LM_Obligations_Registry" value="G07U01 - Registry"/>
+
+    <!--TRS Сontrol Panel-->
+    <text name="MI_LM_TRS" value="M2G08 - TRS Сontrol Panel"/>
+    <text name="MI_LM_TRS_FastLook" value="G08U01 - Fast Look"/>
+    <text name="MI_LM_TRS_Registry" value="G08U02 - Registry"/>
+    <text name="MI_LM_TRS_LiabilityApproval" value="G08U03 - Liability Approval"/>
+    <text name="MI_LM_TRS_SpecialRegistry" value="G08U02 - Special Registry"/>
+    <text name="MI_LM_TRS_ContractPackageRegistry" value="G08U08 - Contract Package Registry"/>
+    <text name="MI_LM_TRS_Contracts" value="G05U02 - Contract Registry"/>
+    <text name="MI_LM_TRS_ContractPermit" value="G08U06 - Preregistration Approval"/>
+
+    <!--Accounting status-->
+    <text name="MI_LM_Accounting" value="M2G09 - Accounting Status"/>
+    <text name="MI_LM_BDControlPanel_ApiStatus" value="G09U01 - API Status"/>
+
+    <!--BD Сontrol Panel-->
+    <text name="MI_LM_BDcontrolPanel" value="M2G10 - BD Сontrol Panel"/>
+    <text name="MI_LM_BDcontrolPanel_FastLook" value="G10U01 - Fast Look"/>
+    <text name="MI_LM_BDcontrolPanel_Registry" value="G10U02 - Registry"/>
+    
+
+    <text name="MI_LM_PBSMain" value="PBSMain"/>
+    <text name="MI_LM_ContractsFront" value="Contracts (Front-Office)"/>
+    <text name="MI_LM_ContractsBack" value="Contracts (Back-Office)"/>
+
+
+
+    <text name="MI_Liability_Management" value="Liability Management"/>
+    <text name="MI_Liability_Management_Dashboard" value="Dashboard"/>
+    <text name="MI_Liability_Management_Internal_Liabilities" value="Internal Liabilities"/>
+    <text name="MI_Liability_Management_Internal_Liabilities_Operational_Liabilities"
+          value="Operational Liabilities"/>
+    <text name="MI_Liability_Management_Internal_Liabilities_Priority_Liabilities" value="Priority Liabilities"/>
+    <text name="MI_Liability_Management_Internal_Liabilities_Domestic_Borrowings" value="Domestic Borrowings"/>
+    <text name="MI_Liability_Management_Internal_State_Liabilities" value="State Liabilities"/>
+    <text name="MI_Liability_Management_Internal_Other_Liabilities" value="Other Liabilities"/>
+    <text name="MI_Liability_Management_Externa_Debt" value="External Debt"/>
+    <text name="MI_Liability_Management_Externa_Debt_Liabilities_From_Placement"
+          value="Liabilities From Placement"/>
+    <text name="MI_Liability_Management_Externa_Debt_Liabilities_From_Borrowings"
+          value="Liabilities From Borrowings"/>
+    <text name="MI_Liability_Management_Externa_Debt_Liabilities_From_Agreements"
+          value="Liabilities From Agreements"/>
+    <text name="MI_Liability_Management_Externa_Debt_Other_Liabilities" value="Other Liabilities"/>
+
+
+    <text name="MI_User_Management" value="User Management"/>
+    <text name="MI_Aggregated_Report" value="Aggregated Report"/>
+    <text name="MI_Aggregated_Report_Report" value="Report"/>
+    <text name="MI_Aggregated_Report_Report_Entry" value="Report Entry"/>
+
+    <text name="Asset_AssetHistoryWindow_Status_Title" value="Asset status history"/>
+    <text name="Asset_AssetHistoryWindow_Accounting_Title" value="Asset accounting history"/>
+    <text name="Asset_AssetHistoryWindow_Inventory_Title" value="Asset inventory history"/>
+    <text name="Asset_AssetHistoryWindow_OperationalStatus_Title" value="Asset operational status history"/>
+    <text name="Asset_AssetHistoryWindow_GridPanelColumn_Description" value="Description"/>
+    <text name="Asset_AssetHistoryWindow_GridPanelColumn_Time" value="Time"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Id" value="Asset ID"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Name" value="Name"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Description" value="Description"/>
+    <text name="Asset_Index_AssetGridPanel_Column_EbkCode" value="Ebk code"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Acquiring" value="Acquiring"/>
+    <text name="Asset_Index_AssetGridPanel_Column_AcquiringPrice" value="Price"/>
+    <text name="Asset_Index_AssetGridPanel_Column_AcquiringCurrency" value="Currency"/>
+    <text name="Asset_Index_AssetGridPanel_Column_CategoryCode" value="Category code"/>
+    <text name="Asset_Index_AssetGridPanel_Column_CategoryDescription" value="Category description"/>
+    <text name="Asset_Index_AssetGridPanel_Column_LocationAddress" value="Address"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Tags" value="Tags"/>
+    <text name="Asset_Index_AssetGridPanel_Column_OperationalStatus_Header" value="Operational status"/>
+    <text name="Asset_Index_AssetGridPanel_Column_OperationalStatus_Current" value="Current"/>
+    <text name="Asset_Index_AssetGridPanel_Column_OperationalStatus_History" value="History"/>
+    <text name="Asset_Index_AssetGridPanel_Column_OperationalStatus_History_ToolTip"
+          value="History of operational status"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Inventory_Header" value="Inventory"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Inventory_Current" value="Current"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Inventory_History" value="History"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Inventory_History_ToolTip" value="History of inventory"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Accounting_Header" value="Accounting"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Accounting_Current" value="Current"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Accounting_History" value="History"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Accounting_History_ToolTip" value="History of accounting"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Status_Header" value="Status"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Status_Current" value="Current"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Status_History" value="History"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Status_History_ToolTip" value="History of status"/>
+    <text name="Asset_Index_TopBar_Add_ToolTip" value="Add new asset item"/>
+    <text name="Asset_Index_TopBar_Edit_ToolTip" value="Edit selected asset item"/>
+    <text name="Asset_Index_TopBar_Delete_ToolTip" value="Delete selected asset item"/>
+    <text name="Asset_Index_AssetFormPanel_Title" value="Asset details"/>
+    <text name="Asset_Index_AssetFormPanel_Name_Label" value="Name"/>
+    <text name="Asset_Index_AssetFormPanel_Description_Label" value="Description"/>
+    <text name="Asset_Index_AssetFormPanel_EbkCode_Label" value="Ebk code"/>
+    <text name="Asset_Index_AssetFormPanel_AcquiringPrice_Label" value="Acquiring price"/>
+    <text name="Asset_Index_AssetFormPanel_AcquiringCurrency_Label" value="Acquiring currency"/>
+    <text name="Asset_Index_AssetFormPanel_CategoryCode_Label" value="Category code"/>
+    <text name="Asset_Index_AssetFormPanel_CategoryDescription_Label" value="Category description"/>
+    <text name="Asset_Index_AssetFormPanel_LocationAddress_Label" value="Address"/>
+    <text name="Asset_Index_AssetFormPanel_Tags_Label" value="Tags"/>
+    <text name="Asset_Index_AssetFormPanel_OperationalStatus_Label" value="Operational status"/>
+    <text name="Asset_Index_AssetFormPanel_Inventory_Label" value="Inventory"/>
+    <text name="Asset_Index_AssetFormPanel_Accounting_Label" value="Accounting"/>
+    <text name="Asset_Index_AssetFormPanel_Status_Label" value="Status"/>
+
+
+    <text name="Ballance_Regisration_Index_Combobox_select_Year" value="Select Year"/>
+    <text name="Ballance_Regisration_Index_Label_select_Year" value="Year:"/>
+    <text name="Ballance_Regisration_Index_Combobox_select_Period" value="Selet Period"/>
+    <text name="Ballance_Regisration_Index_Label_select_Period" value="Period:"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Title" value="Statement of financial position"/>
+    <text name="Ballance_Regisration_Index_Grid_Income_Statement_Title" value="Income statement"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Column_Name" value="Name"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Column_Start_Period" value="Start Period"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Column_End_Period" value="End Period"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Column_Comments" value="Comments"/>
+    <text name="Ballance_Regisration_Index_Button_Import_data" value="Import Data"/>
+    <text name="Ballance_Regisration_Index_Combobox_Select_organization" value="Select Organization"/>
+    <text name="Ballance_Regisration_Index_Combobox_Label_organization" value="Organization"/>
+    <text name="Ballance_Regisration_Index_Combobox_Select_Budget_request" value="Select Budget Request"/>
+    <text name="Ballance_Regisration_Index_Combobox_Label_oBudget_Request" value="Budget Request"/>
+
+    <text name="Ballance_Report_Index_Account_Text" value="Single Chart Of Accounts"/>
+    <text name="Ballance_Report_Index_Gridpanel_Title" value="Statement of financial position"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Code" value="Code"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Line_Name" value="Line name"/>
+    <text name="Ballance_Report_Index_Gridpanel_Income_statement_Title" value="Income statement"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_SCA_Code" value="SCA Code"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_SCA_Name" value="SCA Name"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Exception" value="Exception (2)"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Report1" value="Report 1"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Report2" value="Report 2"/>
+
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_Title" value="Localisations"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_Id" value="Nbr."/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_Key" value="Key"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_KeyValue" value="Key Value"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalesGrid_Id" value="Doc. Nbr"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalesGridd_LocaleName" value="Locale Name"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalesGrid_TranslatedName"
+          value="Translated Name"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalesGrid_DecimalSeparator"
+          value="Decimal Separator"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_Description"
+          value="Description"/>
+
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_Id" value="Doc. Nbr"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_LocaleName" value="Locale Name"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_Desc" value="Description"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_DecSep" value="Dec. Separator"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_TranslateName"  value="Translate Name"/>
+
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Index"  value="Work Period Configuration"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_Id"  value="Id"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_Name"  value="Name"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_Status"  value="Status"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_StartDate"  value="Start Date"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_EndDate"  value="End Date"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Toolbar_Add"  value="Add"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Toolbar_Edit"  value="Edit"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Toolbar_Delete"  value="Delete"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Toolbar_Reload"  value="Reload"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_Id"  value="Id :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_Name"  value="Name :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_StartDate"  value="Start Date :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_EndDate"  value="End Date :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_Status"  value="Status :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_OperationStatus"  value="Operation status"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_DeleteSuccess"  value="Work period has deleted successfully"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_DeleteError"  value="Work period operation error"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_DeleteConfirmation"  value="Delete Confirmation"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_DeleteConfirmationMessage"  value="Sure to Delete Work Period?"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_SaveSuccess"  value="Work period saved successfully"/>
+
+
+
+    <text name="CM_Financial_Classifiers_Loading_Message" value="Loading..."/>
+    <text name="CM_Program_Classifiers_Loading_Message" value="Loading..."/>
+    <text name="CM_Program_Classifiers_Load_Button_Title" value="Load"/>
+
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_EntryDate_Column" value="Year/Month"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_Amount_Column" value="Amount"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_AccountNumber_Column" value="Account Number"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_Account_Column" value="Account"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_AccountCurrency_Column" value="Currency"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_AccountBank_Column" value="Bank"/>
+    <text name="CM_Reserves_DataEntry_DataEntryFormPanel_Title" value="Reserves Data Entry"/>
+    <text name="CM_Reserves_DataEntry_DataEntryFormPanel_EntryDate_Label" value="Year/Month"/>
+    <text name="CM_Reserves_DataEntry_DataEntryFormPanel_Amount_Label" value="Amount"/>
+    <text name="CM_Reserves_DataEntry_DataEntryFormPanel_AccountNumber_Label" value="Account Number"/>
+    <text name="CM_Reserves_DataEntry_FilterData" value="Filter Data"/>
+
+    <text name="CM_Revenues_Classifications_Economic_Sector_FormPanel_title" value="Add/Edit Classifier"/>
+    <text name="CM_Revenues_Classifications_Economic_Sector_Year" value="Year"/>
+    <text name="MI_Revenues_Classifications_Economic_Sector_Column_Name" value="Name"/>
+    <text name="MI_Revenues_Classifications_Economic_Sector_Column_Code" value="Code"/>
+
+
+    <text name="CM_Classifications_ExpenditureSortOutCatId" value="Doc Nbr."/>
+    <text name="CM_Classifications_Accounts_Bank_Name" value="Bank Name"/>
+    <text name="CM_Classifications_Accounts_Bank_Bic" value="BIC"/>
+    <text name="CM_Classifications_Accounts_Bank_Corr_Acc" value="Correspondent account"/>
+    <text name="CM_Classifications_Accounts_Code" value="Code"/>
+    <text name="CM_Classifications_Accounts_Name" value="Name"/>
+    <text name="CM_Classifications_Accounts_Currency" value="Currency"/>
+    <text name="CM_Classifications_Accounts_Treasure_Name" value="Treasure Name"/>
+    <text name="CM_Classifications_Accounts_Treasure_Code" value="Treasure Code"/>
+    <text name="CM_Classifications_Accounts_Financial_Code" value="Financial Code"/>
+    <text name="CM_Classifications_Accounts_Territorial_Code" value="Teritorial Code"/>
+    <text name="CM_Classifications_Accounts_Debit" value="Debit"/>
+    <text name="CM_Classifications_Accounts_Credit" value="Credit"/>
+    <text name="CM_Classifications_Accounts_Type" value="Type"/>
+    <text name="CM_Classifications_Accounts_Balance" value="Balance"/>
+
+    <text name="CM_Classifications_RejectDialog_Title" value="Please reject enter reason"/>
+    <text name="CM_Classifications_RejectDialog_Field" value="Enter reject reason"/>
+
+    <text name="CM_Classifications_Code" value="Code"/>
+    <text name="CM_Classifications_Name" value="Name"/>
+    <text name="CM_Classifications_Name_Tj" value="Tajik Name"/>
+    <text name="CM_Classifications_Name_Ru" value="Russian Name"/>
+    <text name="CM_Classifications_Name_En" value="English Name"/>
+
+
+    <text name="Security_Groups_GroupsGridPanel_GroupName_Column" value="Group Name"/>
+    <text name="Security_Groups_GroupsGridPanel_GroupDescription_Column" value="Group Description"/>
+    <text name="Security_Groups_GroupsFormPanel_Title" value="Create / Edit Group"/>
+    <text name="Security_Groups_GroupsFormPanel_GroupId_Label" value="Group ID"/>
+    <text name="Security_Groups_GroupsFormPanel_GroupName_Label" value="Name"/>
+    <text name="Security_Groups_GroupsFormPanel_GroupName_Status" value="Status"/>
+    <text name="Security_Groups_GroupsFormPanel_GroupDescription_Label" value="Description"/>
+    <text name="Security_Groups_GroupsFormPanel_Branch_Label" value="Branch"/>
+    <text name="Security_Groups_GroupsFormPanel_TabPanel_Users_Title" value="Users"/>
+    <text name="Security_Groups_GroupsFormPanel_TabPanel_Roles_Title" value="Roles"/>
+    <text name="Security_Groups_OperationSuccessMessage" value="Operation saved successfully!"/>
+    <text name="Security_Groups_GroupNameIsNotUnique" value="Group with same name is already registred!"/>
+    <text name="Security_Groups_GroupContaintsDifferentBranchRole" value="Role Should have same branch as Group!"/>
+    <text name="Security_Groups_CanNotChangeGroupBrach" value="Changing Existing Group's Branch is Permitted!"/>
+    <text name="Security_Dimensions_DimensionContainsDifferentBranchGroup" value="Group Should Have Same Branch as Dimension!"/>
+
+
+    <text name="Security_RolesGridPanel_Name_Column" value="Name"/>
+    <text name="Security_RolesGridPanel_DisplayName_Column" value="Display Name"/>
+    <text name="Security_RolesGridPanel_InGrouo_Column" value="Is in Group?"/>
+    <text name="Security_UsersGridPanel_FirstName_Column" value="First Name"/>
+    <text name="Security_UsersGridPanel_Surname_Column" value="Surname"/>
+    <text name="Security_UsersGridPanel_Email_Column" value="Email"/>
+    <text name="Security_UsersGridPanel_Phone_Column" value="Phone"/>
+    <text name="Security_UsersGridPanel_IsActive_Column" value="Is Active?"/>
+    <text name="Security_UsersGridPanel_InGroup_Column" value="Is in Group?"/>
+    <text name="Security_UserGroupsGridPanel_GroupName_Column" value="Group Name"/>
+    <text name="Security_UserGroupsGridPanel_GroupDescription_Column" value="Group Description"/>
+    <text name="Security_UserGroupsGridPanel_InGroup_Column" value="Is in Group?"/>
+    <text name="Security_UserPasswordResetWindow_Title" value="Reset User Passowrd"/>
+    <text name="Security_UserPasswordResetWindow_EnterPassword_Label" value="Enter Password"/>
+    <text name="Security_UserPasswordResetWindow_ConfirmPassword_Label" value="Confirm Password"/>
+    <text name="Security_UsersGridPanel_ResetPassowrd_ToolTip" value="Reset Password"/>
+    <text name="Security_UsersGridPanel_Username_Column" value="Username"/>
+    <text name="Security_UsersFormPanel_UserId_Label" value="User ID"/>
+    <text name="Security_UsersFormPanel_Username_Label" value="Username"/>
+    <text name="Security_UsersFormPanel_Email_Label" value="Email"/>
+    <text name="Security_UsersFormPanel_Phone_Label" value="Phone"/>
+    <text name="Security_UsersFormPanel_Surname_Label" value="Surname"/>
+    <text name="Security_UsersFormPanel_FirstName_Label" value="First Name"/>
+    <text name="Security_UsersFormPanel_Active_Label" value="Active"/>
+    <text name="Security_UsersFormPanel_TabPanel_Users_Title" value="Users"/>
+    <text name="Security_UsersFormPanel_TabPanel_Groups_Title" value="Groups"/>
+    <text name="Security_UsersFormPanel_Panel_Branches_Title" value="Branches"/>
+
+    <text name="Security_UsersGridPanel_Username_Toolbar_ImportSgbUsers_Button" value="Import SGB Users"/>
+    <text name="Security_SbgUsersGridPanel_Username_Column" value="User Name"/>
+    <text name="Security_SbgUsersGridPanel_Name_Column" value="Name"/>
+    <text name="Security_SbgUsersGridPanel_Surname_Column" value="Surname"/>
+    <text name="Security_SbgUsersGridPanel_EmailAddress_Column" value="Email Addr."/>
+    <text name="Security_SbgUsersGridPanel_PhoneNumber_Column" value="Phone Number"/>
+    <text name="Security_SbgUsersGridPanel_IsSelected_Column" value="Imported"/>
+
+
+
+    <text name="500_error_message" value="This page isn't working"/>
+    <text name="404_error_message" value="We can't find page you are looking for."/>
+    <text name="403_error_message" value="You don't have permission to access this page."/>
+    <text name="default_error_message" value="Something went wrong. Please contact a system administrator."/>
+
+    <text name="MI_ClassificationsAndMappings" value="Classifications &amp; Mappings"/>
+    <text name="MI_ClassificationsAndMappings_Mappings" value="Mappings"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_EconomicClassification" value="Economic Classification Mapper"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_FinancialClassification" value="Financial Classification Mapper"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_FunctionalClassification" value="Functional Classification Mapper"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_FundingSources" value="Funding Sources Mapper"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_InstitutionalClassification" value="Institutional Classification Mapper"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_TerritorialClassification" value="Territorial Classification Mapper"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_ExpenditureTypes" value="Expenditure Types Mapper"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_revenuetype_mapping" value="Revenue Types Mapper"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_programcode_mapping" value="Program Mapper"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_programcode" value="Program"/>
+    <text name="MI_ClassificationsAndMappings_ExpenditureDimensions" value="Expenditure Dimensions"/>
+    <text name="MI_ClassificationsAndMappings_ExpenditureDimensions_ExpenditureTypes" value="Expenditure Types"/>
+    <text name="MI_ClassificationsAndMappings_ExpenditureDimensions_FundingSources" value="Funding Sources"/>
+    <text name="MI_CashManagement_Expenditures_ExpenditureSortoutRules" value="Sort Out Rules"/>
+    <text name="MI_CashManagement_Expenditures_ExpenditureAutoSortout" value="Automate Sort Out"/>
+
+
+
+    <text name="MI_ClassificationsAndMappings_Dimensions" value="Dimensions"/>
+    <text name="MI_ClassificationsAndMappings_Dimensions_ExpenditureTypes" value="Expenditure Types"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries" value="Dictionaries"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries_Attribute" value="Attribute"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries_Categories" value="Categories"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries_ForcaststingMethods" value="Forcaststing Methods"/>
+    <text name="CM_ClassificationsAndMappings_ForecastingMethod" 	   value="Forecasting Method"/>
+    <text name="CM_ClassificationsAndMappings_ForecastingMethodCode" value="Forecasting Method Code"/>
+    <text name="CM_ClassificationsAndMappings_ForecastingMethodId"   value="Forecasting Method ID"/>
+
+
+    <text name="MI_ClassificationsAndMappings_Dictionaries_ForcaststingCategories" value="Forecaststing Categories"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries_ManagerOrganizations" value="Manager Organizations"/>
+
+
+    <text name="CM_Classifications_ForeсastingCat" value="Forecasting Categories"/>
+    <text name="CM_Classifications_ForecastingCatCode" value="Forecasting Category Code"/>
+    <text name="CM_Classifications_ForecastingCatId" value="Forecasting Category ID"/>
+    <!--<text name="CM_Classifications_Name" value="Name"/>
+    <text name="CM_Classifications_Name_Tj" value="Tajik Name"/>
+    <text name="CM_Classifications_Name_Ru" value="Russian Name"/>
+    <text name="CM_Classifications_Name_En" value="English Name"/>
+    <text name="CM_Classifications_Name_Tr" value="Turkey Name"/>-->
+
+    <text name="ClassificationsAndMappings_Mappings_Collapse_Previous_Year_Data" value="Collapse Previous Year Data"/>
+    <text name="ClassificationsAndMappings_Mappings_Expand_Previous_Year_Data" value="Expand Previous Year Data"/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping" value="Automatic Mapping"/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping_warning" value="All previous mappings will be removed!&lt;br&gt;Would you like to proceed?"/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping_progress" value="Automatic Mapping In Progress..."/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping_failure" value="Automatic Mapping failed!"/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping_success" value="Automatic Mapping completed successfully!"/>
+    <text name="ClassificationsAndMappings_Mappings_Saving" value="Saving..."/>
+    <text name="ClassificationsAndMappings_Mappings_Show_Unmapped_Only" value="Show Unmapped Only"/>
+
+    <text name="ClassificationsAndMappings_Mappings_Get_Mapping_Failure" value="Couldn't get mapping!"/>
+    <text name="ClassificationsAndMappings_Mappings_Save_Mapping_Failure" value="Couldn't save mapping!"/>
+    <text name="ClassificationsAndMappings_Mappings_Select_Node_Error" value="Please select current node!"/>
+
+    <text name="Error" value="Error"/>
+    <text name="Warning" value="Warning"/>
+    <text name="SUCCESSFULLY_SAVED" value="Document Successfully Saved"/>
+
+
+    <text name="LoginFailed" value="Не удалось войти в систему"/>
+    <text name="InvalidUserNameOrPassword" value="Неверное имя пользователя или пароль"/>
+
+    <text name="Main_North_Label_Operation_Day" value="Operational Day:"/>
+    <text name="Main_North_Label_Work_Period" value="Work Period:"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries_ExpenditureSortOutCategories" value="Expen. Sortout Categories"/>
+    <text name="CM_Classifications_ExpenditureCatId" value="ID Expenditure Categories"/>
+    <text name="CM_Classifications_ExpenditureCat" value="Expenditure Categories"/>
+
+    <text name="MI_CashManagement_Management_LimitMng" value="Limit Management"/>
+    <text name="MI_CashManagement_Management_LimitByOrganisation" value="Limit By Organisation"/>
+    <text name="MI_CashManagement_Management_ResourceMng" value="Addit. Resource Management"/>
+
+    <text name="Cash_Management_Expenditure_activeFrom"  value="Active From" />
+    <text name="Cash_Management_Expenditure_sortedData" value="Show Sorted Data"/>
+    <text name="Cash_Management_Expenditure_ClearFilters" value="Clear Filters"/>
+
+    <text name="BranchEnum.Global" value="Global"/>
+    <text name="BranchEnum.Organization" value="Organization"/>
+    <text name="BranchEnum.RevAdministrator" value="Rev. Administrator"/>
+
+
+
+
+    <text name="Work_Period_Date_Range_Validation" value="Unable to add work period.Start date must be less then end date!"/>
+    <text name="Work_Period_Previous_Value_Validation" value="Unable to add work period.Previous work period not found!"/>
+    <text name="Work_Period_Already_Exists_Validation" value="Unable to add work period.Work period with same name or year is already registred!"/>
+
+    <text name="BusinessProcessStatus_New" value="New"/>
+    <text name="BusinessProcessStatus_UnderProcessing" value="Under processing"/>
+    <text name="BusinessProcessStatus_Current" value="Current"/>
+    <text name="BusinessProcessStatus_ComplatedWithError" value="Complated with error"/>
+    <text name="BusinessProcessStatus_ComplatedWithSuccess" value="Complated with success"/>
+
+
+    <text name="Cm_BusinessProcessDashboard_Menu_Title" value="Business processes"/>
+    <text name="Cm_BusinessProcessDashboard_Topbar_Start" value="Start"/>
+    <text name="Cm_BusinessProcessDashboard_Topbar_Refresh" value="Refresh"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_Name" value="Name"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_Status" value="Status"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_StartDate" value="Start date"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_EndDate" value="End date"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_ErrorReport" value="Error report"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_ResponsibleAuthority" value="Responsible authority"/>
+
+
+    <text name="Cm_ResourcesDashboard" value="Resources"/>
+    <text name="Cm_BalancesDashboard" value="Balance"/>
+
+
+    <text name="CmBp.WorkPeriod" value="Work period"></text>
+    <text name="CmBp.OpeningYear" value="Opening year"></text>
+    <text name="CmBp.January" value="January"></text>
+    <text name="CmBp.February" value="February"></text>
+    <text name="CmBp.March" value="March"></text>
+    <text name="CmBp.April" value="April"></text>
+    <text name="CmBp.May" value="May"></text>
+    <text name="CmBp.June" value="June"></text>
+    <text name="CmBp.July" value="July"></text>
+    <text name="CmBp.August" value="August"></text>
+    <text name="CmBp.September" value="September"></text>
+    <text name="CmBp.October" value="October"></text>
+    <text name="CmBp.November" value="November"></text>
+    <text name="CmBp.December" value="December"></text>
+    <text name="CmBp.ClosingYear" value="ClosingYear"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers" value="Migration of internal classifiers"></text>
+    <text name="CmBp.SGBClassifiersImport" value="SGB classifier import"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers" value="Connection between classifiers"></text>
+    <text name="CmBp.RevenuePlanImport" value="Revenue plan import"></text>
+    <text name="CmBp.OpenYearPlanning" value="Opening year planning"></text>
+    <text name="CmBp.AcceptanceOfAnnualCashReceiptsPlans" value="Acceptance of annual cash receipts plans"></text>
+    <text name="CmBp.SGBBudgetImport" value="SGB budget import"></text>
+    <text name="CmBp.SGBImportOfAnnualCashPaymentPlans" value="SGB import of annual cash payment plans"></text>
+    <text name="CmBp.PreparationOfCombinedCashReceiptsPlan" value="Preparation of combined cash receipts plan"></text>
+    <text name="CmBp.ApprovalOfComprehensiveIncomeCashPlan" value="Approval of comprehensive income cash plan"></text>
+    <text name="CmBp.ClosingYearPlanning" value="Closing year planning"></text>
+    <text name="CmBp.OpeningMonthPlanning" value="Opening month planning"></text>
+    <text name="CmBp.ReceivingCashReceiptsForTheMonth" value="Receiving cash receipts for the month"></text>
+    <text name="CmBp.SGBBudgetImportMonth" value="SGB budget import for month"></text>
+    <text name="CmBp.ImportPaymentPlansForTheMonthOfPayments" value="Import payment plans for the month of payments"></text>
+    <text name="CmBp.PreparationOfCombinedCashReceiptsPlanMonth" value="Preparation of combined cash receipts plan for month"></text>
+    <text name="CmBp.ApprovalOfComprehensiveIncomeCashPlanMonth" value="Approval of comprehensive income cash plan for month"></text>
+    <text name="CmBp.ClosingMonthPlanning" value="Closing month planning"></text>
+
+
+
+    <text name="CmBp.MigrationOfInternalClassifiers_ForecastingMethod" value="Forecasting method"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_EconomicClassification" value="Economic classification"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_ExpenditureTypes" value="Expenditure types"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_FinancialClassifications" value="Financial classifications"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_FunctionalClassifications" value="Functional classifications"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_InstitucionalClassifications" value="Institucional classifications"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_Programs" value="Programs"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_RevenueTypes" value="Revenue types"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_TeritorialClassifications" value="Teritorial classifications"></text>
+
+
+
+    <text name="CmBp.SGBClassifiersImport_TerritorialUnit" value="Territorial units"></text>
+    <text name="CmBp.SGBClassifiersImport_Organizations" value="Organizations"></text>
+    <text name="CmBp.SGBClassifiersImport_ProgramClassifications" value="Program classifications"></text>
+    <text name="CmBp.SGBClassifiersImport_FinancialClassifications" value="Financial classifications"></text>
+    <text name="CmBp.SGBClassifiersImport_EconomicClassifications" value="Economic classifications"></text>
+    <text name="CmBp.SGBClassifiersImport_RevenueTypeClassifications" value="Revenue type classification"></text>
+    <text name="CmBp.SGBClassifiersImport_FunctionalClassifications" value="Geographic structure"></text>
+    <text name="CmBp.SGBClassifiersImport_ExpenditureTypes" value="Expenditure types"></text>
+    <text name="CmBp.ImportingInitialBalances" value="Importing initial balances"></text>
+
+
+
+    <text name="CmBp.ConnectionsBetweenClassifiers_EconomicClassificationMapper" value="Economic classification mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_ExpenditureTypesMapper" value="Expenditure types mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_FinancialClassificationMapper" value="Financial classification mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_FunctionalClassificationMapper" value="Functional classification mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_InstitutionalClassificationMapper" value="Institutional classification mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_ProgramMapper" value="Program mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_RevenueTypesMapper" value="Revenue types mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_TerritorialClassificationMapper" value="Territorial classification mapper"></text>
+
+
+
+
+
+
+    <text name="RevenueCashPlanStatusEnum.Draft" value="Draft"/>
+    <text name="RevenueCashPlanStatusEnum.Sent" value="Sent"/>
+    <text name="RevenueCashPlanStatusEnum.Approved" value="Approved"/>
+    <text name="RevenueCashPlanStatusEnum.Archive" value="Archive"/>
+    <text name="RevenueCashPlanStatusEnum.Accept" value="Accept"/>
+    <text name="RevenueCashPlanStatusEnum.Rejected" value="Rejected"/>
+
+
+
+    <text name="Copy_Document" value="Copy Document"/>
+    <text name="Accept" value="Accept"/>
+    <text name="Decline" value="Decline"/>
+    <text name="Status_History" value="Status History"/>
+    <text name="Send_Document" value="Send Document"/>
+    <text name="Revenue_Add_D" value="New File(Department)"/>
+    <text name="Revenue_Add_TA" value="New File(Analyst)"/>
+    <text name="File_View" value="View File"/>
+    <text name="Approve" value="Approve"/>
+    <text name="Submit" value="Submit"/>
+    <text name="Return" value="Return"/>
+    <text name="Reject" value="Reject"/>
+    <text name="Revert" value="Revert"/>
+    <text name="Confirm" value="Confirm"/>
+    <text name="Send" value="Send"/>
+
+
+    <text name="M01" value="Jan"/>
+    <text name="M02" value="Feb"/>
+    <text name="M03" value="Mar"/>
+    <text name="M04" value="Apr"/>
+    <text name="M05" value="May"/>
+    <text name="M06" value="Jun"/>
+    <text name="M07" value="Jul"/>
+    <text name="M08" value="Aug"/>
+    <text name="M09" value="Sep"/>
+    <text name="M10" value="Oct"/>
+    <text name="M11" value="Nov"/>
+    <text name="M12" value="Dec"/>
+    <text name="MI_CashManagement_Revenues_CashPlan" value="Revenue Cash Plan"/>
+
+    <text name="RevenueCashPlan.Tip" value="Choose at Least one option from Revenues/Payments to populate chart"/>
+    <text name="RevenueCashPlan.RegistryofCashPlans" value="Registry of cash plans"/>
+    <text name="RevenueCashPlan.Status" value="Status"/>
+    <text name="RevenueCashPlan.Name" value="Name"/>
+    <text name="RevenueCashPlan.DocNbr" value="DocNbr"/>
+    <text name="RevenueCashPlan.CreatorUserName" value="Creat or User Name"/>
+    <text name="RevenueCashPlan.LastModifierUserName" value="Last Modifier User Name"/>
+    <text name="RevenueCashPlan.CreationTime" value="Creation Time"/>
+    <text name="RevenueCashPlan.LastModificationTime" value="Last Modification Time"/>
+    <text name="RevenueCashPlan.Archive" value="Archive"/>
+    <text name="RevenueCashPlan.AnnualRegistryofCashPlans" value="Annual Registry of Cash Plans"/>
+    <text name="RevenueCashPlan.SentCashPlans" value="Sent Cash Plans"/>
+    <text name="RevenueCashPlan.RegistryofCompoundFiles" value="Registry of Compound Files"/>
+    <text name="RevenueCashPlan.TerritoryName" value="Territory Name"/>
+    <text name="RevenueCashPlan.FinancialName" value="Financial Name"/>
+    <text name="RevenueCashPlan.Amount" value="Amount"/>
+    <text name="RevenueCashPlan.Type" value="Type"/>
+    <text name="RevenueCashPlan.Fact" value=" Fact"/>
+    <text name="RevenueCashPlan.CashForecast" value="Cash Forecast"/>
+    <text name="RevenueCashPlan.NormilizedPlanIntrapolation" value="Normilized Plan(Intrapolation)"/>
+    <text name="RevenueCashPlan.CumulativeCashPlan" value="Cumulative Cash Plan"/>
+    <text name="RevenueCashPlan.CumulativeCashPlanTheLast" value="Cumulative Cash Plan The Last"/>
+    <text name="RevenueCashPlan.Difference" value="Difference"/>
+    <text name="RevenueCashPlan.AdminName" value="Admin Name"/>
+    <text name="RevenueCashPlan.TypeName" value="Type Name"/>
+    <text name="RevenueCashPlan.ConsolidatedCashPlan" value="Consolidated Cash Plan"/>
+    <text name="RevenueCashPlan.Resources" value="Resources"/>
+    <text name="RevenueCashPlan.DoYouWanttoDeleteRecord" value="Do You Want to Delete Record?"/>
+    <text name="RevenueCashPlan.DoYouWanttoSendRecord" value="Do you want to send document?"/>
+    <text name="RevenueCashPlan.InOrdertoAddNewDimension" value="In order to add new dimension combination please save document first. would you like to save it?"/>
+    <text name="RevenueCashPlan.RequiredFieldPleaseFill" value="Required Field, Please fill the finansial classification value"/>
+    <text name="RevenueCashPlan.DimensionWarning" value="Dimension with same territory and financial name is already added!"/>
+    <text name="RevenueCashPlan.DimensionWarningTitle" value="Warning"/>
+    <text name="RevenueCashPlan.AttentionPleasSaveDocumentBefore" value="Attention, Please save document before change dimensions combination"/>
+    <text name="RevenueCashPlan.ValidationErrorPleaseChooseatLeast" value="Validation Error, Please choose at least one cash plan"/>
+
+    <text name="CashManagmnet.LimitMng.DueDate" value="Due Date"/>
+    <text name="CashManagmnet.LimitMng.ReturnDate" value="Return Date"/>
+    <text name="CashManagmnet.LimitMng.DealOpeningDay" value="Deal Opening Day"/>
+    <text name="CashManagmnet.LimitMng.TerritoryId" value="Territory Id"/>
+    <text name="CashManagmnet.LimitMng.TerritoryCodeName" value="Territory name"/>
+    <text name="CashManagmnet.LimitMng.Budget" value="Budget"/>
+    <text name="CashManagmnet.LimitMng.RefreshData" value="Refresh Data"/>
+    <text name="CashManagmnet.LimitMng.ClearFilers" value="Clear Filters"/>
+    <text name="CashManagmnet.LimitMng.OperationType" value="Operation Type"/>
+    <text name="CashManagmnet.LimitMng.OperationSubType" value="Operation Sub-Type"/>
+    <text name="CashManagmnet.LimitMng.Amt" value="Amt"/>
+    <text name="CashManagmnet.LimitMng.Resource" value="Resource"/>
+    <text name="CashManagmnet.LimitMng.Details" value="Details"/>
+
+
+
+    <text name="Asset_Attribute_Name" value="Attribute Name"/>
+    <text name="Asset_Atomic" value="Atomic"/>
+    <text name="Asset_General_Setting" value="General Setting"/>
+    <text name="Asset_Data_Type" value="Data Type"/>
+    <text name="Asset_Attribute_Label_and_Validation" value="Attribute Label and Validation"/>
+    <text name="Asset_Required" value="Required"/>
+    <text name="Asset_Caption" value="Caption"/>
+    <text name="Asset_Validation_Message" value=" Validation Message"/>
+    <text name="Asset_Dictionary_Values" value="Dictionary Values"/>
+    <text name="Asset_Member_of_Category" value="Member of Category"/>
+    <text name="Asset_Category_Name" value="Category Name"/>
+    <text name="Asset_Is_Member" value="Is Member"/>
+    <text name="Asset_Add_Dictionary_Values" value="Add Dictionary Values"/>
+    <text name="Asset_Languages" value="Languages"/>
+    <text name="Asset_Delet_Confirmation" value="Delet Confirmation"/>
+    <text name="Asset_Sure_to_Delete_Record" value="Sure to Delete Record"/>
+    <text name="Asset_Operation_Status" value="Operation Status"/>
+    <text name="Asset_Record_has_Deleted_Successfully" value="Record has Deleted Successfully"/>
+    <text name="Asset_Add_Dictionary_Value_Before_Save" value="Add Dictionary Value Before Save"/>
+    <text name="Asset_Attribute_Saved" value="Attribute Saved"/>
+    <text name="Asset_Attribute-with-such-Name-Already-Exists" value="Attribute With Such Name Already Exists"/>
+    <text name="Asset_Is_Required" value="Is Required"/>
+    <text name="Asset_Masked_Field" value="Masked Field"/>
+
+
+
+
+
+    <text name="SgbUsersImportProblem" value="Sgb users import problem!"/>
+
+
+
+
+    <text name="MI_CM_Reserves_Reserves" value="Reserves"/>
+    <text name="MI_Cash_Management_Reserves_Reserves" value="Reserves"/>
+    <text name="Cm_Reserves_Reserve_Validation" value="Reserve not found!"/>
+    <text name="Cm_Reserves_Null_Params_Validation" value="Parameter can't be null!"/>
+    <text name="Cm_Reserves_Territory_Not_Found_Validation" value="Territory not found!"/>
+    <text name="Cm_Reserves_Institutional_Classification_Not_Found_Validation" value="Institutional classification not found!"/>
+    <text name="Cm_Reserves_Dates_Validation" value="Start date must be more then end date!"/>
+    <text name="Cm_Reserves_PeriodDates_Validation" value="Start period date must be more then end period date!"/>
+    <text name="Cm_Reserves_Amount_Validation" value="Amount can't be less then 0!"/>
+    <text name="Cm_Reserves_Territory_Exists_Validation" value="Territory with already exists under {0} work period!"/>
+    <text name="Cm_Reserves_Institutional_Classification_Exists_Validation" value="Institutional classification already exists under {0} work period!"/>
+    <text name="Cm_Reserves_Reload_Button_Tooltip" value="Reload"/>
+    <text name="Cm_Reserves_New_Button_Tooltip" value="Add"/>
+    <text name="Cm_Reserves_Delete_Button_Tooltip" value="Delete"/>
+    <text name="Cm_Reserves_Territory" value="Territorial unit"/>
+    <text name="Cm_Reserves_Orgnaization" value="Orgnaization"/>
+    <text name="Cm_Reserves_MinBalance" value="Min. balance"/>
+    <text name="Cm_Reserves_Id" value="Min. balance"/>
+    <text name="Cm_Reserves_ReserveAmount" value="Reserve amount"/>
+    <text name="Cm_Reserves_StartDate" value="Start date"/>
+    <text name="Cm_Reserves_EndtDate" value="End date"/>
+    <text name="Cm_Reserves_Tab1_Title" value="Min. balances for territory unit"/>
+    <text name="Cm_Reserves_Tab2_Title" value="Min. balances for budgetary organizations"/>
+    <text name="Cm_Reserves_OperationSuccessTitle" value="Operation status"/>
+    <text name="Cm_Reserves_OperationSuccessMessage" value="Operation complated successfully!"/>
+
+
+
+    <text name="RevenueCashPlan.ExecutionRevenueByQuarter" value="Execution Revenue"/>
+    <text name="RevenueCashPlan.ExpenditureCashPlanByQuarter" value="Expenditure CashPlan"/>
+    <text name="RevenueCashPlan.ExpenditureByQuarter" value="Expenditure "/>
+    <text name="RevenueCashPlan.TradeByQuarter" value="Trade"/>
+    <text name="RevenueCashPlan.ExpenditureLimitsByQuarter" value="Expenditure Limits"/>
+
+
+
+    <text name="TerritorialUnitFilterResource.Year" value="Year"/>
+    <text name="TerritorialUnitFilterResource.IQuarter" value="I Quarter"/>
+    <text name="TerritorialUnitFilterResource.IIQuarter" value="II Quarter"/>
+    <text name="TerritorialUnitFilterResource.IIIQuarter" value="III Quarter"/>
+    <text name="TerritorialUnitFilterResource.IVQuarter" value="IV Quarter"/>
+
+
+    <text name="TerritorialUnitFilterResourceValue.All" value="All"/>
+    <text name="TerritorialUnitFilterResourceValue.WithBalance" value="With balance"/>
+    <text name="TerritorialUnitFilterResourceValue.WithoutBalance" value="Without balance"/>
+
+
+    <text name="TerritorialUnitFilterResourceType.WithQuarterBudget" value="With quarterBudget"/>
+    <text name="TerritorialUnitFilterResourceType.WithCashPlan" value="With cashPlan"/>
+    <text name="TerritorialUnitFilterResourceType.WithLimit" value="With limit"/>
+
+
+    <text name="TerritorialUnitFilterBalance.Year" value="Year"/>
+    <text name="TerritorialUnitFilterBalance.Month" value="Month"/>
+    <text name="TerritorialUnitFilterBalance.Day" value="Day"/>
+
+
+    <text name="TerritorialUnitFilterBalanceValue.All" value="All"/>
+    <text name="TerritorialUnitFilterBalanceValue.WithBalance" value="With balance"/>
+    <text name="TerritorialUnitFilterBalanceValue.WithoutBalance" value="Without balance"/>
+
+    <text name="TerritorialUnitFilterBalanceType.WithCashPlan" value="With cashPlan"/>
+    <text name="TerritorialUnitFilterBalanceType.WithLimit" value="With limit"/>
+
+
+    <text name="TerritorialUnitBalancePeriod.Year" value="Year"/>
+    <text name="TerritorialUnitBalancePeriod.January" value="January"/>
+    <text name="TerritorialUnitBalancePeriod.February" value="February"/>
+    <text name="TerritorialUnitBalancePeriod.March" value="March"/>
+    <text name="TerritorialUnitBalancePeriod.April" value="April"/>
+    <text name="TerritorialUnitBalancePeriod.May" value="May"/>
+    <text name="TerritorialUnitBalancePeriod.June" value="June"/>
+    <text name="TerritorialUnitBalancePeriod.July" value="July"/>
+    <text name="TerritorialUnitBalancePeriod.August" value="August"/>
+    <text name="TerritorialUnitBalancePeriod.September" value="September"/>
+    <text name="TerritorialUnitBalancePeriod.October" value="October"/>
+    <text name="TerritorialUnitBalancePeriod.November" value="November"/>
+    <text name="TerritorialUnitBalancePeriod.December" value="December"/>
+
+    <text name="BudgetaryClassificationTypes.Consolidate" value="Consolidate Budget"/>
+    <text name="BudgetaryClassificationTypes.State" value="State Budget"/>
+    <text name="BudgetaryClassificationTypes.Local" value="Local Budget"/>
+
+    <text name="CashManagment_Resources_Chart_Filter_RevenueCashPlan" value="Revenue cash plan"/>
+    <text name="CashManagment_Resources_Chart_Filter_BalanceApplicableAtTheBeginningOfThePeriod" value="Balance applicable at the beginning of the period"/>
+    <text name="CashManagment_Resources_Chart_Filter_AdditionalResourceChange" value="Additional resource change"/>
+    <text name="CashManagment_Resources_Chart_Filter_ActualReceipts" value="Actual receipts"/>
+    <text name="CashManagment_Resources_Chart_Filter_Resource" value="Resource"/>
+    <text name="CashManagment_Resources_Chart_Filter_QuarterBudget" value="Quarter budget"/>
+    <text name="CashManagment_Resources_Chart_Filter_CashPaymentPlan" value="Cash payment plan"/>
+    <text name="CashManagment_Resources_Chart_Filter_Limits" value="Limits"/>
+    <text name="CashManagment_Resources_Chart_Filter_ActualPayments" value="Actual payments"/>
+
+
+    <text name="CashManagment_Resource_RevenueCashPlan" value="Cash plan"/>
+    <text name="CashManagment_Resource_Period" value="Period"/>
+    <text name="CashManagment_Resource_Revenues" value="Revenues"/>
+    <text name="CashManagment_Resource_Payments" value="Payments"/>
+    <text name="CashManagment_Resource" value="Resource"/>
+    <text name="CashManagment_Resource_TerritorialUnit" value="Ter.unit"/>
+
+
+    <text name="CashManagment_Balance_RevenueCashPlan" value="Cash plan"/>
+    <text name="CashManagment_Balance_Period" value="Period"/>
+    <text name="CashManagment_Balance_Revenues" value="Revenues"/>
+    <text name="CashManagment_Balance_Payments" value="Payments"/>
+    <text name="CashManagment_Balance_Resource" value="Resource"/>
+    <text name="CashManagment_Balance_TerritorialUnit" value="Ter.unit"/>
+
+
+
+    <text name="CashManagment_Balances_Chart_Filter_RevenueCashPlan" value="Revenue cash plan"/>
+    <text name="CashManagment_Balances_Chart_Filter_BalanceApplicableAtTheBeginningOfThePeriod" value="Balance applicable at the beginning of the period"/>
+    <text name="CashManagment_Balances_Chart_Filter_AdditionalResourceChange" value="Additional resource change"/>
+    <text name="CashManagment_Balances_Chart_Filter_ActualReceipts" value="Actual receipts"/>
+    <text name="CashManagment_Balances_Chart_Filter_Resource" value="Resource"/>
+    <text name="CashManagment_Balances_Chart_Filter_QuarterBudget" value="Quarter budget"/>
+    <text name="CashManagment_Balances_Chart_Filter_CashPaymentPlan" value="Cash payment plan"/>
+    <text name="CashManagment_Balances_Chart_Filter_Limits" value="Limits"/>
+    <text name="CashManagment_Balances_Chart_Filter_ActualPayments" value="Actual payments"/>
+    <text name="CashManagment_Balances_Chart_Filter_ObligationsICategory" value="I category obligations"/>
+    <text name="CashManagment_Balances_Chart_Filter_ObligationsIICategory" value="II category obligations"/>
+    <text name="CashManagment_Balances_Chart_Filter_ResourceObligationsICategory" value="Resource for I category obligations"/>
+    <text name="CashManagment_Balances_Chart_Filter_ResourceObligationsIICategory" value="Resource for II category obligations"/>
+
+    <text name="RevenueCashPlan.RevenueCashPlanByQuarter" value="Revenue CashPlan"/>
+    <text name="RevenueCashPlan.PleaseEnterCoefficient" value="Please Enter Coefficient"/>
+    <text name="RevenueCashPlan.PleaseSaveBefore" value="Please save document before"/>
+
+
+    <text name="CashManagment_Preferences_ExceptionManagment" value="Excaption managment"/>
+    <text name="CashManagment_Preferences_AnnualRevenueCashYearPlanPrepareTurnOnOff" value="Annual revenue cash plan prepare turn on/off"/>
+    <text name="CashManagment_Preferences_MonthlyRevenueCashYearPlanPrepareTurnOnOff" value="Monthly revenue cash plan prepare turn on/off"/>
+    <text name="CashManagment_Preferences_Name" value="Name"/>
+    <text name="CashManagment_Preferences_Jan" value="Jan"/>
+    <text name="CashManagment_Preferences_Feb" value="Feb"/>
+    <text name="CashManagment_Preferences_Mar" value="Mar"/>
+    <text name="CashManagment_Preferences_Apr" value="Apr"/>
+    <text name="CashManagment_Preferences_May" value="May"/>
+    <text name="CashManagment_Preferences_Jun" value="Jun"/>
+    <text name="CashManagment_Preferences_Jul" value="Jul"/>
+    <text name="CashManagment_Preferences_Aug" value="Aug"/>
+    <text name="CashManagment_Preferences_Sep" value="Sep"/>
+    <text name="CashManagment_Preferences_Oct" value="Oct"/>
+    <text name="CashManagment_Preferences_Nov" value="Nov"/>
+    <text name="CashManagment_Preferences_Dec" value="Dec"/>
+
+    <text name="RevenueCashPlan.QuarterBudget" value="Quarter Budget"/>
+
+
+    <text name="RevenueCashPlan_Balances_ExecutionRevenue" value="Execution revenue"/>
+    <text name="RevenueCashPlan_Balances_RevenueCashPlan" value="Revenue cash plan"/>
+    <text name="RevenueCashPlan_Balances_ExpenditureCashPlan" value="Expenditure cash plan"/>
+    <text name="RevenueCashPlan_Balances_ExpenditureLimits" value="Expenditure limits"/>
+    <text name="RevenueCashPlan_Balances_RevenueCashPlanExpLimit" value="Revenue cash plan exp. limit"/>
+    <text name="RevenueCashPlan_Balances_Resource" value="Resource"/>
+    <text name="RevenueCashPlan_Balances_Expenditure" value="Expenditure"/>
+    <text name="RevenueCashPlan_Balances_TheFirstCategoryLiability" value="The first category liability"/>
+    <text name="RevenueCashPlan_Balances_TheSecondCategoryLiability" value="The second category liability"/>
+    <text name="RevenueCashPlan_Balances_AvailableResourcesFirstCategoryLiability" value="Available resources first category liability"/>
+    <text name="RevenueCashPlan_Balances_AvailableResourcesSecondCategoryLiability" value="Available resources second category liability"/>
+
+
+    <text name="RevenueCashPlan_Resources_DataName" value="Date name"/>
+    <text name="RevenueCashPlan_Resources_AmtQuarter1" value="AmtQuarter1"/>
+    <text name="RevenueCashPlan_Resources_AmtQuarter2" value="AmtQuarter2"/>
+    <text name="RevenueCashPlan_Resources_AmtQuarter3" value="AmtQuarter3"/>
+    <text name="RevenueCashPlan_Resources_AmtQuarter4" value="AmtQuarter4"/>
+    <text name="Cm_revenuecashplan_Preferences" value="Preferences"/>
+
+
+
+
+
+
+
+
+    <text name="OperationType.RegistrationOfMainAsset" value="Registration of main asset"/>
+
+    <text name="OperationStatus.Draft" value="Draft"/>
+    <text name="OperationStatus.Approved" value="Approved"/>
+    <text name="OperationStatus.Confirmed" value="Confirmed"/>
+
+    
+    <text name="EntryType.Contract" value="Contract"/>
+    <text name="EntryType.AmountIssued" value="Amount issued"/>
+    <text name="EntryType.WithoutPreRegistration" value="Without pre registration"/>
+    <text name="EntryType.FinancialOperation" value="Financial operation"/>
+    <text name="EntryType.EntryAnAssetOfGiftBasis" value="Entry an asset of gift basis"/>
+    <text name="EntryType.EntryAnAssetWithTemporaryUse" value="Entry an asset with temporary use"/>
+    <text name="EntryType.EntryAnAssetWithTemporarySave" value="Entry an asset with temporary save"/>
+    <text name="EntryType.EntryAnAssetUnderLegalization" value="Entry an asset under legalization"/>
+    <text name="EntryType.EntryAnAssetUnderStatutoryAct" value="Entry an asset under statutory act"/>
+
+
+    <text name="AssetUsageDegree.UsageRestrictionsOrNoRightToRegister" value="Usage restrictions or no right to register"/>
+    <text name="AssetUsageDegree.OtherPersonRightIsRegistered" value="Other person right is registered"/>
+    <text name="AssetUsageDegree.Seizured" value="Seizured"/>
+
+    <text name="AssetType.Material" value="Material"/>
+    <text name="AssetType.NonMaterial" value="NonMaterial"/>
+
+
+
+    <text name="AssetDepreciationType.Depreciable" value="Depreciable"/>
+    <text name="AssetDepreciationType.NonDepreciable" value="NonDepreciable"/>
+
+    <text name="AssetOperation_StatusRestriction" value="Operation status must be {0}"/>
+    <text name="AssetOperation_Toolbar_Reject" value="Reject"/>
+    <text name="AssetOperation_Toolbar_Confirm" value="Confirm"/>
+    <text name="AssetOperation_Toolbar_Approve" value="Approve"/>
+    <text name="AssetOperation_Toolbar_Edit" value="Edit"/>
+    <text name="AssetOperation_Toolbar_Delete" value="Delete"/>
+    <text name="AssetOperation_Toolbar_Detail" value="Detail"/>
+
+
+    <text name="Asset_processing" value="processing ..."/>
+    <text name="AssetConfirmation_Complated" value="Operation complated succesfully!"/>
+    <text name="AssetConfirmation_Status" value="Operation status"/>
+    <text name="AssetConfirmation_Reject_Title" value="Reject confirmation"/>
+    <text name="AssetConfirmation_Reject_Message" value="Sure to reject operation?"/>
+    <text name="AssetConfirmation_Reject_Success" value="Operation has rejecred successfully"/>
+    <text name="AssetConfirmation_Doc_Upload" value="Before uploading primary documents please save operation!"/>
+
+    <text name="AssetConfirmation_Confirm_Title" value="Confirmation"/>
+    <text name="AssetConfirmation_Confirm_Message" value="Sure to confirm operation?"/>
+    <text name="AssetConfirmation_DocDelete_Message" value="Sure to delete document?"/>
+    <text name="AssetConfirmation_Confirm_Success" value="Operation has confirmed successfully"/>
+    <text name="AssetConfirmation_DocDelete_Success" value="Document deleted succesfully!"/>
+
+    <text name="AssetConfirmation_Approve_Title" value="Approve confirmation"/>
+    <text name="AssetConfirmation_Approve_Message" value="Sure to approve operation?"/>
+    <text name="AssetConfirmation_Approve_Success" value="Operation has approved successfully"/>
+
+    <text name="AssetConfirmation_Delete_Title" value="Delete confirmation"/>
+    <text name="AssetConfirmation_Delete_Message" value="Sure to delete operation?"/>
+    <text name="AssetConfirmation_Delete_Success" value="Operation has deleted successfully"/>
+    <text name="AssetConfirmation_DocUpload_Success" value="Document uploaded successfully"/>
+
+
+    <text name="Fa_ContractDetail_Not_Found_Validation" value="Contract detail not found!"/>
+    <text name="Fa_Operation_Not_Found_Validation" value="Operation not found!"/>
+    <text name="Fa_Operation_Null_Param_Validation" value="Parameter is null or undefined!"/>
+    <text name="Fa_Operation_Details_Not_Found_Validation" value="Operation not allowed. Operation details not defined!"/>
+    <text name="Fa_Operation_Attributes_Not_Found_Validation" value="Operation not allowed. Attributes not defined!"/>
+    <text name="Fa_Operation_Attribute_Details_Not_Found_Validation" value="Operation not allowed. Attributes details not defined!"/>
+    <text name="Fa_Attributes_Null_Param_Validation" value="Attribute details cant'be null!"/>
+    <text name="Fa_Attributes_Quentity_Param_Validation" value="Attribute quentity cant be less or equal then zero!"/>
+    <text name="Fa_Attributes_Revision_Param_Validation" value="If asset requires revision note cant'be empty!"/>
+    <text name="Fa_Attributes_Barcode_Param_Validation" value="Barcode can't be empty!"/>
+    <text name="Fa_Attributes_SerialNum_Param_Validation" value="Serial number can't be empty!"/>
+
+
+
+    <text name="Asset_SysNum" value="System number"/>
+    <text name="Asset_OperationType" value="Operation type"/>
+    <text name="Asset_EntryType" value="Entry type"/>
+    <text name="Asset_EntryGround" value="Entry ground"/>
+    <text name="Asset_EntryNumber" value="Entry number"/>
+    <text name="Asset_EntryDate" value="Entry date"/>
+    <text name="Asset_EntryDoc" value="Entry document"/>
+    <text name="Asset_ProvidedBy" value="Provided by"/>
+    <text name="Asset_PrimaryDoc" value="Primary doc."/>
+    <text name="Asset_CreateDate" value="Create date"/>
+    <text name="Asset_OperDate" value="Operation date"/>
+    <text name="Asset_Filtration" value="Filtration"/>
+    <text name="Asset_FormTitle" value="Main asset registration"/>
+
+
+    <text name="DebtAgreementStatusEnum.Ongoing" value="Ongoing"/>
+    <text name="DebtAgreementStatusEnum.Ended" value="Ended"/>
+
+    <text name="DebtTypeEnum.Internal" value="Internal"/>
+    <text name="DebtTypeEnum.External" value="External"/>
+
+    <text name="DebtAgreementStateEnum.Draft" value="Draft"/>
+    <text name="DebtAgreementStateEnum.Accepted" value="Accepted"/>
+
+
+    <text name="DebtScheduleOperationTypesEnum.Deposit" value="Deposit"/>
+    <text name="DebtScheduleOperationTypesEnum.Cover" value="Cover"/>
+    <text name="DebtScheduleOperationTypesEnum.PercentDeposit" value="PercentDeposit"/>
+    <text name="DebtScheduleOperationTypesEnum.PercentCover" value="PercentCover"/>
+
+    <text name="DebtScheduleRecordTypesEnum.Schedule" value="Schedule"/>
+    <text name="DebtScheduleRecordTypesEnum.Fact" value="Fact"/>
+
+
+    <text name="MI_LM_Perennial" value="Perennial"/>
+    <text name="MI_LM_DebtAgreements" value="Debt Agreements"/>
+
+    <text name="Lm_DebtAgreement_InvalidSchedules" value="Please fill both fact fields"/>
+
+    <text name="Lm_DebtAgreement_Grid_StatusName_Column" value="Status"/>
+    <text name="Lm_DebtAgreement_Grid_Number_Column" value="System Number"/>
+    <text name="Lm_DebtAgreement_Grid_StateName_Column" value="State"/>
+    <text name="Lm_DebtAgreement_Grid_DebtTypeName_Column" value="DebtTypeName"/>
+    <text name="Lm_DebtAgreement_Grid_Donor_Column" value="Donor"/>
+    <text name="Lm_DebtAgreement_Grid_CurrencyName_Column" value="CurrencyName"/>
+    <text name="Lm_DebtAgreement_Grid_InstitutionalClassificationName_Column" value="InstitutionalClassificationName"/>
+    <text name="Lm_DebtAgreement_Grid_StartDate_Column" value="StartDate"/>
+    <text name="Lm_DebtAgreement_Grid_EndDate_Column" value="EndDate"/>
+    <text name="Lm_DebtAgreement_Grid_Comment_Column" value="Comment"/>
+
+    <text name="Lm_DebtAgreement_Grid_FormPanel_Title" value="Debt Agreement Form"/>
+
+    <text name="Lm_DebtAgreement_GridFormPanel_Id_Label" value="System Number"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_DebtAgreementStatusId_Label" value="Debt Agreement Status"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_DebtAgreementStateId_Label" value="Debt Agreement State"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_DebtTypeId_Label" value="Debt Type"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_CurrencyId_Label" value="Currency"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_Donor_Label" value="Donor"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_InstitutionalClassificationId_Label" value="Institutions"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_StartDate_Label" value="StartDate"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_EndDate_Label" value="EndDate"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_Comment_Label" value="Comment"/>
+
+    <text name="Lm_DebtAgreement_DoYouWanttoDeleteRecord" value="Do You Want to Delete Record?"/>
+    <text name="Lm_DebtAgreement_DoYouWantToConfirmDebt" value="Do You Want to Confirm Debt?"/>
+
+    <text name="ContracStatusEnum.Draft" value="Draft"/>
+    <text name="ContracStatusEnum.Accept" value="Accept"/>
+    <text name="ContracStatusEnum.DeclinedByOrgMng" value="DeclinedByOrgMng"/>
+    <text name="ContracStatusEnum.AcceptedAndSentByOrgMng" value="AcceptedAndSentByOrgMng"/>
+    <text name="ContracStatusEnum.AcceptedAndSentSpecContractByTreasure" value="AcceptedAndSentSpecContractByTreasure"/>
+
+    <text name="ContracStatusEnum.DeclinedAndReturnSpecContractByTreasure" value="DeclinedAndReturnSpecContractByTreasure"/>
+    <text name="ContracStatusEnum.AcceptedAndSentLongTermContractByBudgDep" value="AcceptedAndSentLongTermContractByBudgDep"/>
+    <text name="ContracStatusEnum.DeclinedAndReturnLongTermContractByBudgDep" value="DeclinedAndReturnLongTermContractByBudgDep"/>
+    <text name="ContracStatusEnum.AcceptedObligationAndSentContractNextStepByTreasure" value="AcceptedObligationAndSentContractNextStepByTreasure"/>
+    <text name="ContracStatusEnum.DeclinedObligationAndReturnContractByTreasure" value="DeclinedObligationAndReturnContractByTreasure"/>
+    <text name="ContracStatusEnum.SentToSpa" value="SentToSpa"/>
+    <text name="ContracStatusEnum.PaperContract" value="PaperContract"/>
+    <text name="ContracStatusEnum.ActivatedContract" value="ActivatedContract"/>
+    <text name="ContracStatusEnum.ContractInProgress" value="ContractInProgress"/>
+    <text name="ContracStatusEnum.ContractInProblem" value="ContractInProblem"/>
+    <text name="ContracStatusEnum.Suspended" value="Suspended"/>
+    <text name="ContracStatusEnum.Completed" value="Completed"/>
+    <text name="ContracStatusEnum.Fulfilled" value="Fulfilled"/>
+    <text name="ContracStatusEnum.Terminated" value="Terminated"/>
+
+    <text name="ContractTypeEnum.TenderForm" value="Tender"/>
+    <text name="ContractTypeEnum.NonRegisteredAgreement" value="Non Registered Agreement"/>
+    <text name="MI_LM_Contract" value="Contracts"/>
+
+    <text name="Contract.Status" value="Status"/>
+    <text name="Contract.ContractInternalNbr" value="Internal Nbr"/>
+    <text name="Contract.ContractDate" value="Contract Date"/>
+    <text name="Contract.SupplierCode" value="Supplier Code"/>
+    <text name="Contract.IsLongTerm" value="Long Term"/>
+    <text name="Contract.ContractTotalAmt" value="Total Amt"/>
+    <text name="Contract.CurrencyName" value="Curr"/>
+    <text name="Contract.ContractAmtInLocalCurrency" value="Amt in Somon"/>
+    <text name="Contract.CreationTime" value="Creation Time"/>
+
+    <text name="Contract.Document.Somon_Amount_Sum" value="Amount sum in Somon"/>
+
+    <text name="Contract.Document.ContractType" value="Contract Type"/>
+    <text name="Contract.Document.TenderApplicationId" value="Tender Application"/>
+    <text name="Contract.Document.RightDocNbrId" value="Right Document"/>
+
+    <text name="Contract.Document.SupplierId" value="Supplier"/>
+    <text name="Contract.Document.Desc" value="Description"/>
+    <text name="Contract.Document.ChangeReason" value="Change Reason"/>
+
+
+
+
+
+    <text name="Contract.Positions.Grid.Title" value="Positions"/>
+
+    <text name="Position.Name" value="Position"/>
+    <text name="Position.Gfsm" value="Gfsm"/>
+    <text name="Position.Cpv" value="Cpv"/>
+    <text name="Position.MeasureUnit" value="Measure Unit"/>
+    <text name="Position.UnitQty" value="Unit Qty"/>
+    <text name="Position.UnitPrice" value="Unit Price"/>
+    <text name="Position.Price" value="Price"/>
+    <text name="Position.CreationTime" value="Creation Time"/>
+
+
+    <text name="RevenueCashPlan.UsableBalance" value="Usable Balance"/>
+    <text name="RevenueCashPlan.ResourcQuarterBudget" value="Resource Budget"/>
+
+    <text name="CmBp.SGBClassifiersImport_TerritorialUnits" value="Budget"/>
+    <text name="RevenueCashPlan_Balances_Trade" value="Trades"/>
+    <text name="RevenueCashPlan_Balances_UsableBalance" value="Usable Balance"/>
+
+
+
+    <text name="Operation_Template_Contract" value="Contract: #"/>
+    <text name="Operation_Template_Date" value="Date: "/>
+
+    <text name="Asset_Contract_Number" value="Contract #"/>
+    <text name="Asset_Contract_Date" value="Date"/>
+    <text name="Asset_Contract_TenderAppId" value="Tender #"/>
+    <text name="Asset_Contract_Amt" value="Amount"/>
+    <text name="Asset_Contract_SupplierCode" value="Supplier code"/>
+    <text name="Asset_Contract_SupplierName" value="Supplier name"/>
+
+    <text name="Asset_BarCode" value="Barcode"/>
+    <text name="Asset_Organization" value="Organization"/>
+    <text name="Asset_Position" value="Category"/>
+    <text name="Asset_PositionDesc" value="Position description"/>
+    <text name="Fund_Year" value="Fund year"/>
+    <text name="Asset_Cost" value="Cost"/>
+    <text name="Asset_BudgetCode" value="Budget code"/>
+    <text name="Asset_EcoCode" value="Eco code"/>
+    <text name="Asset_CpvCode" value="CPV code"/>
+    <text name="Asset_SerialNumber" value="Serial number"/>
+    <text name="Asset_OrgSubDivision" value="Organization Structure"/>
+    <text name="Asset_ResponsiblePerson" value="Responsible person"/>
+    <text name="Asset_Location" value="Location"/>
+    <text name="Asset_OperationDate" value="Operation date"/>
+    <text name="Asset_Type" value="Asset type"/>
+    <text name="Asset_UsageDegree" value="Usage degree"/>
+    <text name="Asset_DepreciationType" value="Depreciation type"/>
+    <text name="Asset_CategoryName" value="Category"/>
+    <text name="Asset_NonMaterialType" value="None material type"/>
+    <text name="Asset_LifeCycle" value="Useful Life"/>
+    <text name="Asset_Quantity" value="Quantity"/>
+    <text name="Asset_UnitPrice" value="Unit price"/>
+    <text name="Asset_RequiresRevision" value="needs revision"/>
+    <text name="Asset_Note" value="Note"/>
+    <text name="Asset_Details" value="Details"/>
+    <text name="Asset_Attributes" value="Attributes"/>
+    <text name="Asset_MainAssets" value="Main assets"/>
+    <text name="Asset_DetailsDefined" value="Details defined"/>
+    <text name="Asset_DetailsNotDefined" value="Details not defined"/>
+    <text name="Asset_TotalCount" value="Total count"/>
+    <text name="Asset_Imported" value="Imported"/>
+    <text name="Asset_Contribute" value="Contribute"/>
+    <text name="Asset_PositionDetails" value="Position details"/>
+    <text name="Asset_Select_Record" value="Please select record."/>
+    
+    <text name="Asset_Select_EntryType" value="Please select entry type."/>
+    <text name="Asset_Select_EntryDoc" value="Please select entry doc."/>
+    
+    <text name="Asset_Head_Notification" value="Please save head information before editing details."/>
+    <text name="Asset_Notification" value="Notification"/>
+    <text name="Asset_DeleteAttribute" value="Sure to delete attribute?"/>
+    <text name="Asset_AttributeDetails" value="Attribute details"/>
+    <text name="Asset_Toolbar_Add" value="Add"/>
+    <text name="Asset_Toolbar_SelectAll" value="Select all"/>
+    <text name="Asset_Toolbar_DeselectAll" value="Deselect all"/>
+
+    <text name="AddAndNew" value="Add And New"/>
+    <text name="AddAndClose" value="Add And Close"/>
+    <text name="MI_LM_ProcurementPlan" value="Procurement Plan"/>
+
+    <text name="ProcurementPlanStatusEnum.Draft" value="Draft"/>
+    <text name="ProcurementPlanStatusEnum.Approved" value="Approved"/>
+    <text name="ProcurementPlanStatusEnum.Sent" value="Sent"/>
+    <text name="ProcurementPlanStatusEnum.Accept" value="Accept"/>
+    <text name="ProcurementPlanStatusEnum.Decline" value="Decline"/>
+
+
+
+    <text name="ProcurementPlan.Status" value="Status"/>
+    <text name="ProcurementPlan.FundYear" value="Fund Year"/>
+    <text name="ProcurementPlan.CpvCodeId" value="Cpv Code"/>
+    <text name="ProcurementPlan.CatName" value="Position"/>
+    <text name="ProcurementPlan.UnitQty" value="Unit Qty"/>
+    <text name="ProcurementPlan.MeasureUnit" value="Unit"/>
+    <text name="ProcurementPlan.UnitPrice" value="Unit Price"/>
+    <text name="ProcurementPlan.Price" value="Price"/>
+    <text name="ProcurementPlan.Desc" value="Desc"/>
+    <text name="ProcurementPlan.CreationTime" value="Creation Time"/>
+    <text name="ProcurementPlan.EcoCodeId" value="Eco Code"/>
+    <text name="ProcurementPlan.CategoryId" value="Position"/>
+    <text name="ProcurementPlan.Priority" value="Priority"/>
+    <text name="ProcurementPlan.ContractValume" value="Contractted"/>
+    <text name="ProcurementPlan.FulfilledValume" value="Fulfilled"/>
+
+
+    <text name="ProcurementPlan.PriceSum" value="Sum of total price"/>
+
+    <text name="ProcurementPlan.AddInExistedGroup" value="Add Selected"/>
+    <text name="ProcurementPlan.CreateAndAddInIt" value="Create, Add Selected"/>
+    <text name="RevenueCashPlan.ValidationErrorPleaseChooseatLeastByAdmin" value="Validation Error, Please choose at least one cash plan under administrator"/>
+
+    <text name="RevenueCashPlan.Reserve" value="Reserve"/>
+    <text name="RevenueCashPlan_Balances_reserve" value="Reserve"/>
+
+
+
+
+    <text name="Lm_Manager_Orgnaization_Not_Found" value="Manager orgnaization not found!"/>
+    <text name="Lm_Primary_Doc_TotalCostVal" value="Amount in local currency and details cost sum is different"/>
+    <text name="Lm_Primary_Doc_Status_Validation" value="Operation not permitted because document status is't draft!"/>
+    <text name="Lm_Primary_Doc_Contract_Validation" value="Contract not found!"/>
+    <text name="Lm_Primary_Doc_Validation" value="Primary document can't be empty!"/>
+    <text name="Lm_Primary_Doc_StatusRestriction" value="Operation status must be {0}. Primary doc #{1}"/>
+    <text name="Lm_Primary_Doc" value="Primary documents"/>
+    <text name="Lm_Primary_Doc_Add" value="Add new primary document"/>
+    <text name="Lm_Primary_Doc_Save" value="Save primary document"/>
+    <text name="Lm_Primary_Doc_Edit" value="Edit existing primary document"/>
+    <text name="Lm_Primary_Doc_Delete" value="Delete existing primary document"/>
+    <text name="Lm_Primary_Doc_Approve" value="Approve primary document"/>
+    <text name="Lm_Primary_Doc_Confirm" value="Confirm primary document"/>
+    <text name="Lm_Primary_Doc_Reject" value="Reject primary document"/>
+    <text name="Lm_Primary_Doc_Refresh" value="Refresh"/>
+    <text name="Lm_Primary_Doc_Detail" value="View detail"/>
+    <text name="Lm_Primary_Doc_Number" value="Prim.Doc #"/>
+    <text name="Lm_Primary_Doc_Type" value="Type"/>
+    <text name="Lm_Primary_Doc_DocNumber" value="Doc #"/>
+    <text name="Lm_Primary_Doc_DocDate" value="Doc. Date"/>
+    <text name="Lm_Primary_Doc_Contract" value="Contract"/>
+    <text name="Lm_Primary_Doc_ContractNbr" value="Contract #"/>
+    <text name="Lm_Primary_Doc_ContractDate" value="Contract date"/>
+    <text name="Lm_Primary_Doc_Supplier" value="Supplier"/>
+    <text name="Lm_Primary_Doc_Amt" value="Amount"/>
+    <text name="Lm_Primary_Doc_Currency" value="Currency/Rate"/>
+    <text name="Lm_Primary_Doc_CurrencyRate" value="Currency rate"/>
+    <text name="Lm_Primary_Doc_AmtInLocalCurrency" value="Amount in local currency"/>
+    <text name="Lm_Primary_Doc_CreatetDate" value="Created date"/>
+    <text name="Lm_Primary_Doc_OperationDate" value="Operation date"/>
+    <text name="Lm_Primary_Doc_Details" value="Details"/>
+    <text name="Lm_Primary_Doc_OperationStatus" value="Operation status"/>
+    <text name="Lm_Primary_Doc_OperationComplated" value="Operation complated succesfully"/>
+    <text name="Lm_Primary_Doc_UploadRestriction" value="Before uploading document, please save primary document!"/>
+    <text name="Lm_Primary_Doc_DeleteConfirmation" value="Delete confirmation"/>
+    <text name="Lm_Primary_Doc_DeleteQuestion" value="Sure to delete primary document?"/>
+    <text name="Lm_Primary_Doc_DeleteSuccess" value="Primary document deleted succesfully!"/>
+    <text name="Lm_Primary_Doc_ApproveConfirmation" value="Approve confirmation"/>
+    <text name="Lm_Primary_Doc_ApproveQuestion" value="Sure to approve primary document?"/>
+    <text name="Lm_Primary_Doc_ApproveSuccess" value="Primary document has approved succesfully!"/>
+    <text name="Lm_Primary_Doc_Confirmation" value="Confirm"/>
+    <text name="Lm_Primary_Doc_ConfirmQuestion" value="Sure to confirm primary document?"/>
+    <text name="Lm_Primary_Doc_ConfirmSuccess" value="Primary document has confirm succesfully!"/>
+    <text name="Lm_Primary_Doc_RejectConfirmation" value="Reject confirmation"/>
+    <text name="Lm_Primary_Doc_RejectQuestion" value="Sure to reject primary document?"/>
+    <text name="Lm_Primary_Doc_RejectSuccess" value="Primary document has reject succesfully!"/>
+    <text name="Lm_Primary_Doc_Processing" value="Processing"/>
+    <text name="Lm_Primary_Doc_Delete_Detail_Confirmation" value="Delete confirmation"/>
+    <text name="Lm_Primary_Doc_Delete_Detail" value="Sure to delete primary document detail?"/>
+    <text name="Lm_Primary_Doc_Notification" value="Notification"/>
+    <text name="Lm_Primary_Doc_SelectRecord" value="Please select record"/>
+    <text name="Lm_Primary_Doc_DocDelete_Message" value="Sure to delete document?"/>
+    <text name="Lm_Primary_Doc_DocDelete_Success" value="Attachment deleted succefully"/>
+    <text name="Lm_Primary_Doc_Template_Contract" value="Contract: #"/>
+    <text name="Lm_Primary_Doc_Template_Date" value="Date: "/>
+    <text name="Lm_Primary_Doc_Position" value="Position"/>
+    <text name="Lm_Primary_Doc_BudgetCode" value="Budget code"/>
+    <text name="Lm_Primary_Doc_Gfms" value="Gfms code"/>
+    <text name="Lm_Primary_Doc_Cpv" value="Cpv code"/>
+    <text name="Lm_Primary_Doc_Count" value="Count"/>
+    <text name="Lm_Primary_Doc_Quentity" value="Quentity"/>
+    <text name="Lm_Primary_Doc_Imported" value="Imported"/>
+    <text name="Lm_Primary_Doc_Contribute" value="Contribute"/>
+    <text name="Lm_Primary_Doc_UnitPrice" value="Unit price"/>
+    <text name="Lm_Primary_Doc_Cost" value="Cost"/>
+    <text name="Lm_Primary_Doc_ContactNumber" value="Contract number"/>
+    <text name="Lm_Primary_Doc_ContactDate" value="Contract date"/>
+    <text name="Lm_Primary_Doc_Tender" value="Tender #"/>
+    <text name="Lm_Primary_Doc_SupplierCode" value="Supplier code"/>
+    <text name="Lm_Primary_Doc_SupplierName" value="Supplier name"/>
+    <text name="Lm_Primary_Doc_ToolbarAdd" value="Add item(s)"/>
+    <text name="Lm_Primary_Doc_ToolSelectAll" value="Select all items"/>
+    <text name="Lm_Primary_Doc_ToolDeSelectAll" value="Deselect all items"/>
+
+
+
+    <text name="DocumentType.Invoice" value="Invoice"/>
+    <text name="DocumentType.DeliveryAct" value="Delivery Act"/>
+
+
+    <text name="DocumentStatus.Draft" value="Draft"/>
+    <text name="DocumentStatus.Approved" value="Approved"/>
+    <text name="DocumentStatus.Confirmed" value="Confirmed"/>
+
+    <text name="ContractPermitStatus.Draft" value="Draft"/>
+    <text name="ContractPermitStatus.Approved" value="Approved"/>
+    <text name="ContractPermitStatus.Sent" value="Sent"/>
+    <text name="ContractPermitStatus.Confirmed" value="Confirmed"/>
+    <text name="ContractPermitStatus.Rejected" value="Rejected"/>
+    <text name="ContractPermitStatus.Archived" value="Archived"/>
+
+
+
+    <text name="Contract.Selector.FundYear" value ="Fund year"></text>
+    <text name="Contract.Selector.Position" value ="Position"></text>
+    <text name="Contract.Selector.EcoCode" value ="Eco code"></text>
+    <text name="Contract.Selector.CpvCode" value ="Cpv code"></text>
+    <text name="Contract.Selector.Quentity" value ="Quentity"></text>
+    <text name="Contract.Selector.MeasureUnit" value ="Measure unit"></text>
+    <text name="Contract.Selector.UnitPrice" value ="Unit price"></text>
+
+    <text name="Lm_Primary_MultiYearPermit_FrontOffice" value="Contract permits (front office)"/>
+    <text name="Lm_Primary_MultiYearPermit_BackOffice" value="Contract permits (back office)"/>
+    <text name="Lm_Primary_MultiYearPermit_Validation" value="Multi year permit can't be empty!"/>
+    <text name="Lm_Primary_MultiYearPermit_StatusRestriction" value="Contract permit status must be {0}.Doc #{1}"/>
+    <text name="Lm_Primary_MultiYearPermit_Status_Validation" value="Operation not permitted because document status is't draft!"/>
+
+    <text name="Lm_Primary_MultiYearPermit_CurrentYearBudget" value="Current year budget"/>
+    <text name="Lm_Primary_MultiYearPermit_SystemNbr" value="System #"/>
+    <text name="Lm_Primary_MultiYearPermit_PermitDate" value="Permit date"/>
+    <text name="Lm_Primary_MultiYearPermit_Description" value="Description"/>
+    <text name="Lm_Primary_MultiYearPermit_ChangeNote" value="Change note"/>
+    <text name="Lm_Primary_MultiYearPermit_Schedule" value="Shcedule"/>
+    <text name="Lm_Primary_MultiYearPermit_Organization" value="Organization"/>
+    <text name="Lm_Primary_MultiYearPermit_Amt" value="Amount"/>
+    <text name="Lm_Primary_MultiYearPermit_AgreedAmt" value="Agreed amount"/>
+    <text name="Lm_Primary_MultiYearPermit_FundingPeriod" value="Funding period"/>
+    <text name="Lm_Primary_MultiYearPermit_Duration" value="Duration(year)"/>
+    <text name="Lm_Primary_MultiYearPermit_StartPeriod" value="Start period"/>
+    <text name="Lm_Primary_MultiYearPermit_EndPeriod" value="End period"/>
+    <text name="Lm_Primary_MultiYearPermit_CreateDate" value="Create date"/>
+    <text name="Lm_Primary_MultiYearPermit_ConfirmDate" value="Confirm date"/>
+    <text name="Lm_Primary_MultiYearPermit" value="Multi year contract permit"/>
+
+    <text name="Cam_ManagerOrgMapping_ManagerOrganization_TaxCode" value="Tax Code"/>
+    <text name="Cam_ManagerOrgMapping_ManagerOrganization_Name" value="Name"/>
+
+    <text name="Lm_ManagerOrgStructure" value="Organization structure"/>
+    <text name="Lm_ManagerOrgStructure_Locations" value="Location"/>
+    <text name="Lm_ManagerOrgStructure_ResponsiblePersons" value="Responsible person"/>
+    <text name="Lm_ManagerOrgStructure_StructuralSubdivisionName" value="Structural subdivision name"/>
+    <text name="Lm_ManagerOrgStructure_TerritoryName" value="Territory name"/>
+    <text name="Lm_ManagerOrgStructure_Region" value="Region"/>
+    <text name="Lm_ManagerOrgStructure_Address" value="Address"/>
+    <text name="Lm_ManagerOrgStructure_Details" value="Details"/>
+    <text name="Lm_ManagerOrgStructure_GpsLocation" value="Gps location"/>
+    <text name="Lm_ManagerOrgStructure_Position" value="Position"/>
+    <text name="Lm_ManagerOrgStructure_Active" value="Is active"/>
+    <text name="Lm_ManagerOrgStructure_PrimaryNbr" value="Primary number"/>
+    <text name="Lm_ManagerOrgStructure_FirstName" value="First name"/>
+    <text name="Lm_ManagerOrgStructure_LastName" value="Last name"/>
+    <text name="Lm_ManagerOrgStructure_Note" value="Note"/>
+    <text name="Lm_ManagerOrgStructure_DivisionValidation" value="Parent division and subdivison can't be same"/>
+    <text name="Lm_ManagerOrgStructure_LocationNotFoundValidation" value="Location not found!"/>
+    <text name="Lm_ManagerOrgStructure_ManagerOrganizationValidation" value="Manager organization not found!"/>
+    <text name="Lm_ManagerOrgStructure_ManagerOrganizationStructureValidation" value="Manager organization structure not found!"/>
+    <text name="Lm_ManagerOrgStructure_TerritoryValidation" value="Territory not found!"/>
+    <text name="Lm_ManagerOrgStructure_ResponsiblePersonValidation" value="Responsible person not found!"/>
+
+    <text name="ManagerOrganizations.DoYouWantToDeleteRecord" value="Do You Want To Delete Record?"/>
+
+
+    <text name="Delete_Confirmation" value="Delete confirmation"/>
+    <text name="Delete_Confirmation_Question" value="Sure to delete selected item?"/>
+    <text name="Delete_Confirmation_Message" value="Data deleted succesfully."/>
+    <text name="Operation_Status" value="Operation status"/>
+    <text name="Operation_Msg" value="Operation complated succesfully"/>
+    <text name="Processing" value="Processing ..."/>
+
+
+
+    <text name="Debit_Agrement_Form_System_Num" value="N."/>
+    <text name="Debit_Agrement_Form_Organization" value="Organization"/>
+    <text name="Debit_Agrement_Form_Debit_Type" value="Type of Debt"/>
+    <text name="Debit_Agrement_Form_Open_Date" value="Debt Start"/>
+    <text name="Debit_Agrement_Form_Donor" value="Donor"/>
+    <text name="Debit_Agrement_Form_Close_Date" value="Debt End"/>
+    <text name="Debit_Agrement_Form_Currency" value="Currency"/>
+    <text name="Debit_Agrement_Form_Money" value="Amount"/>
+    <text name="Debit_Agrement_Form_Note" value="Comment"/>
+    <text name="Lm_DebtAgreement_DocumentNumber" value="Document Number"/>
+    <text name="Lm_DebtAgreement_DocumentDate" value="Document Date"/>
+    <text name="Lm_DebtAgreement_DocumentFolderNumber" value="Document Folder Number"/>
+    <text name="Lm_DebtAgreement_ConfirmDebtAgreementReverting" value="Do You Want To Revert This Debt To Draft?"/>
+
+
+    <text name="Debit_Agrement_Fact" value="Fact"/>
+
+    <text name="Debit_Agrement_Table" value="Table"/>
+
+    <text name="Debit_Agrement_F2_Type" value="Operation Type"/>
+    <text name="Debit_Agrement_F2_Date" value="Date"/>
+    <text name="Debit_Agrement_F2_Money" value="Money"/>
+    <text name="Debit_Agrement_F2_Accaunt" value="Account"/>
+
+    <text name="Debit_Agrement_Table_RecordType" value="Type(Schedule/Fact)"/>
+    <text name="Debit_Agrement_Table_OperationType" value="Operation Type"/>
+    <text name="Debit_Agrement_Table_Probable_Money" value="Scheduled Money"/>
+    <text name="Debit_Agrement_Table_Probable_Date" value="Scheduled Date"/>
+    <text name="Debit_Agrement_Table_Paid_Amount" value="Paid Money"/>
+    <text name="Debit_Agrement_Table_Paid_Date" value="Paid Date"/>
+    <text name="Debit_Agrement_Table_Payment_Account" value="Payment Account"/>
+
+    <text name="Lm_DebtAgreement_ScheduleTableTitle" value="Debt Schedules/Payments"/>
+
+
+
+    <text name="MI_LM_Oblication" value="Obligation"/>
+    <text name="ExpCategoryEnum.FirstCategory" value="| Category"/>
+    <text name="ExpCategoryEnum.SecondCategory" value="|| Category"/>
+    <text name="ExpCategoryEnum.ThirdCategory" value="||| Category"/>
+
+    <!--OBLIGATIONS -->
+    
+    <text name="ObligationDocumentTypeEnum.Contract" value="Contract"/>
+    <text name="ObligationDocumentTypeEnum.Statement" value="Statement"/>
+    <text name="ObligationDocumentTypeEnum.DebtContract" value="Debt Contract"/>
+    <text name="ObligationDocumentTypeEnum.NormativeAct" value="Normative Act"/>
+    <text name="ObligationDocumentTypeEnum.Other" value="Other"/>
+
+    <text name="Obligation_CreationTime" value="Obligation Date"/>
+    <text name="Obligation_ObligationDate" value="Obligation Date"/>
+    <text name="Obligation_ObligationDocumentTypeName" value="Obligation Document"/>
+    <text name="Obligation_ObligationDocNbr" value="Obligation Doc. Nbr"/>
+    <text name="Obligation_ObligationDocDate" value="Obligation Doc. Date"/>
+    <text name="Obligation_ExpCategoryName" value="Exp. Category Name"/>
+    <text name="Obligation_EconomicClassificationName" value="Economic Code"/>
+    <text name="Obligation_SupplierName" value="Supplier Name"/>
+    <text name="Obligation_ObligationAmt" value="Obligation Amt"/>
+    <text name="Obligation_AdditInfo" value="Addit. Info"/>
+    <text name="Obligation_ApproveDate" value="Approve Date"/>
+    <text name="Obligation_TotalAmount" value="Total Amount"/>
+    <text name="Obligation_Position" value="Position"/>
+    
+    <text name="Obligation_TotalAmountByManagerOrgAndYear" value="Total Amount by Manager Organization and current(system) year"/>
+
+    
+    <text name="Obligation_DetailDistributionForm" value="Distribution Form"/>
+    
+    <text name="Obligation_MaximumPositionAmount" value="Maximum Position Amount"/>
+    <text name="Obligation_PositionAmountToDistribute" value="Amount To Distribute"/>
+    <text name="Obligation_PositionDistributedAmount" value="Distributed Amount"/>
+    <text name="Obligation_ToBeDistributed" value="To Be Distributed"/>
+    <text name="Obligation_UnitPrice" value="Unit Price"/>
+
+    <text name="ObligationDetail_IsDistributed" value="Is Distributed"/>
+    <text name="ObligationDetail_Position" value="Position"/>
+    <text name="ObligationDetail_EconomicCode" value="Economic Code"/>
+    <text name="ObligationDetail_ExpenditureCategory" value="Expenditure Category"/>
+    <text name="ObligationDetail_OrganizationCode" value="OrganizationCode"/>
+    <text name="ObligationDetail_FinancingSource" value="Financing Source"/>
+    <text name="ObligationDetail_ProgramClassification" value="Program Classification"/>
+    <text name="ObligationDetail_FunctionalClassification" value="Functional Classification"/>
+    <text name="ObligationDetail_Price" value="Price"/>
+    <text name="ObligationDetail_Amount" value="Amount"/>
+    <text name="ObligationDetail_UnitQty" value="Unit Qty"/>
+    
+    
+    <text name="ObligationDetail_PaymentDate" value="Payment Date"/>
+    <text name="ObligationDetail_PaymentDateCount" value="Payment Date Count"/>
+    
+    <text name="ObligationDetail_DistributionId" value="Distribution #."/>
+    <text name="ObligationDetail_TotalAmount" value="Total Amount"/>
+    <text name="ObligationDetail_ToBeDistributed" value="To Be Distribtued"/>
+    <text name="ObligationDetail_FirstQuarter" value="I Quarter Resource"/>
+    <text name="ObligationDetail_SecondQuarter" value="II Quarter Resource"/>
+    <text name="ObligationDetail_ThirdQuarter" value="III Quarter Resource"/>
+    <text name="ObligationDetail_FourthQuarter" value="IV Quarter Resource"/>
+    
+    
+    <text name="Grouped" value="Grouped"/>
+    <text name="Detailed" value="Detailed"/>
+    
+    <text name="ObligationDetail_BudgetRevenueName" value="Budget Submission"/>
+    <text name="ObligationDetail_InstClassificationName" value="Org. Code"/>
+    <text name="ObligationDetail_FinancialClassificationName" value="Fin. Source"/>
+    <text name="ObligationDetail_ProgramClassificationName" value="Prog. Code"/>
+    <text name="ObligationDetail_ContractPostionName" value="Position"/>
+    <text name="ObligationDetail_ObligationAmt" value="Amount"/>
+    <text name="Obligation_ObligationDocName" value="Doc. Name"/>
+
+
+
+    <text name="ObligationStatusEnum.Draft" value="Draft"/>
+    <text name="ObligationStatusEnum.Approved" value="Approved"/>
+    <text name="ObligationStatusEnum.Sent" value="Sent"/>
+    <text name="ObligationStatusEnum.Accept" value="Accept"/>
+    <text name="ObligationStatusEnum.Decline" value="Decline"/>
+    <text name="ObligationStatusEnum.Rejected" value="Rejected"/>
+    <text name="Obligation_ChangeExpenditureCategory" value="Change Exp. Category"/>
+    <text name="Obligation_NewVersion" value="New Version"/>
+    <text name="ObligationDetail_ChangeNbr" value="#"/>
+    <text name="MI_LM_Oblication_BackOffice" value="Obligation(Backoffice)"/>
+
+
+
+    <text name="PackageDetailsStatus.Current" value="Current"/>
+    <text name="PackageDetailsStatus.PerformedForPackagePurposes" value="Performed for package purposes"/>
+
+    <text name="PackageOperationStatus.Draft" value="Draft"/>
+    <text name="PackageOperationStatus.Submitted" value="Submitted"/>
+    <text name="PackageOperationStatus.Approved" value="Approved"/>
+    <text name="PackageOperationStatus.Rejected" value="Rejected"/>
+    <text name="PackageOperationStatus.Archived" value="Archived"/>
+
+    <text name="PackageStatus.Planned" value="Planned"/>
+    <text name="PackageStatus.Active" value="Active"/>
+    <text name="PackageStatus.Completed" value="Completed"/>
+
+    <text name="Lm_Contract_Packages_StatusRestriction" value="Contract package status must be {0}.Doc #{1}"/>
+    <text name="Lm_Contract_Packages_Validation" value="Contract package can't be empty!"/>
+    <text name="Lm_Contract_Packages_Reject_Validation" value="Reject reason can't be empty!"/>
+    <text name="Lm_Contract_Packages_Date_Validation" value="Project end date must be greater then project start date"/>
+    <text name="Lm_Contract_Packages_Detail_Contract_Validation" value="Contracts into package cannot be repeated"/>
+    <text name="Lm_Contract_Packages_Detail_Contract_Validation1" value="Contract {0} is already used into #{1} package"/>
+    <text name="Lm_Contract_Packages_Status_Validation" value="Operation not permitted because document status is't new!"/>
+    <text name="Lm_Contract_Packages_FrontOffice" value="Registry (Front-Office)"/>
+    <text name="Lm_Contract_Packages_BackOffice" value="Registry (Back-Office)"/>
+    <text name="Lm_Contract_Packages_PackageStatus" value="Package status"/>
+    <text name="Lm_Contract_Packages_Status" value="Status"/>
+    <text name="Lm_Contract_Packages_Contract" value="Contract number/date"/>
+    <text name="Lm_Contract_Packages_Nbr" value="System #"/>
+    <text name="Lm_Contract_Packages_Name" value="Name"/>
+    <text name="Lm_Contract_Packages_StartDate" value="Start date"/>
+    <text name="Lm_Contract_Packages_EndDate" value="End date"/>
+    <text name="Lm_Contract_Packages_CreatedDate" value="Created date"/>
+    <text name="Lm_Contract_Packages_Count" value="Contract count"/>
+    <text name="Lm_Contract_Packages_ComplatedContracts" value="Complited contracts"/>
+    <text name="Lm_Contract_Packages_TotalBudget" value="Total budget"/>
+    <text name="Lm_Contract_Packages_AssimilatedBudget" value="Assimilated budget"/>
+    <text name="Lm_Contract_Packages_OperationDate" value="Operate date"/>
+    <text name="Lm_Contract_Packages_ChangeNote" value="Change note"/>
+    <text name="Lm_Contract_Packages_Description" value="Description"/>
+    <text name="Lm_Contract_Packages_RejectReason" value="Reason"/>
+    <text name="Lm_Contract_Packages_Orgnaization" value="Organization"/>
+    <text name="Lm_Contract_Packages" value="Contract packages"/>
+    <text name="Lm_Contract_Packages_Detail" value="Contract package details"/>
+
+
+    <text name="rocurementPlan.Priority" value="Priority"/>
+    <text name="ProcurementPlan_groupComboBox_Name" value="აარჩიეთ არსებული ჯგუფი ან შეიყვანეთ ახალი ჯგუფის სახელი"/>
+    <text name="ProcurementPlan_groupWindow_title" value="ჯგუფში დამატება"/>
+    <text name="ProcurementPlan_Group_Name" value="ჯგუფი:"/>
+
+
+
+
+
+
+    <text name="ResourcePeriodicity.M3" value="3 month"/>
+    <text name="ResourcePeriodicity.M6" value="6 month"/>
+    <text name="ResourcePeriodicity.M9" value="9 month"/>
+    <text name="ResourcePeriodicity.Annual" value="Annual"/>
+
+
+    <text name="Lm_Resource_Front_Office" value="Resource (front office)"/>
+    <text name="Lm_Resource_Back_Office" value="Resource (back office)"/>
+
+
+    <text name="Lm_Contract_NewVersion_NotAllowed" value="Create new version is not allowed from this contract"/>
+    <text name="Lm_Sure_Create_NewVersion" value="Sure to add new version?"/>
+    <text name="Lm_Add_new_version_confirmation" value="Sure to add new version?"/>
+    <text name="It_is_the_latest_version" value="It is the latest version"/>
+    <text name="It_is_the_oldest_version" value="It is the oldest version"/>
+    <text name="MI_LM_Spec_Contract" value="Spec Contracts"/>
+    <text name="LM_Contract_Spec_Options" value="Spec Contracts Optrions"/>
+
+    <text name="LM_Contract_Spec_Options_DocumentDate" value="Spec Contract Date"/>
+    <text name="LM_Contract_Spec_Options_DocumentNumber" value="Spec Contract Number"/>
+    <text name="LM_Contract_Spec_Options_IsSpecContract" value="Spec Contract" />
+    <text name="LM_Contract_Spec_Options_NeensTreasuryConfirm" value="Needs Treasury Confirm"/>
+    <text name="LM_Contract_Spec_Options_NeedsBudgetDepConfirm" value="Needs Budg Dep Confirm"/>
+    <text name="LM_Contract_Changing_SPA_Confirmation_Prompt" value="Checking SPA confirmation will change contract's type to TENDER"/>
+    <text name="LM_Contract_Spec_Options_NeedsSpaConfirm" value="Needs SPA Confirm"/>
+    <text name="LM_CONTRACT_NOT_ALLOW_TO_CHANGE_SPECIAL_FLAGS" value="Change the Spec Contract and Needs Treasury Confirm filds' value is not allowed"/>
+
+    <text name="LM_CONTRACT_SPEC_CONTRACT_REQUIRES_DATE_AND_NUMBER" value="Spec Contract Needs Date And Number"/>
+
+
+    <text name="LM_CONTRACT_CONTRACT_IS_NOT_SPEC" value="Contract is not Spec"/>
+    <text name="LM_CONTRACT_CONTRACT_DOES_NOT_NEED_BUDGET_CONFIRM" value="non long term Contracts dont need budget dep. confirmation"/>
+    <text name="LM_CONTRACT_CONTRACT_DOES_NOT_NEED_SPA_CONFIRM" value="non tender Contracts dont need SPA confirmation"/>
+    <text name="LM_CONTRACT_NOT_ALLOW_TO_CHANGE_SPECIAL_FLAGS_CURRENT_STATUS" value="Contract status prohibits such changes"/>
+    <text name="MI_LM_Contract_Backoffice" value="Contracts Registry Back Office"/>
+
+    <text name="LM_CONTRACT_WARNING_PROCPLANGROUP_ALREADY_USED" value="Current proc plan group already was sent"/>
+    <text name="Please_enter_a_decline_reason" value="Please enter a reason"/>
+
+    <text name="CONTRACT_WAITING_ACCEPTANCE_FROM_TEASURY_SPEC_REGISTRY" value="Contract waiting acceptance from teasury(specregistry)"/>
+    <text name="CONTRACT_WAITING_ACCEPTANCE_FROM_BUDG_DEP_LONG_TERM_CONTRACT_WITH_NUMBER" value="Contract waiting acceptance from budg dep(contract permit registry). Contract internal nbr:"/>
+    <text name="CONTRACT_WAITING_ACCEPTANCE_FROM_TREASURY_OBLIGATION_REGISTRY" value="Contract waiting acceptance from treasury(obligation registry)"/>
+    <text name="CONTRACT_WAITING_ACCEPTANCE_FROM_SPA" value="Contract waiting acceptance from SPA"/>
+    <text name="LM_CAN_NOT_ACCEPT_DUE_TO_NOT_FOUND_CORRESPONDING_CONTRACT" value="Can not accept due to not found corresponding contract"/>
+    <text name="CONTRACT_IN_ORDER_TO_ACTIVATE_CONTRACT_PLEASE_INDICATE_SUPPLIER" value="In order to activate contract please indicate supplier"/>
+    <text name="CONTRACT_IN_ORDER_COMPLETE_ACTION_PLEASE_CHANGE_CONTRACT_STATUS_RESPECTIVLLY" value="In order complete action, please change contract status respectivlly"/>
+
+    <text name="contractInProblem_btn" value="Problem"/>
+    <text name="suspend_btn" value="Suspend"/>
+    <text name="fulfille_btn" value="Fulfille"/>
+    <text name="terminate_btn" value="Terminate"/>
+    <text name="CONTRACT_PERMITE_DOCUMENT_NOT_FOUND" value="Contract permite document not found"/>
+    <text name="CONTRACT_PLEASE_CREATE_OBLIGATION_BEFORE_MAKE_CONFIRMATION" value="Please prepare obligation document before make confirmation"/>
+    <text name="MI_CM_Reserves" value="Reserve"/>
+    <text name="Dashboard" value="Dashboard"/>
+    <text name="Registration_form" value="Registration Form"/>
+
+
+    <text name="RevenueCashPlan_ItMayTake5_7M" value="Please wait... It may takes 5-7 minutes"/>
+    <text name="RevenueCashPlan_ItMayTake4_3M" value="Please wait... It may takes 3-4 minutes"/>
+    <text name="RevenueCashPlan_PLEASE_SELECT_DIM" value="Please select the dimensions"/>
+    <text name="CAssetConfirmation_Confirm_Message" value="Would you like to confirm?"/>
+    <text name="LM_CAN_NOT_DECLINE_DUE_TO_NOT_FOUND_CORRESPONDING_CONTRACT" value="Can not decline permit document due to not found corresponding contract"/>
+
+  </texts>
+</localizationDictionary>

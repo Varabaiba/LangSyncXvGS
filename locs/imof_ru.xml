@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="ru">
+  <texts>
+    <text name="Add" value="Добавить"/>
+    <text name="Edit" value="Изменить"/>
+    <text name="Delete" value="Удалить"/>
+    <text name="Cancel" value="Отменить"/>
+    <text name="Save" value="Сохранить"/>
+    <text name="SaveAndClose" value="Save and Close"/>
+    <text name="Refresh" value="Обновить"/>
+    <text name="From" value="От"/>
+    <text name="To" value="До"/>
+    <text name="DocNbr" value="Номер Документа"/>
+    <text name="DevelopmentProgress" value="Разработка продолжается"/>
+    <text name="Actions" value="Действия"/>
+    <text name="Id" value="ID"/>
+    <text name="IdPid" value="This is temporary value!!!!!!! - ELIMINATE"/>
+    <text name="Detail" value="Detail"/>
+    <text name="NewVersion" value="Новая версия"/>
+    <text name="DocVersion" value="Version"/>
+    <text name="Send" value="Send"/>
+    <text name="ChangePurpose" value="Change purpose"/>
+    <text name="PrevVersion" value="Previous version"/>
+    <text name="NextVersion" value="Next version"/>
+    <text name="Active" value="Active"/>
+    <text name="All" value="Все"/>
+    <text name="Yes" value="Да"/>
+    <text name="No" value="Нет"/>
+    <text name="MoveUp" value="Переместить вверх"/>
+    <text name="MoveDown" value="Переместить вниз"/>
+    
+    <text name="Registry" value="реестр"/>
+    <text name="RegistryFront" value="реестр (Фронт-офис)"/>
+    <text name="RegistryBack" value="реестр (бэк-офис)"/>
+    
+    <text name="FilterData" value="Filter data"/>
+    <text name="GroupData" value="Group data"/>
+
+    <text name="Mapping_Note" value="Mapping changed,please save form"/>
+
+    <text name="EditCode" value="Редактируемый код"/>
+    <text name="Name" value="Название"/>
+    <text name="Template" value="Шаблон"/>
+    <text name="Version" value="Версия"/>
+    <text name="ShowInPositions" value="Показать в позициях"/>
+    <text name="Search" value="Поиск"/>
+    <text name="Find" value="Найти"/>
+    <text name="AreYouSure" value="Вы уверены?"/>
+    
+
+
+    <text name="ManagerOrganizationMappedErrorMessage" value="Manager orgnaization not defined or not mapped with institutional classification!"/>
+    <text name="Error_GeneralErrorTitle" value="Что-то пошло не так"/>
+    <text name="Error_GeneralErrorMsg" value="Пожалуйста, свяжитесь с вашим системным администратором для получения дополнительной информации."/>
+
+    <text name="Error_InternalSystem" value="Internal system error!"/>
+    <text name="Error_ParameterValidation" value="Parameter can't be null or undefined!"/>
+    <text name="Error_DataNotFound" value="Data not found!"/>
+
+    <text name="Error_WorkPeriodNotFound" value="{0} work period not found!"/>
+    <text name="Error_WorkPeriodConfigurationNotFound" value="Dashboard configuration for {0} work period not found!"/>
+
+    <text name="Cm_DashboardConfiguration_BpNotFoundErrorMessage" value="Business process not found!"></text>
+    <text name="Cm_DashboardConfiguration_BpInvalidPath" value="Business process path is invalid!"></text>
+    <text name="Cm_DashboardConfiguration_BpInvalidParams" value="Business process parameters is invalid!"></text>
+    <text name="Cm_DashboardConfiguration_BpIsAlreadyUnderExecution" value="Business process is already under execution or complated!"></text>
+    <text name="Cm_DashboardConfiguration_SSISExecutionError" value="SSIS integration service execution error ocured!"></text>
+    <text name="Cm_DashboardConfiguration_InvalidWorkPeriod" value="Invalid work period identificator!"></text>
+
+    <!-- Classification And Mapping / Dictionaries / Categories -->
+    <text name="CAM_Dictionaries_Categories_CategoryName" value="Категория"/>
+    <text name="CAM_Dictionaries_Categories_AttributeName" value="Атрибут"/>
+    <text name="CAM_Dictionaries_Categories_IsMember" value="Отмечен"/>
+    <text name="CAM_Dictionaries_Categories_IsRequired" value="Необходим"/>
+    <text name="CAM_Dictionaries_Categories_Order" value="Очередность"/>
+    <!-- Classification And Mapping / Dictionaries / Categories END -->
+
+    <text name="File_Name" value="File name"/>
+    <text name="File_Size" value="size"/>
+    <text name="File_Date" value="Upload date"/>
+
+    <text name="MI_Security_Groups" value="Группы"/>
+    <text name="MI_Security_Users" value="Пользователи"/>
+
+    <text name="MI_Dashboard" value="Главная"/>
+    <text name="MI_CM" value="Управление денежными средствами"/>
+    <text name="MI_Cash_Management" value="Управление денежными средствами"/>
+    <text name="MI_Cash_Management_Dashboard" value="Главная"/>
+
+    <text name="MI_Cash_Management_Revenues" value="Поступления"/>
+    <text name="MI_Cash_Management_Revenues_Analytics" value="Аналитика"/>
+    <text name="MI_Cash_Management_Revenues_Decision_Making" value="Принятие решений"/>
+    <text name="MI_CashManagement_Revenues_RevenueDashboard" value="Дашборд Доходов"/>
+
+    <text name="MI_CashManagement_Revenues_Classifications" value="Классификаторы"/>
+    <text name="MI_CashManagement_Revenues_Classifications_EconomicSector" value="Экономический Сектор"/>
+    <text name="MI_CashManagement_Revenues_Classifications_GeographicStructure" value="Географическая Структура"/>
+    <text name="MI_CashManagement_Revenues_Classifications_RevenueType" value="Тип Поступлений"/>
+    <text name="MI_CashManagement_Revenues_Directories" value="Справочники"/>
+    <text name="MI_CashManagement_Revenues_DataCollection" value="Сбор Данных"/>
+    <text name="MI_CashManagement_Revenues_Reporting" value="Отчеты"/>
+
+    <text name="MI_Cash_Management_Payments" value="Выплаты"/>
+    <text name="MI_Cash_Management_Payments_MappingAndClassifiers" value="Справочники и Классификаторы"/>
+    <text name="MI_CashManagement_Payments_Reporting" value="Отчеты"/>
+    <text name="MI_CashManagement_Payments_Classifications_Territorial" value="Территориальная классификация"/>
+    <text name="MI_CashManagement_Payments_Classifications_Economic" value="Экономическая классификация"/>
+    <text name="MI_CashManagement_Payments_Classifications_Financial" value="Классификаторы источников финансирования"/>
+    <text name="MI_CashManagement_Payments_Classifications_Program" value="Program Classification"/>
+    <text name="MI_CashManagement_Payments_Classifications_Functional" value="Функциональная классификация"/>
+    <text name="MI_CashManagement_Payments_Classifications_Institutional" value="Ведомственная классификация"/>
+    <text name="MI_CashManagement_Payments_CashPlan" value="Кассовый План"/>
+    <text name="MI_CashManagement_Payments_PriorityLiabilities" value="Приоритетные Обязательства"/>
+    <text name="MI_CashManagement_Payments_AnalysisAndCorrections" value="Анализ и Корректировка"/>
+    <text name="MI_CashManagement_Payments_AnalysisAndCorrections_ExternalCorrections" value="Внешняя Корректировка"/>
+    <text name="MI_CashManagement_Payments_AnalysisAndCorrections_InternalCorrections" value="Вн  тренняя Корректировка"/>
+
+    <text name="MI_Cash_Management_Reserves" value="Резервы"/>
+    <text name="MI_Cash_Management_Reserves_DataEntry" value="Ввод данных"/>
+    <text name="MI_Cash_Management_Reserves_Reporting" value="Отчеты"/>
+
+
+    <text name="MI_Cash_Management_Classification" value="Классификация"/>
+    <text name="MI_CashManagement_Classifications_Accounts" value="Счета"/>
+    <text name="MI_CashManagement_Classifications_Organizations" value="Организации"/>
+    <text name="MI_CashManagement_Classifications_Select_Year" value="Выберите год"/>
+    <text name="MI_CashManagement_Classifications_Search" value="Поиск"/>
+    <text name="MI_CashManagement_Classifications_Update" value="Обновить информацию об администраторе доходов"/>
+    <text name="MI_CashManagement_Classifications_UpdateRevenueType" value="Update revenue type info"/>
+    <text name="MI_CashManagement_Classifications_EconomicClassification" value="Update economic classification info"/>
+    <text name="MI_CashManagement_Classifications_Code" value="Код"/>
+    <text name="MI_CashManagement_Classifications_Name" value="Название"/>
+    <text name="MI_CashManagement_Classifications_IsRevenueAdministrator" value="Администратор доходов"/>
+    <text name="MI_CashManagement_Classifications_IsGrant" value="Is grant"/>
+    <text name="MI_CashManagement_Classifications_RevenueAdministratorName" value="Имя администратора доходов"/>
+    <text name="MI_CashManagement_Classifications_UpdateStatus" value="Статус операции"/>
+    <text name="MI_CashManagement_Classifications_UpdateMessage" value="Data updated succesfully"/>
+    <text name="MI_CashManagement_Classifications_Name_Tj" value="Таджикское Название"/>
+    <text name="MI_CashManagement_Classifications_Name_Ru" value="Русское Название"/>
+    <text name="MI_CashManagement_Classifications_Name_En" value="Английское Название"/>
+    <text name="MI_CashManagement_Classifications_Name_Tr" value="Турецкое Название"/>
+
+    <!-- Enums Start -->
+
+    <text name="Enum_Category_Material" value="Материальные"/>
+    <text name="Enum_Category_NonMaterial" value="Нематериальные"/>
+    <text name="Enum_MeasureCodeDefinition_IsService" value="Сервис"/>
+    <text name="Enum_DepreciationTypeKind_Coefficient" value="Коэффициент"/>
+    <text name="Enum_DepreciationTypeKind_LifeCycle" value="Жизненный цикл"/>
+    <text name="Enum_DepreciationTypeKind_Parameter" value="Параметр"/>
+    
+    <!-- Enums End-->
+    
+    <!-- Classification Codes Start -->
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCode" value="Классификационный код"/>
+
+    <text name="MI_ClassificationsAndMappings_Dictionaries_MofClassificationCodes" value="Классификационные коды"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_OldVersionAddOrModifyProhibited"
+          value="Внесение изменений в старую версию кодов запрещено!"/>
+
+    <text name="ClassificationsAnClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_TheCodeDoesNotMatchThePattern"
+          value="Код не соответствует шаблону!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_WrongCodeFormat" value="Неправильный формат кода!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_CodeAlreadyExists" value="Код уже существует!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_ChangesAreAllowedOnlyForTheCurrentLevel" 
+          value="Внесение изменений допустимо только для текущего уровня!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Error_Message_WrongVersion" value="Неправильная версия!"/>
+
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Message_TotalCount" value="Количество удаляемых элементов"/>
+    
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Message_AddItemToSameNode" value="Добавить код"/>
+    
+    <text name="ClassificationsAndMappings_Dictionaries_MofClassificationCodes_Message_AddItemChildNode" value="Добавить дочерний код"/>
+    
+    <!-- Classification Codes End -->
+
+    <!-- Depreciation Types Start -->
+
+    <text name="MI_ClassificationsAndMappings_Dictionaries_DepreciationTypes" value="Типы амортизации"/>
+    <text name="CM_Classifications_DepreciationType" value="Тип амортизации"/>
+    
+    <text name="CM_Classifications_DepreciationTypeCode" value="Код типа амортизации"/>
+    <text name="CM_Classifications_DepreciationRate" value="Коэффициент амортизации"/>
+    <text name="CM_Classifications_DepreciationTypeId" value="Идентификатор типа амортизации"/>
+    <text name="CM_Classifications_DepreciationTypeKind" value="Вид амортизации"/>
+    
+    <text name="CM_Classifications_Depreciation_Error_Message_WrongRate" value="Коэффициент должен быть больше 0 и меньше или равен 1!"/>
+    <text name="CM_Classifications_Depreciation_Error_Message_FormIsNotValid" value="Заполните все необходимые поля!"/>
+    <text name="CM_Classifications_Depreciation_Error_Message_CodeAlreadyExists" value="Код уже существует!"/>
+    <text name="CM_Classifications_Depreciation_Error_Message_DeletionDenied" value="Невозможно удалить запись!"/>
+    
+    <!-- Depreciation Types End -->
+
+    <!-- Category Start -->
+
+    <text name="CM_Classifications_CategoryId" value="Идентификатор категории"/>
+    <text name="CM_Classifications_Category" value="Категория"/>
+    <text name="CM_Classifications_CategoryType" value="Тип категории"/>
+    <text name="CM_Classifications_DepreciationYears" value="Годы амортизации"/>
+    <text name="CM_Classifications_DepreciationTypeName" value="Тип амортизации"/>
+    <text name="CM_Classifications_IsAsset" value="Актив"/>
+    <text name="CM_Classifications_MeasureUnitCode" value="Код единицы измерения"/>
+    <text name="CM_Classifications_MeasureUnitDefinition" value="Определение единицы измерения"/>
+    <text name="CM_Classifications_CategoryAttributes" value="Атрибуты"/>
+    <text name="CM_Classifications_NoAttributesToAdd" value="Нет новых атрибутов для добавления"/>
+    <text name="CM_Classifications_Category_Error_Message_FormIsNotValid" value="Данные введены неправильно!"/>
+    <text name="CM_Classifications_Category_Error_Message_DuplicateAttributesFound" value="Обнаружены дублирующиеся атрибуты!"/>
+    
+    <!-- Category End -->
+
+    <text name="MI_ClassificationsAndMappings_Dictionaries_ForecastingMethod" value="Методы прогнозирования"/>
+
+    <text name="MI_CM_Management" value="Управление балансами"/>
+    <text name="MI_Cash_Management_Management" value="Управление балансами"/>
+
+    <text name="MI_CM_Expenditures" value="Расходы"/>
+    <text name="MI_Cash_Management_Expenditures" value="Расходы"/>
+    <text name="MI_Cash_Management_Expenditures_Analytics" value="Расходы"/>
+    <text name="MI_Cash_Management_Expenditures_Decision_Making" value="Принятие решений"/>
+
+    <text name="MI_CashManagement_Management_Analytics" value="Аналитика"/>
+    <text name="MI_CashManagement_Management_Reporting" value="Отчеты"/>
+
+    <text name="MI_Cash_Management_Queue_Management" value="Queue-Менеджмент"/>
+    <text name="MI_Cash_Management_Queue_Management_Column_ID" value="Номер документа"/>
+    <text name="MI_Cash_Management_Queue_Management_Column_Name" value="Название"/>
+    <text name="MI_Cash_Management_Queue_Management_Column_Status" value="Статус"/>
+    <text name="MI_Cash_Management_Queue_Management_Filter_Status_Label" value="Выбор статуса"/>
+    <text name="MI_Cash_Management_Queue_Management_Save_Button" value="Сохранение"/>
+    <text name="MI_Cash_Management_Dictionary_Mapping" value="Справочник связей классификаторов"/>
+
+
+    <text name="MI_Cash_Management_Reporting" value="Отчеты"/>
+    <text name="MI_Cash_Management_Dictionary" value="Справочник"/>
+
+    <text name="MI_Cash_Management_Trading" value="Трейдинг"/>
+    <text name="MI_Cash_Management_Trade" value="Сделки"/>
+
+    <text name="MI_Asset" value="управление активами"/>
+    <text name="MI_Asset_Group_Managment" value="Group Management"/>
+    <text name="MI_Asset_Operations" value="операции"/>
+    <text name="MI_Asset_Management" value="активы"/>
+    <text name="MI_Asset_Assets_AssetsFront" value="активы (фронт-офис)"/>
+    <text name="MI_Asset_Assets_AssetsBack" value="активы (бек-офис)"/>
+    <text name="MI_Asset_Management_Asset_OperationsFrontOffice" value="операции (фронт-офис)"/>
+    <text name="MI_Asset_Management_Asset_OperationsBackOffice" value="операции (бек-офис)"/>
+    <text name="MI_Asset_Management_Dashboard" value="Главная"/>
+    <text name="MI_Asset_Management_Assets" value="Активы"/>
+    <text name="MI_Asset_Management_Asset_FrontOffice_Registry" value="Asset front office"/>
+    <text name="MI_Asset_Management_Asset_BackOffice_Registry" value="Assets back office"/>
+    <text name="MI_Asset_Management_Organisation" value="Организа  ия"/>
+    <text name="MI_Asset_Management_Asset_Preferences" value="Параметры активов"/>
+    <text name="MI_Asset_Management_Dictionary" value="Классификаторы"/>
+    <text name="MI_Asset_Management_Reports" value="Отчеты"/>
+
+    <text name="MI_Cash_Management_Expenditures_" value="Распределение особых платежей"/>
+
+    <text name="Cash_Management_Expenditure_static_rule"                value="Статичное Правило"/>
+    <text name="Cash_Management_Expenditure_dynamic_rule"                value="Динамичное Правило"/>
+
+    <text name="Cash_Management_Expenditure_Column_name"                value="Название правила"/>
+    <text name="Cash_Management_Expenditure_Column_category"                value="Категория"/>
+    <text name="Cash_Management_Expenditure_Column_type"                value="Тип правила"/>
+    <text name="Cash_Management_Expenditure_Column_region"                value="Регионы"/>
+    <text name="Cash_Management_Expenditure_Column_organisation"                value="Организация"/>
+    <text name="Cash_Management_Expenditure_Column_fincode"                value="Источники финансирования"/>
+    <text name="Cash_Management_Expenditure_Column_ecocode"                value="Экономические статьи"/>
+    <text name="Cash_Management_Expenditure_Column_funcode"                value="Функциональные коды"/>
+    <text name="Cash_Management_Expenditure_Column_programcode"                value="Программные коды"/>
+    <text name="Cash_Management_Expenditure_Column_active_from"                value="Активен От"/>
+    <text name="Cash_Management_Expenditure_Column_active_until"                value="Активен До"/>
+    <text name="Cash_Management_Expenditure_Column_counttransaction"                value="Количество платежей"/>
+    <text name="Cash_Management_Expenditure_Column_sumtransaction"                value="Сумма платежей"/>
+
+
+    <text name="Cash_Management_Expenditure_name"                value="Название"/>
+    <text name="Cash_Management_Expenditure_ecocode"             value="Эконом. Статья"/>
+    <text name="Cash_Management_Expenditure_terrcode"            value="Регион"/>
+    <text name="Cash_Management_Expenditure_category"            value="Категория"/>
+    <text name="Cash_Management_Expenditure_fincode"             value="Источник"/>
+    <text name="Cash_Management_Expenditure_programcode"         value="Программный код"/>
+    <text name="Cash_Management_Expenditure_activeuntil"         value="Активен до"/>
+    <text name="Cash_Management_Expenditure_funcode"             value="Функц.классиф"/>
+
+
+    <text name="Cash_Management_Expenditure_transaction"                value="Транзакции"/>
+    <text name="Cash_Management_Expenditure_move_toExclude"             value="Переместить в исключение"/>
+
+    <text name="Cash_Management_Expenditure_date"                value="Дата"/>
+    <text name="Cash_Management_Expenditure_sum"                value="Сумма"/>
+
+    <text name="Cash_Management_Expenditure_ecxlude"                value="Исключение"/>
+    <text name="Cash_Management_Expenditure_move_back"                value="Вернуть Транзакции"/>
+
+    <text name="Cash_Management_Expenditure_eq"                  value="Равно"/>
+    <text name="Cash_Management_Expenditure_more"                value="Больше"/>
+    <text name="Cash_Management_Expenditure_less"                value="Меньше"/>
+    <text name="Cash_Management_Expenditure_between"             value="Между"/>
+    <text name="Cash_Management_Expenditure_moreEq"              value="Больше или равно"/>
+    <text name="Cash_Management_Expenditure_lessEq"              value="  еньше или равно"/>
+    <text name="Cash_Management_Expenditure_diff"                value="Различно"/>
+
+    <text name="MI_CashManagement_Expenditure_ExpenditureDashboard" value="Дешборд Расходов"/>
+
+    <text name="MI_Liability_Management" value="Управление Обязательствами"/>
+    <text name="MI_Liability_Management_Dashboard" value="Главная"/>
+    <text name="MI_Liability_Management_Internal_Liabilities" value="Внутренние обязательства"/>
+    <text name="MI_Liability_Management_Internal_Liabilities_Operational_Liabilities"
+          value="Операционные обязательства"/>
+    <text name="MI_Liability_Management_Internal_Liabilities_Priority_Liabilities"
+          value="Приоритетные обязательства"/>
+    <text name="MI_Liability_Management_Internal_Liabilities_Domestic_Borrowings" value="Внутренние заимствования"/>
+    <text name="MI_Liability_Management_Internal_State_Liabilities" value="Обязательства государства"/>
+    <text name="MI_Liability_Management_Internal_Other_Liabilities" value="Другие обязательства"/>
+    <text name="MI_Liability_Management_Externa_Debt" value="Внешний долг"/>
+    <text name="MI_Liability_Management_Externa_Debt_Liabilities_From_Placement"
+          value="Обязательства из размещения"/>
+    <text name="MI_Liability_Management_Externa_Debt_Liabilities_From_Borrowings"
+          value="Обязательства из заимствований"/>
+    <text name="MI_Liability_Management_Externa_Debt_Liabilities_From_Agreements"
+          value="Обязательства из соглашений"/>
+    <text name="MI_Liability_Management_Externa_Debt_Other_Liabilities" value="Другие обязательства"/>
+
+    <text name="MI_User_Management" value="Управление Пользователем"/>
+    <text name="MI_Aggregated_Report" value="Агрегированный Отчет"/>
+    <text name="MI_Aggregated_Report_Report" value="Отчет"/>
+    <text name="MI_Aggregated_Report_Report_Entry" value="Ввод"/>
+
+    <text name="Asset_AssetHistoryWindow_Status_Title" value="История состояния активов"/>
+    <text name="Asset_AssetHistoryWindow_Accounting_Title" value="История учета активов"/>
+    <text name="Asset_AssetHistoryWindow_Inventory_Title" value="История инвентаризации активов"/>
+    <text name="Asset_AssetHistoryWindow_OperationalStatus_Title" value="История рабочего состояния активов"/>
+    <text name="Asset_AssetHistoryWindow_GridPanelColumn_Description" value="Описание"/>
+    <text name="Asset_AssetHistoryWindow_GridPanelColumn_Time" value="Время"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Id" value="Идентификатор актива"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Name" value="Название"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Description" value="Описание"/>
+    <text name="Asset_Index_AssetGridPanel_Column_EbkCode" value="Код ЭБК"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Acquiring" value="Еквайринг"/>
+    <text name="Asset_Index_AssetGridPanel_Column_AcquiringPrice" value="Цена"/>
+    <text name="Asset_Index_AssetGridPanel_Column_AcquiringCurrency" value="Валюта"/>
+    <text name="Asset_Index_AssetGridPanel_Column_CategoryCode" value="Код категории"/>
+    <text name="Asset_Index_AssetGridPanel_Column_CategoryDescription" value="Описание категории"/>
+    <text name="Asset_Index_AssetGridPanel_Column_LocationAddress" value="Адрес"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Tags" value="Теги"/>
+    <text name="Asset_Index_AssetGridPanel_Column_OperationalStatus_Header" value="Операционный статус"/>
+    <text name="Asset_Index_AssetGridPanel_Column_OperationalStatus_Current" value="Текущий"/>
+    <text name="Asset_Index_AssetGridPanel_Column_OperationalStatus_History" value="История"/>
+    <text name="Asset_Index_AssetGridPanel_Column_OperationalStatus_History_ToolTip"
+          value="История операционного статуса"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Inventory_Header" value="Инвентарь"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Inventory_Current" value="Текущий"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Inventory_History" value="История"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Inventory_History_ToolTip" value="История инвентаризации"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Accounting_Header" value="Бухгалтерский учет"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Accounting_Current" value="Текущий"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Accounting_History" value="История"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Accounting_History_ToolTip" value="История бухгалтерского учета"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Status_Header" value="Статус"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Status_Current" value="Текущий"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Status_History" value="История"/>
+    <text name="Asset_Index_AssetGridPanel_Column_Status_History_ToolTip" value="История статуса"/>
+    <text name="Asset_Index_TopBar_Add_ToolTip" value="Добавить новый элемент актива"/>
+    <text name="Asset_Index_TopBar_Edit_ToolTip" value="Изменить выбранный элемент актива"/>
+    <text name="Asset_Index_TopBar_Delete_ToolTip" value="Удалить выбранный элемент актива"/>
+    <text name="Asset_Index_AssetFormPanel_Title" value="Детали актива"/>
+    <text name="Asset_Index_AssetFormPanel_Name_Label" value="Название"/>
+    <text name="Asset_Index_AssetFormPanel_Description_Label" value="Описание"/>
+    <text name="Asset_Index_AssetFormPanel_EbkCode_Label" value="Код ЭБК"/>
+    <text name="Asset_Index_AssetFormPanel_AcquiringPrice_Label" value="Цена Приобретения"/>
+    <text name="Asset_Index_AssetFormPanel_AcquiringCurrency_Label" value="Приобретая валюту"/>
+    <text name="Asset_Index_AssetFormPanel_CategoryCode_Label" value="Код категории"/>
+    <text name="Asset_Index_AssetFormPanel_CategoryDescription_Label" value="Описание категории"/>
+    <text name="Asset_Index_AssetFormPanel_LocationAddress_Label" value="Адрес"/>
+    <text name="Asset_Index_AssetFormPanel_Tags_Label" value="Теги"/>
+    <text name="Asset_Index_AssetFormPanel_OperationalStatus_Label" value="Операционный статус"/>
+    <text name="Asset_Index_AssetFormPanel_Inventory_Label" value="Инвентарь"/>
+    <text name="Asset_Index_AssetFormPanel_Accounting_Label" value="Бухгалтерского учета"/>
+    <text name="Asset_Index_AssetFormPanel_Status_Label" value="Статус"/>
+
+    <text name="Ballance_Regisration_Index_Combobox_select_Year" value="Выбор года"/>
+    <text name="Ballance_Regisration_Index_Label_select_Year" value="Год:"/>
+    <text name="Ballance_Regisration_Index_Combobox_select_Period" value="Выбор Периода"/>
+    <text name="Ballance_Regisration_Index_Label_select_Period" value="Период:"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Title" value="Отчет о финансовом положении"/>
+    <text name="Ballance_Regisration_Index_Grid_Income_Statement_Title" value="Отчет о финансовых результатах"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Column_Name" value="Название Типа Отчета"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Column_Start_Period" value="Начало периода"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Column_End_Period" value="Конец периода"/>
+    <text name="Ballance_Regisration_Index_Grid_Finansial_Statement_Column_Comments" value="Комментарии"/>
+    <text name="Ballance_Regisration_Index_Button_Import_data" value="Импорт данных"/>
+    <text name="Ballance_Regisration_Index_Combobox_Select_organization" value="Выбор ПБС"/>
+    <text name="Ballance_Regisration_Index_Combobox_Label_organization" value="ПБС"/>
+    <text name="Ballance_Regisration_Index_Combobox_Select_Budget_request" value="Выбор ДЗ"/>
+    <text name="Ballance_Regisration_Index_Combobox_Label_oBudget_Request" value="ДЗ"/>
+
+    <text name="Ballance_Report_Index_Account_Text" value="Единый План Счетов"/>
+    <text name="Ballance_Report_Index_Gridpanel_Title" value="Отчет о финансовом положении"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Code" value="Код"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Line_Name" value="Наименование линии"/>
+    <text name="Ballance_Report_Index_Gridpanel_Income_statement_Title" value="Отчет о финансовых результатах"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_SCA_Code" value="Код ЕПС"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_SCA_Name" value="Наименование ЕПС"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Exception" value="Исключение (2)"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Report1" value="Отч.1"/>
+    <text name="Ballance_Report_Index_Gridpanel_Column_Report2" value="Отч.2"/>
+
+    <text name="CAssetConfirmation_Confirm_Message" value="подтвердит?"/>
+
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_Title" value="Локализации"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_Id" value="ID"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_Key" value="Код"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_KeyValue" value="Значение"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalesGrid_Id" value="Номер Документа"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalesGridd_LocaleName" value="Имя Локализации"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalesGrid_TranslatedName"
+          value="Переведенное имя"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalesGrid_DecimalSeparator"
+          value="Десятичный разделитель"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocalisationsGrid_Description"
+          value="Описание"/>
+
+
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_Id" value="ID"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_LocaleName" value="Имя Локализации"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_Desc" value="Описание"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_DecSep" value="Десятичный разделитель"/>
+    <text name="MoreItems_SystemConfiguration_SystemLocale_Index_LocaleRegFrm_TranslateName"
+          value="Переведенное имя"/>
+
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Index"  value="Конфигурация рабочего периода"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_Id"  value="И/Н"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_Name"  value="Имя"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_Status"  value="Статус"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_StartDate"  value="Дата начала"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Grid_Column_EndDate"  value="Дата завершения"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Toolbar_Add"  value="Добавить"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Toolbar_Edit"  value="Редактировать"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Toolbar_Delete"  value="Удалить"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Toolbar_Reload"  value="Перезагрузить"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_Id"  value="И/Н :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_Name"  value="Имя :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_StartDate"  value="Дата начала :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_EndDate"  value="Дата завершения :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Form_Status"  value="Статус :"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_OperationStatus"  value="Операционный статус"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_DeleteSuccess"  value="Рабочий период был удален успешно"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_DeleteError"  value="Операционная ошибка рабочего периода"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_DeleteConfirmation"  value="Удалить подтверждение"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_DeleteConfirmationMessage"  value="Вы уверены что хотите удалить рабочий период?"/>
+    <text name="MoreItems_SystemConfiguration_WorkPeriodConfiguration_Message_SaveSuccess"  value="Рабочий период успешно сохранен"/>
+
+
+    <text name="CM_Financial_Classifiers_Loading_Message" value="Загрузка..."/>
+    <text name="CM_Program_Classifiers_Loading_Message" value="Загрузка..."/>
+    <text name="CM_Program_Classifiers_Load_Button_Title" value="Обновление"/>
+
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_EntryDate_Column" value="Год/Месяц"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_Amount_Column" value="Количество"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_AccountNumber_Column" value="Счет"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_Account_Column" value="Номер Счета"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_AccountCurrency_Column" value="Валюта"/>
+    <text name="CM_Reserves_DataEntry_DataEntryGridPanel_AccountBank_Column" value="Банк"/>
+    <text name="CM_Reserves_DataEntry_DataEntryFormPanel_Title" value="Резервирование ввода данных"/>
+    <text name="CM_Reserves_DataEntry_DataEntryFormPanel_EntryDate_Label" value="Год/Месяц"/>
+    <text name="CM_Reserves_DataEntry_DataEntryFormPanel_Amount_Label" value="Количество"/>
+    <text name="CM_Reserves_DataEntry_DataEntryFormPanel_AccountNumber_Label" value="Номер Счета"/>
+    <text name="CM_Reserves_DataEntry_FilterData" value="Фильтровать данные"/>
+
+    <text name="CM_Revenues_Classifications_Economic_Sector_FormPanel_title" value="Добавить/Редактировать Классификатор"/>
+    <text name="CM_Revenues_Classifications_Economic_Sector_Year" value="Год"/>
+    <text name="MI_Revenues_Classifications_Economic_Sector_Column_Name" value="Название"/>
+    <text name="MI_Revenues_Classifications_Economic_Sector_Column_Code" value="Код"/>
+
+    <text name="CM_Classifications_ExpenditureSortOutCatId" value="Номер Документа"/>
+    <text name="CM_Classifications_Accounts_Bank_Name" value="Имя банка"/>
+    <text name="CM_Classifications_Accounts_Bank_Bic" value="Идентификационный код банка"/>
+    <text name="CM_Classifications_Accounts_Bank_Corr_Acc" value="Корреспондентский счёт"/>
+    <text name="CM_Classifications_Accounts_Code" value="Код"/>
+    <text name="CM_Classifications_Accounts_Name" value="Наимменование"/>
+    <text name="CM_Classifications_Accounts_Currency" value="Валюта"/>
+    <text name="CM_Classifications_Accounts_Treasure_Name" value="Название казначейства"/>
+    <text name="CM_Classifications_Accounts_Treasure_Code" value="Код казначейства"/>
+    <text name="CM_Classifications_Accounts_Financial_Code" value="Финансовый код"/>
+    <text name="CM_Classifications_Accounts_Territorial_Code" value="Код территории"/>
+    <text name="CM_Classifications_Accounts_Debit" value="Дебет"/>
+    <text name="CM_Classifications_Accounts_Credit" value="Кредит"/>
+    <text name="CM_Classifications_Accounts_Type" value="Тип"/>
+    <text name="CM_Classifications_Accounts_Balance" value="Остаток"/>
+
+    <text name="CM_Classifications_RejectDialog_Title" value="Введите причину отклонения"/>
+    <text name="CM_Classifications_RejectDialog_Field" value="Введите причину отклонения"/>
+
+    <text name="CM_Classifications_Code" value="Код"/>
+    <text name="CM_Classifications_Name" value="Название"/>
+    <text name="CM_Classifications_Name_Tj" value="Таджикское Название"/>
+    <text name="CM_Classifications_Name_Ru" value="Русское Название"/>
+    <text name="CM_Classifications_Name_En" value="Английское Название"/>
+
+
+    <text name="Security_Groups_GroupsGridPanel_GroupName_Column" value="Имя группы"/>
+    <text name="Security_Groups_GroupsGridPanel_GroupDescription_Column" value="Описание группы"/>
+    <text name="Security_Groups_GroupsFormPanel_Title" value="Создать / Редактировать группу"/>
+    <text name="Security_Groups_GroupsFormPanel_GroupId_Label" value="ID группы"/>
+    <text name="Security_Groups_GroupsFormPanel_GroupName_Label" value="Название"/>
+    <text name="Security_Groups_GroupsFormPanel_GroupName_Status" value="Статус"/>
+    <text name="Security_Groups_GroupsFormPanel_GroupDescription_Label" value="Описание"/>
+    <text name="Security_Groups_GroupsFormPanel_Branch_Label" value="Филиал"/>
+    <text name="Security_Groups_GroupsFormPanel_TabPanel_Users_Title" value="Пользователи"/>
+    <text name="Security_Groups_GroupsFormPanel_TabPanel_Roles_Title" value="Шаблоны"/>
+    <text name="Security_Groups_OperationSuccessMessage" value="Операция успешно сохранена!"/>
+    <text name="Security_Groups_GroupNameIsNotUnique" value="Группа с таким именем уже зарегистрирована!"/>
+
+    <text name="Security_RolesGridPanel_Name_Column" value="Название"/>
+    <text name="Security_RolesGridPanel_DisplayName_Column" value="Отображаемое Название"/>
+    <text name="Security_RolesGridPanel_InGrouo_Column" value="Находятся в группе?"/>
+    <text name="Security_UsersGridPanel_Username_Column" value="Имя пользователя"/>
+    <text name="Security_UsersGridPanel_FirstName_Column" value="Имя"/>
+    <text name="Security_UsersGridPanel_Surname_Column" value="Фамилия"/>
+    <text name="Security_UsersGridPanel_Email_Column" value="Эл. адрес"/>
+    <text name="Security_UsersGridPanel_Phone_Column" value="Телефон"/>
+    <text name="Security_UsersGridPanel_IsActive_Column" value="Активен"/>
+    <text name="Security_UsersGridPanel_InGroup_Column" value="Находятся в группе"/>
+    <text name="Security_UserGroupsGridPanel_GroupName_Column" value="Имя группы"/>
+    <text name="Security_UserGroupsGridPanel_GroupDescription_Column" value="Описание группы"/>
+    <text name="Security_UserGroupsGridPanel_InGroup_Column" value="Находятся в группе"/>
+    <text name="Security_UserPasswordResetWindow_Title" value="Сбросить пароль пользователя"/>
+    <text name="Security_UserPasswordResetWindow_EnterPassword_Label" value="Введите пароль"/>
+    <text name="Security_UserPasswordResetWindow_ConfirmPassword_Label" value="Подтвердите Пароль"/>
+    <text name="Security_UsersGridPanel_ResetPassowrd_ToolTip" value="Сброс пароля"/>
+    <text name="Security_UsersFormPanel_UserId_Label" value="Идентификатор пользователя"/>
+    <text name="Security_UsersFormPanel_Username_Label" value="Имя пользователя"/>
+    <text name="Security_UsersFormPanel_Email_Label" value="Эл. адрес"/>
+    <text name="Security_UsersFormPanel_Phone_Label" value="Телефон"/>
+    <text name="Security_UsersFormPanel_Surname_Label" value="Фамилия"/>
+    <text name="Security_UsersFormPanel_FirstName_Label" value="Имя"/>
+    <text name="Security_UsersFormPanel_Active_Label" value="Активный"/>
+    <text name="Security_UsersFormPanel_TabPanel_Users_Title" value="Пользователи"/>
+    <text name="Security_UsersFormPanel_TabPanel_Groups_Title" value="Группы"/>
+    <text name="Security_UsersFormPanel_Panel_Branches_Title" value="Филиалы"/>
+
+    <text name="500_error_message" value="Эта страница не работает."/>
+    <text name="404_error_message" value="Мы не можем найти страницу, которую Вы ищете."/>
+    <text name="403_error_message" value="У Вас нет разрешения на доступ к этой странице."/>
+    <text name="default_error_message" value="Что-то пошло не так. Пожалуйста, свяжитесь с системным администратором."/>
+
+    <text name="MI_ClassificationsAndMappings" value="Объединения &amp; классификации"/>
+    <text name="MI_ClassificationsAndMappings_Mappings" value="Объединения"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_EconomicClassification" value="Объединения экономических классификаторов"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_FinancialClassification" value="Объединения финансовых классификаторов"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_FunctionalClassification" value="Объединения функциональных классификаторов"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_FundingSources" value="Объединения источников финансирования"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_InstitutionalClassification" value="Объединения ведомственных классификаторов"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_TerritorialClassification" value="Объединения территориальных классификаторов"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_ExpenditureTypes" value="Объединения типов расходов"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_revenuetype_mapping" value="Объединитель типов доходов"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_programcode_mapping" value="Объединения программ"/>
+    <text name="MI_ClassificationsAndMappings_Mappings_programcode" value="Программа"/>
+    <text name="MI_ClassificationsAndMappings_ExpenditureDimensions" value="Составляющие расходов"/>
+    <text name="MI_ClassificationsAndMappings_ExpenditureDimensions_ExpenditureTypes" value="Типы расходов"/>
+    <text name="MI_ClassificationsAndMappings_ExpenditureDimensions_FundingSources" value="Источники финансирования"/>
+
+
+    <text name="MI_ClassificationsAndMappings_Dimensions" value="Составляющие"/>
+    <text name="MI_ClassificationsAndMappings_Dimensions_ExpenditureTypes" value="Типы Расходов"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries" value="Справочники"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries_Categories" value="Категории"/>
+
+    <text name="MI_ClassificationsAndMappings_Dictionaries_ForcaststingMethods" value="Методы Прогнозирования"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries_ForcaststingCategories" value="Категории прогнозирования"/>
+    <text name="MI_CashManagement_Expenditures_ExpenditureSortoutRules" value="Правила Распределения"/>
+    <text name="MI_CashManagement_Expenditures_ExpenditureAutoSortout" value="Автоматическое распределение"/>
+
+
+    <text name="CM_Classifications_ForeсastingCat" value="Категории прогнозирования"/>
+    <text name="CM_Classifications_ForecastingCatCode" value="Код категории прогнозирования"/>
+    <text name="CM_Classifications_ForecastingCatId" value="ID категории прогнозирования"/>
+    <!--<text name="CM_Classifications_Code" value="Код"/>
+    <text name="CM_Classifications_Name" value="Название"/>
+    <text name="CM_Classifications_Name_Tj" value="Таджикское Название"/>
+    <text name="CM_Classifications_Name_Ru" value="Русское Название"/>
+    <text name="CM_Classifications_Name_En" value="Английское Название"/>
+    <text name="CM_Classifications_Name_Tr" value="Турецкое Название"/>-->
+
+
+
+    <text name="ClassificationsAndMappings_Mappings_Collapse_Previous_Year_Data" value="Свернуть данные за предыдущий год"/>
+    <text name="ClassificationsAndMappings_Mappings_Expand_Previous_Year_Data" value="Развернуть данные за предыдущий год"/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping" value="Автоматическое связывание"/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping_warning" value="Все предыдущие связи будут удалены!&lt;br&gt;Хотите продолжить?"/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping_progress" value="Автоматическое связывание в прогрессе..."/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping_failure" value="Автоматическое связывание не удалось!"/>
+    <text name="ClassificationsAndMappings_Mappings_Automatic_Mapping_success" value="Автоматическое связывание успешно завершено!"/>
+    <text name="ClassificationsAndMappings_Mappings_Saving" value="Сохранение..."/>
+    <text name="ClassificationsAndMappings_Mappings_Get_Mapping_Failure" value="Не удалось получить соединение!"/>
+    <text name="ClassificationsAndMappings_Mappings_Save_Mapping_Failure" value="Не удалось сохранить соединение!"/>
+    <text name="ClassificationsAndMappings_Mappings_Select_Node_Error" value="Пожалуйста, выберите текущий классификатор!"/>
+    <text name="ClassificationsAndMappings_Mappings_Show_Unmapped_Only" value="Показать только необъединенные"/>
+
+    <text name="CM_ClassificationsAndMappings_ForecastingMethod" 	  value="Методы прогнозирования"/>
+    <text name="CM_ClassificationsAndMappings_ForecastingMethodCode" value="Код метода п  огнозирования"/>
+    <text name="CM_ClassificationsAndMappings_ForecastingMethodId"   value="ID метода прогнозирования"/>
+
+    <text name="Error" value="Oшибка"/>
+    <text name="Warning" value="Предупреждение"/>
+    <text name="SUCCESSFULLY_SAVED" value="Документ успешно сохранен"/>
+
+    <text name="Main_North_Label_Operation_Day" value="Операционный День:"/>
+    <text name="Main_North_Label_Work_Period" value="Рабочий Период:"/>
+    <text name="MI_ClassificationsAndMappings_Dictionaries_ExpenditureSortOutCategories" value="Категории распределения расходов"/>
+    <text name="CM_Classifications_ExpenditureCat" value="Категории Расходы"/>
+    <text name="CM_Classifications_ExpenditureCatId" value="ID Категории Расходы"/>
+
+    <text name="MI_CashManagement_Management_LimitMng" value="Управление Лимитами"/>
+    <text name="MI_CashManagement_Management_LimitByOrganisation" value="Управление Лимитами по Организации"/>
+    <text name="MI_CashManagement_Management_ResourceMng" value="Управление доп. ресурсами"/>
+
+    <text name="Cash_Management_Expenditure_activeFrom" value="Активен от"/>
+    <text name="Cash_Management_Expenditure_sortedData" value="Показать Oтфильтрованные данные"/>
+    <text name="Cash_Management_Expenditure_ClearFilters" value="Очистка Фильтров"/>
+
+    <text name="Work_Period_Date_Range_Validation" value="Невозможно добавить рабочий период. Дата начала должна быть меньше чем дата окончания!"/>
+    <text name="Work_Period_Previous_Value_Validation" value="Невозможно добавить рабочий период. Не найден предыдущий рабочий период!"/>
+    <text name="Work_Period_Already_Exists_Validation" value="Невозможно добавить рабочий период. Рабочий период с идентичным именем или годом зарегистрирован!"/>
+
+
+    <text name="BusinessProcessStatus_New" value="Новый"/>
+    <text name="BusinessProcessStatus_UnderProcessing" value="Обрабатывается"/>
+    <text name="BusinessProcessStatus_Current" value="Текущий"/>
+    <text name="BusinessProcessStatus_ComplatedWithError" value="Завершен с ошибками"/>
+    <text name="BusinessProcessStatus_ComplatedWithSuccess" value="Завершен успешно"/>
+
+    <text name="BranchEnum.Global" value="Глобальный"/>
+    <text name="BranchEnum.Organization" value="Организация"/>
+    <text name="BranchEnum.RevAdministrator" value="Администратор доходов"/>
+
+
+    <text name="Cm_BusinessProcessDashboard_Menu_Title" value="Бизнес процесс"/>
+    <text name="Cm_BusinessProcessDashboard_Topbar_Start" value="Начало"/>
+    <text name="Cm_BusinessProcessDashboard_Topbar_Refresh" value="Обновление"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_Name" value="Имя"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_Status" value="Статус"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_StartDate" value="Дата начала"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_EndDate" value="Дата завершения"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_ErrorReport" value="Отчет об ошибках"/>
+    <text name="Cm_BusinessProcessDashboard_Grid_Column_ResponsibleAuthority" value="Ответственный орган"/>
+
+    <text name="Cm_ResourcesDashboard" value="Ресурсы"/>
+    <text name="Cm_BalancesDashboard" value="Баланс"/>
+
+    <text name="CmBp.WorkPeriod" value="Рабочий период"></text>
+    <text name="CmBp.OpeningYear" value="Го   открытия"></text>
+    <text name="CmBp.January" value="Январь"></text>
+    <text name="CmBp.February" value="Февраль"></text>
+    <text name="CmBp.March" value="Март"></text>
+    <text name="CmBp.April" value="Апрель"></text>
+    <text name="CmBp.May" value="Май"></text>
+    <text name="CmBp.June" value="Июнь"></text>
+    <text name="CmBp.July" value="Июль"></text>
+    <text name="CmBp.August" value="Август"></text>
+    <text name="CmBp.September" value="Сентябрь"></text>
+    <text name="CmBp.October" value="Октябрь"></text>
+    <text name="CmBp.November" value="Ноябрь"></text>
+    <text name="CmBp.December" value="Декабрь"></text>
+    <text name="CmBp.ClosingYear" value="Год закрытия"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers" value="Миграция внутренних классификаторов"></text>
+    <text name="CmBp.SGBClassifiersImport" value="Импорт классификаторов SGB"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers" value="Связи между классификаторами"></text>
+    <text name="CmBp.RevenuePlanImport" value="Revenue plan import"></text>
+    <text name="CmBp.OpenYearPlanning" value="Планирование года открытия"></text>
+    <text name="CmBp.AcceptanceOfAnnualCashReceiptsPlans" value="Принятие годовых планов денежных поступлений"></text>
+    <text name="CmBp.SGBBudgetImport" value="Импорт бюджета SGB"></text>
+    <text name="CmBp.SGBImportOfAnnualCashPaymentPlans" value="Импорт годовых планов оплаты наличными SGB"></text>
+    <text name="CmBp.PreparationOfCombinedCashReceiptsPlan" value="Подготовка плана объединенных кассовых заявок"></text>
+    <text name="CmBp.ApprovalOfComprehensiveIncomeCashPlan" value="Утверждение объединенных кассовых планов"></text>
+    <text name="CmBp.ClosingYearPlanning" value="Закрытие касового года"></text>
+    <text name="CmBp.OpeningMonthPlanning" value="Начало месячного планирования"></text>
+    <text name="CmBp.ReceivingCashReceiptsForTheMonth" value="Получение кассовых заявок за месяц"></text>
+    <text name="CmBp.SGBBudgetImportMonth" value="Импорт месячного бюджета из SGB"></text>
+    <text name="CmBp.ImportPaymentPlansForTheMonthOfPayments" value="Импортитрование плана расходов месячных расходов"></text>
+    <text name="CmBp.PreparationOfCombinedCashReceiptsPlanMonth" value="Подготовка плана объединенных месячных кассовых заявок"></text>
+    <text name="CmBp.ApprovalOfComprehensiveIncomeCashPlanMonth" value="Утверждение комплексного плана денежных доходов за месяц"></text>
+    <text name="CmBp.ClosingMonthPlanning" value="Закрытие месячного планирования"></text>
+
+
+
+    <text name="CmBp.MigrationOfInternalClassifiers_ForecastingMethod" value="Метод прогнозирования"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_EconomicClassification" value="Экономическая классификация"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_ExpenditureTypes" value="Типы расходов"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_FinancialClassifications" value="Финансовая классификация"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_FunctionalClassifications" value="Функциональная классификация"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_InstitucionalClassifications" value="Ведомственная классификация"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_Programs" value="Программы"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_RevenueTypes" value="Типы доходов"></text>
+    <text name="CmBp.MigrationOfInternalClassifiers_TeritorialClassifications" value="Территориальная классификация"></text>
+
+
+
+    <text name="CmBp.SGBClassifiersImport_TerritorialUnit" value="Territorial units"></text>
+    <text name="CmBp.SGBClassifiersImport_Organizations" value="Organizations"></text>
+    <text name="CmBp.SGBClassifiersImport_ProgramClassifications" value="Program classifications"></text>
+    <text name="CmBp.SGBClassifiersImport_FinancialClassifications" value="Financial classifications"></text>
+    <text name="CmBp.SGBClassifiersImport_EconomicClassifications" value="Economic classifications"></text>
+    <text name="CmBp.SGBClassifiersImport_RevenueTypeClassifications" value="Revenue type classification"></text>
+    <text name="CmBp.SGBClassifiersImport_FunctionalClassifications" value="Geographic structure"></text>
+    <text name="CmBp.SGBClassifiersImport_ExpenditureTypes" value="Expenditure types"></text>
+    <text name="CmBp.ImportingInitialBalances" value="Importing initial balances"></text>
+
+
+
+    <text name="CmBp.ConnectionsBetweenClassifiers_EconomicClassificationMapper" value="Economic classification mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_ExpenditureTypesMapper" value="Expenditure types mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_FinancialClassificationMapper" value="Financial classification mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_FunctionalClassificationMapper" value="Functional classification mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_InstitutionalClassificationMapper" value="Institutional classification mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_ProgramMapper" value="Program mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_RevenueTypesMapper" value="Revenue types mapper"></text>
+    <text name="CmBp.ConnectionsBetweenClassifiers_TerritorialClassificationMapper" value="Territorial classification mapper"></text>
+
+
+
+
+
+
+
+
+    <text name="RevenueCashPlanStatusEnum.Draft" value="Черновик"/>
+    <text name="RevenueCashPlanStatusEnum.Sent" value="Отправлено"/>
+    <text name="RevenueCashPlanStatusEnum.Approved" value="Одобрено"/>
+    <text name="RevenueCashPlanStatusEnum.Archive" value="Архив"/>
+    <text name="RevenueCashPlanStatusEnum.Accept" value="Принято"/>
+    <text name="RevenueCashPlanStatusEnum.Rejected" value="Отклонено"/>
+
+
+
+
+
+
+    <text name="Copy_Document" value="Копирование документа"/>
+    <text name="Accept" value="Принять"/>
+    <text name="Decline" value="Отклонить"/>
+    <text name="Status_History" value="История статуса"/>
+    <text name="Send_Document" value="Отправленные документы"/>
+    <text name="Revenue_Add_D" value="Новый файл (Департамент)"/>
+    <text name="Revenue_Add_TA" value="Новый файл (Аналитик)"/>
+    <text name="File_View" value="Просмотр файла"/>
+    <text name="Approve" value="Одобрить"/>
+    <text name="Submit" value="Submit"/>
+    <text name="Return" value="Return"/>
+    <text name="Reject" value="Reject"/>
+    <text name="Confirm" value="Подтверждение"/>
+
+
+    <text name="M01" value="Янв"/>
+    <text name="M02" value="Фев"/>
+    <text name="M03" value="Мар"/>
+    <text name="M04" value="Апр"/>
+    <text name="M05" value="Май"/>
+    <text name="M06" value="Июн"/>
+    <text name="M07" value="Июл"/>
+    <text name="M08" value="Авг"/>
+    <text name="M09" value="Сен"/>
+    <text name="M10" value="Окт"/>
+    <text name="M11" value="Ноя"/>
+    <text name="M12" value="Дек"/>
+
+    <text name="MI_CashManagement_Revenues_CashPlan" value="Кассовый план доходов"/>
+
+
+    <text name="RevenueCashPlan.RegistryofCashPlans" value="Реестр кассовых планов"/>
+    <text name="RevenueCashPlan.Status" value="Статус"/>
+    <text name="RevenueCashPlan.Name" value="Имя"/>
+    <text name="RevenueCashPlan.DocNbr" value="Номер документа"/>
+    <text name="RevenueCashPlan.CreatorUserName" value="Создатель или имя пользователя"/>
+    <text name="RevenueCashPlan.LastModifierUserName" value="Имя пользователя последнего модификатора"/>
+    <text name="RevenueCashPlan.CreationTime" value="Время создания"/>
+    <text name="RevenueCashPlan.LastModificationTime" value="Время последней модификации"/>
+    <text name="RevenueCashPlan.Archive" value="Архив"/>
+    <text name="RevenueCashPlan.AnnualRegistryofCashPlans" value="Ежегодный реестр денежных планов"/>
+    <text name="RevenueCashPlan.RegistryofCompoundFiles" value="Реестр составных файлов"/>
+    <text name="RevenueCashPlan.TerritoryName" value="Название территории"/>
+    <text name="RevenueCashPlan.FinancialName" value="Финансовое имя"/>
+    <text name="RevenueCashPlan.Amount" value="Количество"/>
+    <text name="RevenueCashPlan.Type" value="Тип"/>
+    <text name="RevenueCashPlan.Fact" value=" Факт"/>
+    <text name="RevenueCashPlan.CashForecast" value="Прогноз наличности"/>
+    <text name="RevenueCashPlan.NormilizedPlanIntrapolation" value="Нормализованный план (Интерполяция)"/>
+    <text name="RevenueCashPlan.CumulativeCashPlan" value="Кумулятивный денежный план"/>
+    <text name="RevenueCashPlan.CumulativeCashPlanTheLast" value="Последний кумулятивный денежный план"/>
+    <text name="RevenueCashPlan.Difference" value="Разница"/>
+    <text name="RevenueCashPlan.AdminName" value="Имя администратора"/>
+    <text name="RevenueCashPlan.TypeName" value="Наименование типа"/>
+    <text name="RevenueCashPlan.ConsolidatedCashPlan" value="Консолидированный денежный план"/>
+    <text name="RevenueCashPlan.Resources" value="Ресурсы"/>
+    <text name="RevenueCashPlan.DoYouWanttoDeleteRecord" value="Вы хотите удалить запись?"/>
+    <text name="RevenueCashPlan.DoYouWanttoSendRecord" value="Вы хотите отослать документ?"/>
+    <text name="RevenueCashPlan.InOrdertoAddNewDimension" value="Чтобы добавить новую комбинацию размеров, сначала сохраните документ. Сохранить?"/>
+    <text name="RevenueCashPlan.RequiredFieldPleaseFill" value=" Обязательное поле, пожалуйста заполните значение финансовой классификации, в правом верхнем углу"/>
+    <text name="RevenueCashPlan.DimensionWarning" value="Dimension with same territory and financial name is already added!"/>
+    <text name="RevenueCashPlan.DimensionWarningTitle" value="Warning"/>
+    <text name="RevenueCashPlan.AttentionPleasSaveDocumentBefore" value="Внимание, пожалуйста сохраните документ перед изменением комбинации измерения, в правом верхнем углу"/>
+    <text name="RevenueCashPlan.ValidationErrorPleaseChooseatLeast" value="Ошибка валидации. Пожалуйста, выберите хотя бы один денежный план, в правом верхнем углу"/>
+
+
+    <text name="CashManagmnet.LimitMng.DueDate" value="Соответствующий день"/>
+    <text name="CashManagmnet.LimitMng.ReturnDate" value="Дата Возврата"/>
+    <text name="CashManagmnet.LimitMng.DealOpeningDay" value="Дата открытия сделки"/>
+    <text name="CashManagmnet.LimitMng.TerritoryId" value="Территориальная ID"/>
+    <text name="CashManagmnet.LimitMng.TerritoryCodeName" value="Territory name"/>
+    <text name="CashManagmnet.LimitMng.Budget" value="Budget"/>
+    <text name="CashManagmnet.LimitMng.RefreshData" value="Обновить данные"/>
+    <text name="CashManagmnet.LimitMng.ClearFilers" value="Очистить фильтры"/>
+    <text name="CashManagmnet.LimitMng.OperationType" value="Тип Операции"/>
+    <text name="CashManagmnet.LimitMng.OperationSubType" value="Тип Суб-Операции"/>
+    <text name="CashManagmnet.LimitMng.Amt" value="Сумма Сделки"/>
+    <text name="CashManagmnet.LimitMng.Resource" value="Resource"/>
+    <text name="CashManagmnet.LimitMng.Details" value="Details"/>
+
+    <text name="Asset_Attribute_Name" value="Имя Атрибута"/>
+    <text name="Asset_Atomic" value="Валентное"/>
+    <text name="Asset_General_Setting" value="Общие настройки"/>
+    <text name="Asset_Data_Type" value="Тип данных"/>
+    <text name="Asset_Integer" value="Целое число"/>
+    <text name="Asset_Text" value="Текст"/>
+    <text name="Asset_Attribute_Label_and_Validation" value="Метка атрибута и валидация"/>
+    <text name="Asset_Required" value="Требуемый"/>
+    <text name="Asset_Caption" value="Надпись"/>
+    <text name="Asset_Validation_Message" value="Сообщение проверки"/>
+    <text name="Asset_Dictionary_Values" value="Значения словаря"/>
+    <text name="Asset_Member_of_Category" value="Член категории"/>
+    <text name="Asset_Category_Name" value="Название категории"/>
+    <text name="Asset_Is_Member" value="Является членом"/>
+    <text name="Asset_Add_Dictionary_Values" value=""/>
+    <text name="Asset_Languages" value="Языки"/>
+    <text name="Asset_Delet_Confirmation" value="Подтверждение удаления"/>
+    <text name="Asset_Sure_to_Delete_Record" value="Удалить запись"/>
+    <text name="Asset_Operation_Status" value="Состояние операции"/>
+    <text name="Asset_Record_has_Deleted_Successfully" value="Запись успешно удалена"/>
+    <text name="Asset_Add_Dictionary_Value_Before_Save" value="Добавить значение словаря перед сохранением"/>
+    <text name="Asset_Attribute_Saved" value="Атрибут сохранен"/>
+    <text name="Asset_Attribute-with-such-Name-Already-Exists" value="Атрибут с таким именем уже существует"/>
+    <text name="Asset_Is_Required" value="Обязательное"/>
+    <text name="Asset_Masked_Field" value="Маскированное поле"/>
+
+
+    <text name="SgbUsersImportProblem" value="Проблема импорта пользователей SGB!"/>
+
+
+    <text name="MI_CM_Reserves_Reserves" value="Резервы"/>
+    <text name="MI_Cash_Management_Reserves_Reserves" value="Резервы"/>
+    <text name="Cm_Reserves_Reserve_Validation" value="Резерв не найден!"/>
+    <text name="Cm_Reserves_Null_Params_Validation" value="Параметр не может быть нулевым!"/>
+    <text name="Cm_Reserves_Territory_Not_Found_Validation" value="Территория не найдена!"/>
+    <text name="Cm_Reserves_Institutional_Classification_Not_Found_Validation" value="Ведомственная классификация не найдена!"/>
+    <text name="Cm_Reserves_Dates_Validation" value="Дата начала должна быть больше даты окончания!"/>
+    <text name="Cm_Reserves_PeriodDates_Validation" value="Дата начала периода должна быть больше даты окончания периода!"/>
+    <text name="Cm_Reserves_Amount_Validation" value="Сумма не может быть меньше 0!"/>
+    <text name="Cm_Reserves_Territory_Exists_Validation" value="Территория уже существует в рамках {0} рабочего периода!"/>
+    <text name="Cm_Reserves_Institutional_Classification_Exists_Validation" value="Ведомственная классификация уже существует в рамках {0} рабочего периода!"/>
+    <text name="Cm_Reserves_Reload_Button_Tooltip" value="Перезагрузить"/>
+    <text name="Cm_Reserves_New_Button_Tooltip" value="Добавить"/>
+    <text name="Cm_Reserves_Delete_Button_Tooltip" value="Удалить"/>
+    <text name="Cm_Reserves_Territory" value="Территориальная единица"/>
+    <text name="Cm_Reserves_Orgnaization" value="Организация"/>
+    <text name="Cm_Reserves_MinBalance" value="Минимальный баланс"/>
+    <text name="Cm_Reserves_Id" value="Минимальный баланс"/>
+    <text name="Cm_Reserves_ReserveAmount" value="Сумма резерва"/>
+    <text name="Cm_Reserves_StartDate" value="Дата начала"/>
+    <text name="Cm_Reserves_EndtDate" value="Дата окончания"/>
+    <text name="Cm_Reserves_Tab1_Title" value="Минимальный баланс для территориальной единицы"/>
+    <text name="Cm_Reserves_Tab2_Title" value="Минимальные балансы для бюджетных организаций"/>
+    <text name="Cm_Reserves_OperationSuccessTitle" value="Статус операции"/>
+    <text name="Cm_Reserves_OperationSuccessMessage" value="Операция завершена успешно!"/>
+
+    <text name="RevenueCashPlan.ExecutionRevenueByQuarter" value="Выполняемый Доход"/>
+    <text name="RevenueCashPlan.ExpenditureCashPlanByQuarter" value="Кассплан Расходов"/>
+    <text name="RevenueCashPlan.ExpenditureByQuarter" value="Расходы"/>
+    <text name="RevenueCashPlan.TradeByQuarter" value="Сделка"/>
+    <text name="RevenueCashPlan.ExpenditureLimitsByQuarter" value="Лимиты Расходов"/>
+
+
+    <text name="TerritorialUnitFilterResource.Year" value="Год"/>
+    <text name="TerritorialUnitFilterResource.IQuarter" value="I четверть"/>
+    <text name="TerritorialUnitFilterResource.IIQuarter" value="II четверть"/>
+    <text name="TerritorialUnitFilterResource.IIIQuarter" value="III четверть"/>
+    <text name="TerritorialUnitFilterResource.IVQuarter" value="IV четверть"/>
+
+
+    <text name="TerritorialUnitFilterResourceValue.All" value="Все"/>
+    <text name="TerritorialUnitFilterResourceValue.WithBalance" value="С балансом"/>
+    <text name="TerritorialUnitFilterResourceValue.WithoutBalance" value="Без баланса"/>
+
+
+    <text name="TerritorialUnitFilterResourceType.WithQuarterBudget" value="С квартальным бюджетом"/>
+    <text name="TerritorialUnitFilterResourceType.WithCashPlan" value="С касспланом"/>
+    <text name="TerritorialUnitFilterResourceType.WithLimit" value="С лимитом"/>
+
+    <text name="TerritorialUnitFilterBalance.Year" value="Год"/>
+    <text name="TerritorialUnitFilterBalance.Month" value="Месяц"/>
+    <text name="TerritorialUnitFilterBalance.Day" value="День"/>
+
+
+    <text name="TerritorialUnitFilterBalanceValue.All" value="Все"/>
+    <text name="TerritorialUnitFilterBalanceValue.WithBalance" value="С балансом"/>
+    <text name="TerritorialUnitFilterBalanceValue.WithoutBalance" value="Без баланса"/>
+
+    <text name="TerritorialUnitFilterBalanceType.WithCashPlan" value="С касспланом"/>
+    <text name="TerritorialUnitFilterBalanceType.WithLimit" value="С лимитом"/>
+
+
+    <text name="TerritorialUnitBalancePeriod.Year" value="Год"/>
+    <text name="TerritorialUnitBalancePeriod.January" value="Январь"/>
+    <text name="TerritorialUnitBalancePeriod.February" value="Февраль"/>
+    <text name="TerritorialUnitBalancePeriod.March" value="Март"/>
+    <text name="TerritorialUnitBalancePeriod.April" value="Апрель"/>
+    <text name="TerritorialUnitBalancePeriod.May" value="Май"/>
+    <text name="TerritorialUnitBalancePeriod.June" value="Июнь"/>
+    <text name="TerritorialUnitBalancePeriod.July" value="Июль"/>
+    <text name="TerritorialUnitBalancePeriod.August" value="Август"/>
+    <text name="TerritorialUnitBalancePeriod.September" value="Сентябрь"/>
+    <text name="TerritorialUnitBalancePeriod.October" value="Октябрь"/>
+    <text name="TerritorialUnitBalancePeriod.November" value="Ноябрь"/>
+    <text name="TerritorialUnitBalancePeriod.December" value="Декабрь"/>
+
+    <text name="CashManagment_Resources_Chart_Filter_RevenueCashPlan" value="Кассплан доходов"/>
+    <text name="CashManagment_Resources_Chart_Filter_BalanceApplicableAtTheBeginningOfThePeriod" value="Баланс, применимый на начало периода"/>
+    <text name="CashManagment_Resources_Chart_Filter_AdditionalResourceChange" value="Изменение дополнительного ресурса"/>
+    <text name="CashManagment_Resources_Chart_Filter_ActualReceipts" value="Фактические поступления"/>
+    <text name="CashManagment_Resources_Chart_Filter_Resource" value="Ресурс"/>
+    <text name="CashManagment_Resources_Chart_Filter_QuarterBudget" value="Квартальный бюджет"/>
+    <text name="CashManagment_Resources_Chart_Filter_CashPaymentPlan" value="План оплаты наличными"/>
+    <text name="CashManagment_Resources_Chart_Filter_Limits" value="Лимиты"/>
+    <text name="CashManagment_Resources_Chart_Filter_ActualPayments" value="Фактические платежи"/>
+
+
+    <text name="CashManagment_Resource_RevenueCashPlan" value="Кассовый план"/>
+    <text name="CashManagment_Resource_Period" value="Период"/>
+    <text name="CashManagment_Resource_Revenues" value="Доходы"/>
+    <text name="CashManagment_Resource_Payments" value="Платежи"/>
+    <text name="CashManagment_Resource" value="Ресурс"/>
+    <text name="CashManagment_Resource_TerritorialUnit" value="Территориальная единица"/>
+
+
+    <text name="CashManagment_Balance_RevenueCashPlan" value="Кассовый план"/>
+    <text name="CashManagment_Balance_Period" value="Период"/>
+    <text name="CashManagment_Balance_Revenues" value="Доходы"/>
+    <text name="CashManagment_Balance_Payments" value="Платежи"/>
+    <text name="CashManagment_Balance_Resource" value="Ресурс"/>
+    <text name="CashManagment_Balance_TerritorialUnit" value="Территориальная единица"/>
+
+
+
+    <text name="CashManagment_Balances_Chart_Filter_RevenueCashPlan" value="Кассплан доходов"/>
+    <text name="CashManagment_Balances_Chart_Filter_BalanceApplicableAtTheBeginningOfThePeriod" value="Баланс, применимый на начало периода"/>
+    <text name="CashManagment_Balances_Chart_Filter_AdditionalResourceChange" value="Изменение дополнительного ресурса"/>
+    <text name="CashManagment_Balances_Chart_Filter_ActualReceipts" value="Фактические поступления"/>
+    <text name="CashManagment_Balances_Chart_Filter_Resource" value="Ресурс"/>
+    <text name="CashManagment_Balances_Chart_Filter_QuarterBudget" value="Квартальный бюджет"/>
+    <text name="CashManagment_Balances_Chart_Filter_CashPaymentPlan" value="План оплаты наличными"/>
+    <text name="CashManagment_Balances_Chart_Filter_Limits" value="Лимиты"/>
+    <text name="CashManagment_Balances_Chart_Filter_ActualPayments" value="Фактические платежи"/>
+    <text name="CashManagment_Balances_Chart_Filter_ObligationsICategory" value="Облигации категории I"/>
+    <text name="CashManagment_Balances_Chart_Filter_ObligationsIICategory" value="Облигации категории II"/>
+    <text name="CashManagment_Balances_Chart_Filter_ResourceObligationsICategory" value="Ресурс облигаций категории I"/>
+    <text name="CashManagment_Balances_Chart_Filter_ResourceObligationsIICategory" value="Ресурс облигаций категории II"/>
+
+    <text name="RevenueCashPlan.RevenueCashPlanByQuarter" value="Кассплан доходов"/>
+    <text name="RevenueCashPlan.PleaseEnterCoefficient" value="Пожалуйста введите коэффициент"/>
+    <text name="RevenueCashPlan.PleaseSaveBefore" value="Пожалуйста, сохраните документ"/>
+
+
+    <text name="CashManagment_Preferences_ExceptionManagment" value="Управление исключениями"/>
+    <text name="CashManagment_Preferences_AnnualRevenueCashYearPlanPrepareTurnOnOff" value="Подготовка кассового плана годового дохода включить/выключить"/>
+    <text name="CashManagment_Preferences_MonthlyRevenueCashYearPlanPrepareTurnOnOff" value="Подготовка кассового плана месячного дохода включить/выключить"/>
+    <text name="CashManagment_Preferences_Name" value="Имя"/>
+    <text name="CashManagment_Preferences_Jan" value="Янв"/>
+    <text name="CashManagment_Preferences_Feb" value="Фев"/>
+    <text name="CashManagment_Preferences_Mar" value="Мар"/>
+    <text name="CashManagment_Preferences_Apr" value="Апр"/>
+    <text name="CashManagment_Preferences_May" value="Май"/>
+    <text name="CashManagment_Preferences_Jun" value="Июн"/>
+    <text name="CashManagment_Preferences_Jul" value="Июл"/>
+    <text name="CashManagment_Preferences_Aug" value="Авг"/>
+    <text name="CashManagment_Preferences_Sep" value="Сен"/>
+    <text name="CashManagment_Preferences_Oct" value="Окт"/>
+    <text name="CashManagment_Preferences_Nov" value="Ноя"/>
+    <text name="CashManagment_Preferences_Dec" value="Дек"/>
+
+
+    <text name="RevenueCashPlan.QuarterBudget" value="Quarter Budget"/>
+
+
+    <text name="RevenueCashPlan_Balances_ExecutionRevenue" value="Execution revenue"/>
+    <text name="RevenueCashPlan_Balances_RevenueCashPlan" value="Revenue cash plan"/>
+    <text name="RevenueCashPlan_Balances_ExpenditureCashPlan" value="Expenditure cash plan"/>
+    <text name="RevenueCashPlan_Balances_ExpenditureLimits" value="Expenditure limits"/>
+    <text name="RevenueCashPlan_Balances_RevenueCashPlanExpLimit" value="Revenue cash plan exp. limit"/>
+    <text name="RevenueCashPlan_Balances_Resource" value="Resource"/>
+    <text name="RevenueCashPlan_Balances_Expenditure" value="Expenditure"/>
+    <text name="RevenueCashPlan_Balances_TheFirstCategoryLiability" value="The first category liability"/>
+    <text name="RevenueCashPlan_Balances_TheSecondCategoryLiability" value="The second category liability"/>
+    <text name="RevenueCashPlan_Balances_AvailableResourcesFirstCategoryLiability" value="Available resources first category liability"/>
+    <text name="RevenueCashPlan_Balances_AvailableResourcesSecondCategoryLiability" value="Available resources second category liability"/>
+
+
+    <text name="RevenueCashPlan_Resources_DataName" value="Date name"/>
+    <text name="RevenueCashPlan_Resources_AmtQuarter1" value="AmtQuarter1"/>
+    <text name="RevenueCashPlan_Resources_AmtQuarter2" value="AmtQuarter2"/>
+    <text name="RevenueCashPlan_Resources_AmtQuarter3" value="AmtQuarter3"/>
+    <text name="RevenueCashPlan_Resources_AmtQuarter4" value="AmtQuarter4"/>
+
+    <text name="Cm_revenuecashplan_Preferences" value="Предпочтения"/>
+
+
+
+
+
+
+    <text name="OperationType.RegistrationOfMainAsset" value="Registration of main asset"/>
+
+
+    <text name="OperationStatus.Draft" value="Draft"/>
+    <text name="OperationStatus.Approved" value="Approved"/>
+    <text name="OperationStatus.Confirmed" value="Confirmed"/>
+
+    <text name="EntryType.Contract" value="Contract"/>
+    <text name="EntryType.AmountIssued" value="Amount issued"/>
+    <text name="EntryType.WithoutPreRegistration" value="Without pre registration"/>
+    <text name="EntryType.FinancialOperation" value="Financial operation"/>
+    <text name="EntryType.EntryAnAssetOfGiftBasis" value="Entry an asset of gift basis"/>
+    <text name="EntryType.EntryAnAssetWithTemporaryUse" value="Entry an asset with temporary use"/>
+    <text name="EntryType.EntryAnAssetWithTemporarySave" value="Entry an asset with temporary save"/>
+    <text name="EntryType.EntryAnAssetUnderLegalization" value="Entry an asset under legalization"/>
+    <text name="EntryType.EntryAnAssetUnderStatutoryAct" value="Entry an asset under statutory act"/>
+
+
+    <text name="AssetUsageDegree.UsageRestrictionsOrNoRightToRegister" value="Usage restrictions or no right to register"/>
+    <text name="AssetUsageDegree.OtherPersonRightIsRegistered" value="Other person right is registered"/>
+    <text name="AssetUsageDegree.Seizured" value="Seizured"/>
+
+    <text name="AssetType.Material" value="Material"/>
+    <text name="AssetType.NonMaterial" value="NonMaterial"/>
+
+
+    <text name="AssetDepreciationType.Depreciable" value="Depreciable"/>
+    <text name="AssetDepreciationType.NonDepreciable" value="NonDepreciable"/>
+
+    <text name="AssetOperation_StatusRestriction" value="Operation status must be {0}"/>
+
+    <text name="AssetOperation_Toolbar_Reject" value="Reject"/>
+    <text name="AssetOperation_Toolbar_Confirm" value="Confirm"/>
+    <text name="AssetOperation_Toolbar_Approve" value="Approve"/>
+    <text name="AssetOperation_Toolbar_Edit" value="Edit"/>
+    <text name="AssetOperation_Toolbar_Delete" value="Delete"/>
+    <text name="AssetOperation_Toolbar_Detail" value="Detail"/>
+
+    <text name="Asset_processing" value="processing ..."/>
+    <text name="AssetConfirmation_Complated" value="Operation complated succesfully!"/>
+    <text name="AssetConfirmation_Status" value="Operation status"/>
+    <text name="AssetConfirmation_Reject_Title" value="Reject confirmation"/>
+    <text name="AssetConfirmation_Reject_Message" value="Sure to reject operation?"/>
+    <text name="AssetConfirmation_Reject_Success" value="Operation has rejecred successfully"/>
+    <text name="AssetConfirmation_Doc_Upload" value="Before uploading primary documents please save operation!"/>
+
+    <text name="AssetConfirmation_Confirm_Title" value="Confirmation"/>
+    <text name="AssetConfirmation_Confirm_Message" value="Sure to confirm operation?"/>
+    <text name="AssetConfirmation_DocDelete_Message" value="Sure to delete document?"/>
+    <text name="AssetConfirmation_Confirm_Success" value="Operation has confirmed successfully"/>
+    <text name="AssetConfirmation_DocDelete_Success" value="Document deleted succesfully!"/>
+
+    <text name="AssetConfirmation_Approve_Title" value="Approve confirmation"/>
+    <text name="AssetConfirmation_Approve_Message" value="Sure to approve operation?"/>
+    <text name="AssetConfirmation_Approve_Success" value="Operation has approved successfully"/>
+
+    <text name="AssetConfirmation_Delete_Title" value="Delete confirmation"/>
+    <text name="AssetConfirmation_Delete_Message" value="Sure to delete operation?"/>
+    <text name="AssetConfirmation_Delete_Success" value="Operation has deleted successfully"/>
+    <text name="AssetConfirmation_DocUpload_Success" value="Document uploaded successfully"/>
+
+    <text name="Fa_ContractDetail_Not_Found_Validation" value="Contract detail not found!"/>
+    <text name="Fa_Operation_Not_Found_Validation" value="Operation not found!"/>
+    <text name="Fa_Operation_Null_Param_Validation" value="Parameter is null or undefined!"/>
+    <text name="Fa_Operation_Details_Not_Found_Validation" value="Operation not allowed. Operation details not defined!"/>
+    <text name="Fa_Operation_Attributes_Not_Found_Validation" value="Operation not allowed. Attributes not defined!"/>
+    <text name="Fa_Operation_Attribute_Details_Not_Found_Validation" value="Operation not allowed. Attributes details not defined!"/>
+    <text name="Fa_Attributes_Null_Param_Validation" value="Attribute details cant'be null!"/>
+    <text name="Fa_Attributes_Quentity_Param_Validation" value="Attribute quentity cant be less or equal then zero!"/>
+    <text name="Fa_Attributes_Revision_Param_Validation" value="If asset requires revision note cant'be empty!"/>
+    <text name="Fa_Attributes_Barcode_Param_Validation" value="Barcode can't be empty!"/>
+    <text name="Fa_Attributes_SerialNum_Param_Validation" value="Serial number can't be empty!"/>
+
+
+
+    <text name="Asset_SysNum" value="System number"/>
+    <text name="Asset_OperationType" value="Operation type"/>
+    <text name="Asset_EntryType" value="Entry type"/>
+    <text name="Asset_EntryGround" value="Entry ground"/>
+    <text name="Asset_EntryNumber" value="Entry number"/>
+    <text name="Asset_EntryDate" value="Entry date"/>
+    <text name="Asset_EntryDoc" value="Entry document"/>
+    <text name="Asset_ProvidedBy" value="Provided by"/>
+    <text name="Asset_PrimaryDoc" value="Primary doc."/>
+    <text name="Asset_CreateDate" value="Create date"/>
+    <text name="Asset_OperDate" value="Operation date"/>
+    <text name="Asset_Filtration" value="Filtration"/>
+    <text name="Asset_FormTitle" value="Main asset registration"/>
+
+
+
+    <text name="DebtAgreementStatusEnum.Ongoing" value="деиствующий"/>
+    <text name="DebtAgreementStatusEnum.Ended" value="законченный"/>
+
+    <text name="DebtTypeEnum.Internal" value="внутренный"/>
+    <text name="DebtTypeEnum.External" value="наружный"/>
+
+    <text name="DebtAgreementStateEnum.Draft" value="драфт"/>
+    <text name="DebtAgreementStateEnum.Sent" value="отправлённый"/>
+
+
+
+    <text name="Lm_DebtAgreement_Grid_StatusName_Column" value="статус"/>
+    <text name="Lm_DebtAgreement_Grid_Number_Column" value="N."/>
+    <text name="Lm_DebtAgreement_Grid_StateName_Column" value="статус"/>
+    <text name="Lm_DebtAgreement_Grid_DebtTypeName_Column" value="тип"/>
+    <text name="Lm_DebtAgreement_Grid_Donor_Column" value="донор"/>
+    <text name="Lm_DebtAgreement_Grid_CurrencyName_Column" value="валюта"/>
+    <text name="Lm_DebtAgreement_Grid_InstitutionalClassificationName_Column" value="Институционалная Класификация"/>
+    <text name="Lm_DebtAgreement_Grid_StartDate_Column" value="срок начала"/>
+    <text name="Lm_DebtAgreement_Grid_EndDate_Column" value="срок окончания"/>
+    <text name="Lm_DebtAgreement_Grid_Comment_Column" value="замечание"/>
+
+    <text name="Lm_DebtAgreement_Grid_FormPanel_Title" value="Debt Agreement Form"/>
+
+    <text name="Lm_DebtAgreement_GridFormPanel_Id_Label" value="ID"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_DebtAgreementStatusId_Label" value="статус"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_DebtAgreementStateId_Label" value="статус"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_DebtTypeId_Label" value="тип"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_CurrencyId_Label" value="валюта"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_Donor_Label" value="донор"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_InstitutionalClassificationId_Label" value="Институционалная Класификация"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_StartDate_Label" value="срок начала"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_EndDate_Label" value="срок окончания"/>
+    <text name="Lm_DebtAgreement_GridFormPanel_Comment_Label" value="замечание"/>
+
+    <text name="Debit_Agrement_Form_System_Num" value="N."/>
+    <text name="Debit_Agrement_Form_Organization" value="организациа"/>
+    <text name="Debit_Agrement_Form_Debit_Type" value="тип"/>
+    <text name="Debit_Agrement_Form_Open_Date" value="старт кредита"/>
+    <text name="Debit_Agrement_Form_Donor" value="донор"/>
+    <text name="Debit_Agrement_Form_Close_Date" value="конец кредита"/>
+    <text name="Debit_Agrement_Form_Currency" value="валута"/>
+    <text name="Debit_Agrement_Form_Money" value="количество"/>
+    <text name="Debit_Agrement_Form_Note" value="замечание"/>
+    
+    <text name="Debit_Agrement_Fact" value="факт"/>
+
+    <text name="Debit_Agrement_Table" value="Table"/>
+
+    <text name="Debit_Agrement_F2_Type" value="тип операции"/>
+    <text name="Debit_Agrement_F2_Date" value="число"/>
+    <text name="Debit_Agrement_F2_Money" value="количество"/>
+
+    <text name="Debit_Agrement_Table_RecordType" value="Тип(план/факт)"/>
+    <text name="Debit_Agrement_Table_OperationType" value="Тип операции"/>
+    <text name="Debit_Agrement_Table_Probable_Money" value="Прогнозная сумма"/>
+    <text name="Debit_Agrement_Table_Probable_Date" value="Предположительная дата"/>
+    <text name="Debit_Agrement_Table_Paid_Amount" value="Фактическая сумма"/>
+    <text name="Debit_Agrement_Table_Paid_Date" value="Дата операции"/>
+    <text name="Debit_Agrement_Table_Payment_Account" value="Счёт платежа"/>
+
+
+    <text name="Lm_DebtAgreement_DoYouWanttoDeleteRecord" value="вы хотите Удалить запись?"/>
+    <text name="Lm_DebtAgreement_ConfirmDebtAgreementReverting" value="Do You Want To Revert This Debt To Draft?"/>
+    <text name="Lm_DebtAgreement_DoYouWantToApproveRecords" value="Do You Want Approve this Debt?"/>
+
+    <text name="ContracStatusEnum.Draft" value="Draft"/>
+    <text name="ContracStatusEnum.Accept" value="Accept"/>
+    <text name="ContracStatusEnum.DeclinedByOrgMng" value="DeclinedByOrgMng"/>
+    <text name="ContracStatusEnum.AcceptedAndSentByOrgMng" value="AcceptedAndSentByOrgMng"/>
+    <text name="ContracStatusEnum.AcceptedAndSentSpecContractByTreasure" value="AcceptedAndSentSpecContractByTreasure"/>
+
+    <text name="ContracStatusEnum.DeclinedAndReturnSpecContractByTreasure" value="DeclinedAndReturnSpecContractByTreasure"/>
+    <text name="ContracStatusEnum.AcceptedLongTermContractAndSentByBudgDep" value="AcceptedLongTermContractAndSentByBudgDep"/>
+    <text name="ContracStatusEnum.DeclinedAndReturnLongTermContractByBudgDep" value="DeclinedAndReturnLongTermContractByBudgDep"/>
+    <text name="ContracStatusEnum.AcceptedObligationAndSentContractNextStepByTreasure" value="AcceptedObligationAndSentContractNextStepByTreasure"/>
+    <text name="ContracStatusEnum.DeclinedObligationAndReturnContractByTreasure" value="DeclinedObligationAndReturnContractByTreasure"/>
+    <text name="ContracStatusEnum.SentToSpa" value="SentToSpa"/>
+    <text name="ContracStatusEnum.PaperContract" value="PaperContract"/>
+    <text name="ContracStatusEnum.ActivatedContract" value="ActivatedContract"/>
+    <text name="ContracStatusEnum.ContractInProgress" value="ContractInProgress"/>
+    <text name="ContracStatusEnum.ContractInProblem" value="ContractInProblem"/>
+    <text name="ContracStatusEnum.Suspended" value="Suspended"/>
+    <text name="ContracStatusEnum.Completed" value="Completed"/>
+    <text name="ContracStatusEnum.Fulfilled" value="Fulfilled"/>
+    <text name="ContracStatusEnum.Terminated" value="Terminated"/>
+
+    <text name="ContractTypeEnum.TenderForm" value="Tender"/>
+    <text name="ContractTypeEnum.NonRegisteredAgreement" value="Non Registered Agreement"/>
+    <text name="MI_LM_Contract" value="контракты"/>
+    <text name="MI_LM_Perennial" value="круглогодичный"/>
+    <text name="MI_LM" value="M2 Управление Обязательствами"/>
+
+    <!--Information(K)-->
+    <text name="MI_LM_Information" value="M2G01 - Информация (К)"/>
+    <text name="MI_LM_Information_Dashboard" value="G01U01 - Инфотабло"/>
+    <text name="MI_LM_Information_ShowReports" value="G01U08 - Онлайн Отчетность"/>
+    <text name="MI_LM_Information_PrintReports" value="G01U09 - Печатная Отчетность"/>
+
+    <!--Information(BO)-->
+    <text name="MI_LM_InformationBO" value="M2G02 - Информация (БО)"/>
+    <text name="MI_LM_InformationBO_Dashboard" value="G02U01 - Инфотабло"/>
+    <text name="MI_LM_InformationBO_Resources" value="G02U02 - Ресурсы"/>
+    <text name="MI_LM_InformationBO_ShowReports" value="G02U08 - Онлайн Отчетность"/>
+    <text name="MI_LM_InformationBO_PrintReports" value="G02U09 - Печатная Отчетность"/>
+
+    <!--Obligations-->
+    <text name="MI_LM_Requirements" value="M2G03 - Потребности"/>
+    <text name="MI_LM_Requirements_Registry" value="G03U01 - Реестр"/>
+    <text name="MI_LM_Requirements_Categories" value="G03U02 - Категории"/>
+
+    <!--ContractPackages-->
+    <text name="MI_LM_ContractPackages" value="M2G04 - Пакеты Контрактов"/>
+    <text name="MI_LM_ContractPackages_Registry" value="G04U01 - Реестр"/>
+
+    <!--Contracts-->
+    <text name="MI_LM_Contracts" value="M2G05 - Контракты"/>
+    <text name="MI_LM_Contracts_FastLook" value="G05U01 - Быстрый взгляд"/>
+    <text name="MI_LM_Contracts_Registry" value="G05U02 - Реестр"/>
+    <text name="MI_LM_Contracts_ApiStatus" value="G05U10 - Статус API"/>
+    <text name="MI_LM_Contracts_PrimaryDocument" value="G05U07 - исполнения по контракту"/>
+
+    <!--Debts-->
+    <text name="MI_LM_Debts" value="M2G06 - Госдолги"/>
+    <text name="MI_LM_Debts_FastLook" value="G06U01 - Быстрый взгляд"/>
+    <text name="MI_LM_Debts_Categories" value="G06U03 - Категории"/>
+    <text name="MI_LM_Debts_ApiStatus" value="G06U05 - Статус API"/>
+    <text name="MI_LM_Debts_Registry" value="G06U02 - Реестр"/>
+
+    <!--Liabilities-->
+    <text name="MI_LM_Obligations" value="M2G07 - Обязательства"/>
+    <text name="MI_LM_Obligations_Registry" value="G07U01 - Реестр"/>
+    
+    <!--TRS Сontrol Panel-->
+    <text name="MI_LM_TRS" value="M2G08 - Контрольная Панель ГУЦК"/>
+    <text name="MI_LM_TRS_FastLook" value="G08U01 - Быстрый взгляд"/>
+    <text name="MI_LM_TRS_Registry" value="G08U02 - Реестр"/>
+    <text name="MI_LM_TRS_LiabilityApproval" value="G08U03 - заявки по обязательству"/>
+    <text name="MI_LM_TRS_SpecialRegistry" value="G08U02 - Реестр Спецзаявок"/>
+    <text name="MI_LM_TRS_ContractPackageRegistry" value="G08U08 - Реестр пакета контрактов"/>
+    <text name="MI_LM_TRS_Contracts" value="G05U02 - Реестр контрактов"/>
+    <text name="MI_LM_TRS_ContractPermit" value="G08U06 - Реестр заявок по перерегистрации"/>
+
+    <!--Accounting status-->
+    <text name="MI_LM_Accounting" value="M2G09 - Статус Бухгалтерии"/>
+    <text name="MI_LM_Accounting_ApiStatus" value="G09U01 - Статус API"/>
+
+    <!--BD Сontrol Panel-->
+    <text name="MI_LM_BDcontrolPanel" value="M2G10 - Контрольная Панель БД"/>
+    <text name="MI_LM_BDcontrolPanel_FastLook" value="G10U01 - Быстрый взгляд"/>
+    <text name="MI_LM_BDcontrolPanel_Registry" value="G10U02 - Реестр Заявок"/>
+
+
+
+
+
+
+    <text name="MI_LM_PBSMain" value="Организационный мониторинг и анализ"/>
+    <text name="Contract.Status" value="Status"/>
+    <text name="Contract.ContractInternalNbr" value="Internal Nbr"/>
+    <text name="Contract.ContractDate" value="Contract Date"/>
+    <text name="Contract.SupplierCode" value="Supplier Code"/>
+    <text name="Contract.IsLongTerm" value="Long Term"/>
+    <text name="Contract.ContractTotalAmt" value="Total Amt"/>
+    <text name="Contract.CurrencyName" value="Curr"/>
+    <text name="Contract.ContractAmtInLocalCurrency" value="Amt in Somon"/>
+    <text name="Contract.CreationTime" value="Creation Time"/>
+
+    <text name="Contract.Document.ContractType" value="Contract Type"/>
+    <text name="Contract.Document.TenderApplicationId" value="Tender Application"/>
+    <text name="Contract.Document.RightDocNbrId" value="Right Document"/>
+
+    <text name="Contract.Document.SupplierId" value="Supplier"/>
+    <text name="Contract.Document.Desc" value="Description"/>
+    <text name="Contract.Document.ChangeReason" value="Change Reason"/>
+
+
+    <text name="Contract.Positions.Grid.Title" value="Positions"/>
+
+
+    <text name="Position.Name" value="Position"/>
+    <text name="Position.Gfsm" value="Gfsm"/>
+    <text name="Position.Cpv" value="Cpv"/>
+    <text name="Position.MeasureUnit" value="Measure Unit"/>
+    <text name="Position.UnitQty" value="Unit Qty"/>
+    <text name="Position.UnitPrice" value="Unit Price"/>
+    <text name="Position.Price" value="Price"/>
+    <text name="Position.CreationTime" value="Creation Time"/>
+
+
+
+    <text name="RevenueCashPlan.UsableBalance" value="Usable Balance"/>
+    <text name="RevenueCashPlan.ResourcQuarterBudget" value="Resource Budget"/>
+
+    <text name="CmBp.SGBClassifiersImport_TerritorialUnits" value="Budget"/>
+    <text name="RevenueCashPlan_Balances_Trade" value="Trades"/>
+    <text name="RevenueCashPlan_Balances_UsableBalance" value="Usable Balance"/>
+
+
+    <text name="Operation_Template_Contract" value="Contract: #"/>
+    <text name="Operation_Template_Date" value="Date: "/>
+
+    <text name="Asset_Contract_Number" value="Contract #"/>
+    <text name="Asset_Contract_Date" value="Date"/>
+    <text name="Asset_Contract_TenderAppId" value="Tender #"/>
+    <text name="Asset_Contract_Amt" value="Amount"/>
+    <text name="Asset_Contract_SupplierCode" value="Supplier code"/>
+    <text name="Asset_Contract_SupplierName" value="Supplier name"/>
+
+
+    <text name="Asset_BarCode" value="Barcode"/>
+    <text name="Asset_Organization" value="Organization"/>
+    <text name="Asset_Position" value="Category"/>
+    <text name="Asset_PositionDesc" value="Position description"/>
+    <text name="Fund_Year" value="Fund year"/>
+    <text name="Asset_Cost" value="Cost"/>
+    <text name="Asset_BudgetCode" value="Budget code"/>
+    <text name="Asset_EcoCode" value="Eco code"/>
+    <text name="Asset_CpvCode" value="CPV code"/>
+    <text name="Asset_SerialNumber" value="Serial number"/>
+    <text name="Asset_OrgSubDivision" value="Organization Structure"/>
+    <text name="Asset_ResponsiblePerson" value="Responsible person"/>
+    <text name="Asset_Location" value="Location"/>
+    <text name="Asset_OperationDate" value="Operation date"/>
+    <text name="Asset_Type" value="Asset type"/>
+    <text name="Asset_UsageDegree" value="Usage degree"/>
+    <text name="Asset_DepreciationType" value="Depreciation type"/>
+    <text name="Asset_CategoryName" value="Category"/>
+    <text name="Asset_NonMaterialType" value="None material type"/>
+    <text name="Asset_LifeCycle" value="Useful Life"/>
+    <text name="Asset_Quantity" value="Quantity"/>
+    <text name="Asset_UnitPrice" value="Unit price"/>
+    <text name="Asset_RequiresRevision" value="needs revision"/>
+    <text name="Asset_Note" value="Note"/>
+    <text name="Asset_Details" value="Details"/>
+    <text name="Asset_Attributes" value="Attributes"/>
+    <text name="Asset_MainAssets" value="Main assets"/>
+    <text name="Asset_DetailsDefined" value="Details defined"/>
+    <text name="Asset_DetailsNotDefined" value="Details not defined"/>
+    <text name="Asset_TotalCount" value="Total count"/>
+    <text name="Asset_Imported" value="Imported"/>
+    <text name="Asset_Contribute" value="Contribute"/>
+    <text name="Asset_PositionDetails" value="Position details"/>
+    <text name="Asset_Select_Record" value="Please select record."/>
+
+    <text name="Asset_Select_EntryType" value="Please select entry type."/>
+    <text name="Asset_Select_EntryDoc" value="Please select entry doc."/>
+    
+    
+    <text name="Asset_Head_Notification" value="Please save head information before editing details."/>
+    <text name="Asset_Notification" value="Notification"/>
+    <text name="Asset_DeleteAttribute" value="Sure to delete attribute?"/>
+    <text name="Asset_AttributeDetails" value="Attribute details"/>
+    <text name="Asset_Toolbar_Add" value="Add"/>
+    <text name="Asset_Toolbar_SelectAll" value="Select all"/>
+    <text name="Asset_Toolbar_DeselectAll" value="Deselect all"/>
+
+    <text name="AddAndNew" value="Add And New"/>
+    <text name="AddAndClose" value="Add And Close"/>
+    <text name="MI_LM_ProcurementPlan" value="Procurement Plan"/>
+
+
+    <text name="ProcurementPlanStatusEnum.Draft" value="Draft"/>
+    <text name="ProcurementPlanStatusEnum.Approved" value="Approved"/>
+    <text name="ProcurementPlanStatusEnum.Sent" value="Sent"/>
+    <text name="ProcurementPlanStatusEnum.Accept" value="Accept"/>
+    <text name="ProcurementPlanStatusEnum.Decline" value="Decline"/>
+
+
+
+    <text name="ProcurementPlan.Status" value="Status"/>
+    <text name="ProcurementPlan.FundYear" value="Fund Year"/>
+    <text name="ProcurementPlan.CpvCodeId" value="Cpv Code"/>
+    <text name="ProcurementPlan.CatName" value="Position"/>
+    <text name="ProcurementPlan.UnitQty" value="Unit Qty"/>
+    <text name="ProcurementPlan.MeasureUnit" value="Unit"/>
+    <text name="ProcurementPlan.UnitPrice" value="Unit Price"/>
+    <text name="ProcurementPlan.Price" value="Price"/>
+    <text name="ProcurementPlan.Desc" value="Desc"/>
+    <text name="ProcurementPlan.CreationTime" value="Creation Time"/>
+    <text name="ProcurementPlan.EcoCodeId" value="Eco Code"/>
+    <text name="ProcurementPlan.CategoryId" value="Position"/>
+    <text name="ProcurementPlan.Priority" value="Priority"/>
+    <text name="ProcurementPlan.ContractValume" value="Contractted"/>
+    <text name="ProcurementPlan.FulfilledValume" value="Fulfilled"/>
+
+
+    <text name="ProcurementPlan.AddInExistedGroup" value="Add Selected"/>
+    <text name="ProcurementPlan.CreateAndAddInIt" value="Create, Add Selected"/>
+    <text name="RevenueCashPlan.ValidationErrorPleaseChooseatLeastByAdmin" value="Validation Error, Please choose at least one cash plan under administrator"/>
+
+    <text name="RevenueCashPlan.Reserve" value="Reserve"/>
+    <text name="RevenueCashPlan_Balances_reserve" value="Reserve"/>
+
+    <text name="Lm_Primary_Doc" value="просмотр исполнении по контракту"/>
+
+    <text name="Lm_Manager_Orgnaization_Not_Found" value="Manager orgnaization not found!"/>
+    <text name="Lm_Primary_Doc_TotalCostVal" value="Amount in local currency and details cost sum is different"/>
+    <text name="Lm_Primary_Doc_Status_Validation" value="Operation not permitted because document status is't draft!"/>
+    <text name="Lm_Primary_Doc_Contract_Validation" value="Contract not found!"/>
+    <text name="Lm_Primary_Doc_Validation" value="Primary document can't be empty!"/>
+    <text name="Lm_Primary_Doc_StatusRestriction" value="Operation status must be {0}. Primary doc #{1}"/>
+    <text name="Lm_Primary_Doc_Add" value="Add new primary document"/>
+    <text name="Lm_Primary_Doc_Save" value="Save primary document"/>
+    <text name="Lm_Primary_Doc_Edit" value="Edit existing primary document"/>
+    <text name="Lm_Primary_Doc_Delete" value="Delete existing primary document"/>
+    <text name="Lm_Primary_Doc_Approve" value="Approve primary document"/>
+    <text name="Lm_Primary_Doc_Confirm" value="Confirm primary document"/>
+    <text name="Lm_Primary_Doc_Reject" value="Reject primary document"/>
+    <text name="Lm_Primary_Doc_Refresh" value="Refresh"/>
+    <text name="Lm_Primary_Doc_Detail" value="View detail"/>
+    <text name="Lm_Primary_Doc_Number" value="Prim.Doc #"/>
+    <text name="Lm_Primary_Doc_Type" value="Type"/>
+    <text name="Lm_Primary_Doc_DocNumber" value="Doc #"/>
+    <text name="Lm_Primary_Doc_DocDate" value="Doc. Date"/>
+    <text name="Lm_Primary_Doc_Contract" value="Contract"/>
+    <text name="Lm_Primary_Doc_ContractNbr" value="Contract #"/>
+    <text name="Lm_Primary_Doc_ContractDate" value="Contract date"/>
+    <text name="Lm_Primary_Doc_Supplier" value="Supplier"/>
+    <text name="Lm_Primary_Doc_Amt" value="Amount"/>
+    <text name="Lm_Primary_Doc_Currency" value="Currency/Rate"/>
+    <text name="Lm_Primary_Doc_CurrencyRate" value="Currency rate"/>
+    <text name="Lm_Primary_Doc_AmtInLocalCurrency" value="Amount in local currency"/>
+    <text name="Lm_Primary_Doc_CreatetDate" value="Created date"/>
+    <text name="Lm_Primary_Doc_OperationDate" value="Operation date"/>
+    <text name="Lm_Primary_Doc_Details" value="Details"/>
+    <text name="Lm_Primary_Doc_OperationStatus" value="Operation status"/>
+    <text name="Lm_Primary_Doc_OperationComplated" value="Operation complated succesfully"/>
+    <text name="Lm_Primary_Doc_UploadRestriction" value="Before uploading document, please save primary document!"/>
+    <text name="Lm_Primary_Doc_DeleteConfirmation" value="Delete confirmation"/>
+    <text name="Lm_Primary_Doc_DeleteQuestion" value="Sure to delete primary document?"/>
+    <text name="Lm_Primary_Doc_DeleteSuccess" value="Primary document deleted succesfully!"/>
+    <text name="Lm_Primary_Doc_ApproveConfirmation" value="Approve confirmation"/>
+    <text name="Lm_Primary_Doc_ApproveQuestion" value="Sure to approve primary document?"/>
+    <text name="Lm_Primary_Doc_ApproveSuccess" value="Primary document has approved succesfully!"/>
+    <text name="Lm_Primary_Doc_Confirmation" value="Confirm"/>
+    <text name="Lm_Primary_Doc_ConfirmQuestion" value="Sure to confirm primary document?"/>
+    <text name="Lm_Primary_Doc_ConfirmSuccess" value="Primary document has confirm succesfully!"/>
+    <text name="Lm_Primary_Doc_RejectConfirmation" value="Reject confirmation"/>
+    <text name="Lm_Primary_Doc_RejectQuestion" value="Sure to reject primary document?"/>
+    <text name="Lm_Primary_Doc_RejectSuccess" value="Primary document has reject succesfully!"/>
+    <text name="Lm_Primary_Doc_Processing" value="Processing"/>
+    <text name="Lm_Primary_Doc_Delete_Detail_Confirmation" value="Delete confirmation"/>
+    <text name="Lm_Primary_Doc_Delete_Detail" value="Sure to delete primary document detail?"/>
+    <text name="Lm_Primary_Doc_Notification" value="Notification"/>
+    <text name="Lm_Primary_Doc_SelectRecord" value="Please select record"/>
+    <text name="Lm_Primary_Doc_DocDelete_Message" value="Sure to delete document?"/>
+    <text name="Lm_Primary_Doc_DocDelete_Success" value="Attachment deleted succefully"/>
+    <text name="Lm_Primary_Doc_Template_Contract" value="Contract: #"/>
+    <text name="Lm_Primary_Doc_Template_Date" value="Date: "/>
+    <text name="Lm_Primary_Doc_Position" value="Position"/>
+    <text name="Lm_Primary_Doc_BudgetCode" value="Budget code"/>
+    <text name="Lm_Primary_Doc_Gfms" value="Gfms code"/>
+    <text name="Lm_Primary_Doc_Cpv" value="Cpv code"/>
+    <text name="Lm_Primary_Doc_Count" value="Count"/>
+    <text name="Lm_Primary_Doc_Quentity" value="Quentity"/>
+    <text name="Lm_Primary_Doc_Imported" value="Imported"/>
+    <text name="Lm_Primary_Doc_Contribute" value="Contribute"/>
+    <text name="Lm_Primary_Doc_UnitPrice" value="Unit price"/>
+    <text name="Lm_Primary_Doc_Cost" value="Cost"/>
+    <text name="Lm_Primary_Doc_ContactNumber" value="Contract number"/>
+    <text name="Lm_Primary_Doc_ContactDate" value="Contract date"/>
+    <text name="Lm_Primary_Doc_Tender" value="Tender #"/>
+    <text name="Lm_Primary_Doc_SupplierCode" value="Supplier code"/>
+    <text name="Lm_Primary_Doc_SupplierName" value="Supplier name"/>
+    <text name="Lm_Primary_Doc_ToolbarAdd" value="Add item(s)"/>
+    <text name="Lm_Primary_Doc_ToolSelectAll" value="Select all items"/>
+    <text name="Lm_Primary_Doc_ToolDeSelectAll" value="Deselect all items"/>
+
+
+
+
+    <text name="DocumentType.Invoice" value="Invoice"/>
+    <text name="DocumentType.DeliveryAct" value="Delivery Act"/>
+
+    <text name="DocumentStatus.Draft" value="Draft"/>
+    <text name="DocumentStatus.Approved" value="Approved"/>
+    <text name="DocumentStatus.Confirmed" value="Confirmed"/>
+
+
+    <text name="ContractPermitStatus.Draft" value="Draft"/>
+    <text name="ContractPermitStatus.Approved" value="Approved"/>
+    <text name="ContractPermitStatus.Sent" value="Sent"/>
+    <text name="ContractPermitStatus.Confirmed" value="Confirmed"/>
+    <text name="ContractPermitStatus.Rejected" value="Rejected"/>
+    <text name="ContractPermitStatus.Archived" value="Archived"/>
+
+
+    <text name="Contract.Selector.FundYear" value ="Fund year"></text>
+    <text name="Contract.Selector.Position" value ="Position"></text>
+    <text name="Contract.Selector.EcoCode" value ="Eco code"></text>
+    <text name="Contract.Selector.CpvCode" value ="Cpv code"></text>
+    <text name="Contract.Selector.Quentity" value ="Quentity"></text>
+    <text name="Contract.Selector.MeasureUnit" value ="Measure unit"></text>
+    <text name="Contract.Selector.UnitPrice" value ="Unit price"></text>
+
+    <text name="Lm_Primary_MultiYearPermit_FrontOffice" value="реестр (фронт-офис)"/>
+    <text name="Lm_Primary_MultiYearPermit_BackOffice" value="реестр (бек-офис)"/>
+    <text name="Lm_Primary_MultiYearPermit_Validation" value="Multi year permit can't be empty!"/>
+    <text name="Lm_Primary_MultiYearPermit_StatusRestriction" value="Contract permit status must be {0}.Doc #{1}"/>
+    <text name="Lm_Primary_MultiYearPermit_Status_Validation" value="Operation not permitted because document status is't draft!"/>
+
+    <text name="Lm_Primary_MultiYearPermit_CurrentYearBudget" value="Current year budget"/>
+    <text name="Lm_Primary_MultiYearPermit_SystemNbr" value="System #"/>
+    <text name="Lm_Primary_MultiYearPermit_PermitDate" value="Permit date"/>
+    <text name="Lm_Primary_MultiYearPermit_Description" value="Description"/>
+    <text name="Lm_Primary_MultiYearPermit_ChangeNote" value="Change note"/>
+    <text name="Lm_Primary_MultiYearPermit_Schedule" value="Shcedule"/>
+    <text name="Lm_Primary_MultiYearPermit_Organization" value="Organization"/>
+    <text name="Lm_Primary_MultiYearPermit_Amt" value="Amount"/>
+    <text name="Lm_Primary_MultiYearPermit_AgreedAmt" value="Agreed amount"/>
+    <text name="Lm_Primary_MultiYearPermit_FundingPeriod" value="Funding period"/>
+    <text name="Lm_Primary_MultiYearPermit_Duration" value="Duration(year)"/>
+    <text name="Lm_Primary_MultiYearPermit_StartPeriod" value="Start period"/>
+    <text name="Lm_Primary_MultiYearPermit_EndPeriod" value="End period"/>
+    <text name="Lm_Primary_MultiYearPermit_CreateDate" value="Create date"/>
+    <text name="Lm_Primary_MultiYearPermit_ConfirmDate" value="Confirm date"/>
+    <text name="Lm_Primary_MultiYearPermit" value="Multi year contract permit"/>
+
+    <text name="Lm_ManagerOrgStructure" value="Organization structure"/>
+    <text name="Lm_ManagerOrgStructure_Locations" value="Location"/>
+    <text name="Lm_ManagerOrgStructure_ResponsiblePersons" value="Responsible person"/>
+    <text name="Lm_ManagerOrgStructure_StructuralSubdivisionName" value="Structural subdivision mane"/>
+    <text name="Lm_ManagerOrgStructure_TerritoryName" value="Territory name"/>
+    <text name="Lm_ManagerOrgStructure_Region" value="Region"/>
+    <text name="Lm_ManagerOrgStructure_Address" value="Address"/>
+    <text name="Lm_ManagerOrgStructure_Details" value="Details"/>
+    <text name="Lm_ManagerOrgStructure_GpsLocation" value="Gps location"/>
+    <text name="Lm_ManagerOrgStructure_Position" value="Position"/>
+    <text name="Lm_ManagerOrgStructure_Active" value="Is active"/>
+    <text name="Lm_ManagerOrgStructure_PrimaryNbr" value="Primary number"/>
+    <text name="Lm_ManagerOrgStructure_FirstName" value="First name"/>
+    <text name="Lm_ManagerOrgStructure_LastName" value="Last name"/>
+    <text name="Lm_ManagerOrgStructure_Note" value="Note"/>
+
+    <text name="MI_LM_Oblication" value="Obligation"/>
+    <text name="Lm_ManagerOrgStructure_DivisionValidation" value="Parent division and subdivison can't be same"/>
+    <text name="Lm_ManagerOrgStructure_LocationNotFoundValidation" value="Location not found!"/>
+    <text name="Lm_ManagerOrgStructure_ManagerOrganizationValidation" value="Manager organization not found!"/>
+    <text name="Lm_ManagerOrgStructure_ManagerOrganizationStructureValidation" value="Manager organization structure not found!"/>
+    <text name="Lm_ManagerOrgStructure_TerritoryValidation" value="Territory not found!"/>
+    <text name="Lm_ManagerOrgStructure_ResponsiblePersonValidation" value="Responsible person not found!"/>
+
+
+    <text name="Delete_Confirmation" value="Delete confirmation"/>
+    <text name="Delete_Confirmation_Question" value="Sure to delete selected item?"/>
+    <text name="Delete_Confirmation_Message" value="Data deleted succesfully."/>
+    <text name="Operation_Status" value="Operation status"/>
+    <text name="Processing" value="Processing ..."/>
+    <text name="Operation_Msg" value="Operation complated succesfully"/>
+
+
+    <text name="ExpCategoryEnum.FirstCategory" value="| Category"/>
+    <text name="ExpCategoryEnum.SecondCategory" value="|| Category"/>
+    <text name="ExpCategoryEnum.ThirdCategory" value="||| Category"/>
+
+    <!--OBLIGATIONS -->
+
+    <text name="ObligationDocumentTypeEnum.Contract" value="контракт"/>
+    <text name="ObligationDocumentTypeEnum.Statement" value="Statement"/>
+    <text name="ObligationDocumentTypeEnum.DebtContract" value="Debt Contract"/>
+    <text name="ObligationDocumentTypeEnum.NormativeAct" value="Normative Act"/>
+    <text name="ObligationDocumentTypeEnum.Other" value="Other"/>
+
+    <text name="Obligation_CreationTime" value="Obligation Date"/>
+    <text name="Obligation_ObligationDate" value="Obligation Date"/>
+    <text name="Obligation_ObligationDocumentTypeName" value="тип"/>
+    <text name="Obligation_ObligationDocNbr" value="номер документа"/>
+    <text name="Obligation_ObligationDocDate" value="число документа"/>
+    <text name="Obligation_ExpCategoryName" value="Exp. Category"/>
+    <text name="Obligation_EconomicClassificationName" value="Economic Code"/>
+    <text name="Obligation_SupplierName" value="Supplier Name"/>
+    <text name="Obligation_ObligationAmt" value="Obligation Amt"/>
+    <text name="Obligation_AdditInfo" value="Addit. Info"/>
+    <text name="Obligation_ApproveDate" value="Approve Date"/>
+
+    <text name="ObligationDetail_Position" value="Position"/>
+    <text name="ObligationDetail_EconomicCode" value="Economic Code"/>
+    <text name="ObligationDetail_ExpenditureCategory" value="Expenditure Category"/>
+    <text name="ObligationDetail_OrganizationCode" value="OrganizationCode"/>
+    <text name="ObligationDetail_FinancingSource" value="Financing Source"/>
+    <text name="ObligationDetail_ProgramClassification" value="Program Classification"/>
+    <text name="ObligationDetail_FunctionalClassification" value="Functional Classification"/>
+    <text name="ObligationDetail_Price" value="Price"/>
+    <text name="ObligationDetail_Amount" value="Amount"/>
+    <text name="ObligationDetail_UnitQty" value="Unit Qty"/>
+
+
+    <text name="ObligationDetail_PaymentDate" value="Payment Date"/>
+    <text name="ObligationDetail_PaymentDateCount" value="Payment Date Count"/>
+
+    <text name="ObligationDetail_DistributionId" value="Distribution #."/>
+    <text name="ObligationDetail_TotalAmount" value="Total Amount"/>
+    <text name="ObligationDetail_ToBeDistributed" value="To Be Distribtued"/>
+    <text name="ObligationDetail_FirstQuarter" value="I Quarter Resource"/>
+    <text name="ObligationDetail_SecondQuarter" value="II Quarter Resource"/>
+    <text name="ObligationDetail_ThirdQuarter" value="III Quarter Resource"/>
+    <text name="ObligationDetail_FourthQuarter" value="IV Quarter Resource"/>
+
+
+    <text name="Grouped" value="Grouped"/>
+    <text name="Detailed" value="Detailed"/>
+
+    <text name="ObligationDetail_BudgetRevenueName" value="Budget Submission"/>
+    <text name="ObligationDetail_InstClassificationName" value="Org. Code"/>
+    <text name="ObligationDetail_FinancialClassificationName" value="Fin. Source"/>
+    <text name="ObligationDetail_ProgramClassificationName" value="Prog. Code"/>
+    <text name="ObligationDetail_ContractPostionName" value="Position"/>
+    <text name="ObligationDetail_ObligationAmt" value="Amount"/>
+    <text name="Obligation_ObligationDocName" value="Doc. Name"/>
+
+
+
+    <text name="ObligationStatusEnum.Draft" value="Draft"/>
+    <text name="ObligationStatusEnum.Approved" value="Approved"/>
+    <text name="ObligationStatusEnum.Sent" value="Sent"/>
+    <text name="ObligationStatusEnum.Accept" value="Accept"/>
+    <text name="ObligationStatusEnum.Decline" value="Decline"/>
+    <text name="ObligationStatusEnum.Rejected" value="Rejected"/>
+    <text name="Obligation_ChangeExpenditureCategory" value="Change Exp. Category"/>
+    <text name="Obligation_NewVersion" value="New Version"/>
+    <text name="ObligationDetail_ChangeNbr" value="#"/>
+    <text name="MI_LM_Oblication_BackOffice" value="Obligation(Backoffice)"/>
+
+
+
+    <text name="PackageDetailsStatus.Current" value="Current"/>
+    <text name="PackageDetailsStatus.PerformedForPackagePurposes" value="Performed for package purposes"/>
+
+    <text name="PackageOperationStatus.Draft" value="Draft"/>
+    <text name="PackageOperationStatus.Submitted" value="Submitted"/>
+    <text name="PackageOperationStatus.Approved" value="Approved"/>
+    <text name="PackageOperationStatus.Rejected" value="Rejected"/>
+    <text name="PackageOperationStatus.Archived" value="Archived"/>
+
+    <text name="PackageStatus.Planned" value="Planned"/>
+    <text name="PackageStatus.Active" value="Active"/>
+    <text name="PackageStatus.Completed" value="Completed"/>
+
+
+    <text name="Lm_Contract_Packages_StatusRestriction" value="Contract package status must be {0}.Doc #{1}"/>
+    <text name="Lm_Contract_Packages_Validation" value="Contract package can't be empty!"/>
+    <text name="Lm_Contract_Packages_Reject_Validation" value="Reject reason can't be empty!"/>
+    <text name="Lm_Contract_Packages_Date_Validation" value="Project end date must be greater then project start date"/>
+    <text name="Lm_Contract_Packages_Detail_Contract_Validation" value="Contracts into package cannot be repeated"/>
+    <text name="Lm_Contract_Packages_Detail_Contract_Validation1" value="Contract {0} is already used into #{1} package"/>
+    <text name="Lm_Contract_Packages_Status_Validation" value="Operation not permitted because document status is't new!"/>
+    <text name="Lm_Contract_Packages_PackageStatus" value="Package status"/>
+    <text name="Lm_Contract_Packages_Status" value="Status"/>
+    <text name="Lm_Contract_Packages_Nbr" value="System #"/>
+    <text name="Lm_Contract_Packages_Name" value="Name"/>
+    <text name="Lm_Contract_Packages_Contract" value="Contract number/date"/>
+    <text name="Lm_Contract_Packages_StartDate" value="Start date"/>
+    <text name="Lm_Contract_Packages_EndDate" value="End date"/>
+    <text name="Lm_Contract_Packages_CreatedDate" value="Created date"/>
+    <text name="Lm_Contract_Packages_Count" value="Contract count"/>
+    <text name="Lm_Contract_Packages_ComplatedContracts" value="Complited contracts"/>
+    <text name="Lm_Contract_Packages_TotalBudget" value="Total budget"/>
+    <text name="Lm_Contract_Packages_AssimilatedBudget" value="Assimilated budget"/>
+    <text name="Lm_Contract_Packages_OperationDate" value="Operate date"/>
+    <text name="Lm_Contract_Packages_ChangeNote" value="Change note"/>
+    <text name="Lm_Contract_Packages_Description" value="Description"/>
+    <text name="Lm_Contract_Packages_RejectReason" value="Reason"/>
+    <text name="Lm_Contract_Packages_Orgnaization" value="Organization"/>
+    <text name="Lm_Contract_Packages" value="контрактные пакеты"/>
+    <text name="Lm_Contract_Packages_Detail" value="Contract package details"/>
+
+    <text name="rocurementPlan.Priority" value="Priority"/>
+
+    <text name="ProcurementPlan_groupComboBox_Name" value="აარჩიეთ არსებული ჯგუფი ან შეიყვანეთ ახალი ჯგუფის სახელი"/>
+    <text name="ProcurementPlan_groupWindow_title" value="ჯგუფში დამატება"/>
+    <text name="ProcurementPlan_Group_Name" value="ჯგუფი:"/>
+
+
+    <text name="ResourcePeriodicity.M3" value="3 month"/>
+    <text name="ResourcePeriodicity.M6" value="6 month"/>
+    <text name="ResourcePeriodicity.M9" value="9 month"/>
+    <text name="ResourcePeriodicity.Annual" value="Annual"/>
+
+
+    <text name="Lm_Resource_Front_Office" value="ресурсы (фронт-офис)"/>
+    <text name="Lm_Resource_Back_Office" value="ресурсы (бек-офис)"/>
+
+    <text name="Lm_Contract_NewVersion_NotAllowed" value="Create new version is not allowed from this contract"/>
+    <text name="Lm_Sure_Create_NewVersion" value="Sure to add new version?"/>
+    <text name="Lm_Add_new_version_confirmation" value="Sure to add new version?"/>
+    <text name="It_is_the_latest_version" value="It is the latest version"/>
+    <text name="It_is_the_oldest_version" value="It is the oldest version"/>
+    <text name="MI_LM_Spec_Contract" value="Реестр заявок по спецрежиму"/>
+    <text name="LM_Contract_Spec_Options" value="Spec Contracts Options"/>
+
+    <text name="LM_Contract_Spec_Options_IsSpecContract" value="Spec Contract" />
+    <text name="LM_Contract_Spec_Options_NeensTreasuryConfirm" value="Needs Treasury Confirm"/>
+    <text name="LM_Contract_Spec_Options_NeedsBudgetDepConfirm" value="Needs Budg Dep Confirm"/>
+    <text name="LM_Contract_Spec_Options_NeedsSpaConfirm" value="Needs SPA Confirm"/>
+
+    <text name="LM_CONTRACT_NOT_ALLOW_TO_CHANGE_SPECIAL_FLAGS" value="Change the Spec Contract and Needs Treasury Confirm filds' value is not allowed"/>
+
+    <text name="LM_CONTRACT_NOT_ALLOW_TO_CHANGE_SPECIAL_FLAGS_CURRENT_STATUS" value="Contract status prohibits such changes"/>
+    <text name="MI_LM_ContractsBack" value="реестр (бэк-офис)"/>
+
+    <text name="Lm_Contract_Packages_FrontOffice" value="реестр (фронт-офис)"/>
+    <text name="Lm_Contract_Packages_BackOffice" value="реестр (бэк-офис)"/>
+
+
+    <text name="LM_CONTRACT_WARNING_PROCPLANGROUP_ALREADY_USED" value="Current proc plan group already was sent"/>
+    <text name="Please_enter_a_decline_reason" value="Please enter a reason"/>
+
+    <text name="CONTRACT_WAITING_ACCEPTANCE_FROM_TEASURY_SPEC_REGISTRY" value="Contract waiting acceptance from teasury(specregistry)"/>
+    <text name="CONTRACT_WAITING_ACCEPTANCE_FROM_BUDG_DEP_LONG_TERM_CONTRACT_WITH_NUMBER" value="Contract waiting acceptance from budg dep(contract permit registry). Contract internal nbr:"/>
+    <text name="CONTRACT_WAITING_ACCEPTANCE_FROM_TREASURY_OBLIGATION_REGISTRY" value="Contract waiting acceptance from treasury(obligation registry)"/>
+    <text name="CONTRACT_WAITING_ACCEPTANCE_FROM_SPA" value="Contract waiting acceptance from SPA"/>
+    <text name="LM_CAN_NOT_ACCEPT_DUE_TO_NOT_FOUND_CORRESPONDING_CONTRACT" value="Can not accept due to not found corresponding contract"/>
+    <text name="CONTRACT_IN_ORDER_TO_ACTIVATE_CONTRACT_PLEASE_INDICATE_SUPPLIER" value="Contract in order to activate contract please indicate supplier"/>
+    <text name="CONTRACT_IN_ORDER_COMPLETE_ACTION_PLEASE_CHANGE_CONTRACT_STATUS_RESPECTIVLLY" value="In order complete action, please change contract status respectivlly"/>
+
+    <text name="contractInProblem_btn" value="Problem"/>
+    <text name="suspend_btn" value="Suspend"/>
+    <text name="fulfille_btn" value="Fulfille"/>
+    <text name="terminate_btn" value="Terminate"/>
+    <text name="CONTRACT_PERMITE_DOCUMENT_NOT_FOUND" value="Contract permite document not found"/>
+    <text name="CONTRACT_PLEASE_CREATE_OBLIGATION_BEFORE_MAKE_CONFIRMATION" value="Please prepare obligation document before make confirmation"/>
+    <text name="MI_CM_Reserves" value="Reserve"/>
+    <text name="Dashboard" value="Dashboard"/>
+    <text name="Registration_form" value="Registration Form"/>
+
+    <text name="RevenueCashPlan_ItMayTake5_7M" value="Please wait... It may takes 5-7 minutes"/>
+    <text name="RevenueCashPlan_ItMayTake4_3M" value="Please wait... It may takes 3-4 minutes"/>
+    <text name="RevenueCashPlan_PLEASE_SELECT_DIM" value="Please select the dimensions"/>
+    <text name="LM_CAN_NOT_DECLINE_DUE_TO_NOT_FOUND_CORRESPONDING_CONTRACT" value="Can not decline permit document due to not found corresponding contract"/>
+
+  </texts>
+</localizationDictionary>
