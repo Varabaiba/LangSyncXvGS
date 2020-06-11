@@ -1,5 +1,4 @@
 import xml.etree.ElementTree as ET
-import openpyxl
 import gspread
 from collections import defaultdict
 import time
@@ -9,8 +8,9 @@ xTimer = time.perf_counter()
 print('Perftimer in: ', round(time.perf_counter(), 4))
 
 # Constants
+xLOFL = 'locs\\'
 xLOCS = {'en': 'imof_en.xml', 'ru': 'imof_ru.xml', 'tj': 'imof_tj.xml'}
-xGCRD: str = 'iMofCreds.json'
+xGCRD: str = 'priv\\iMofCreds.json'
 xCORE: dict = {}
 xRSLT: list = []
 xDROW: int = 2  # Here start actual data rows
@@ -26,7 +26,7 @@ xGW = xGS.worksheet('SRN1')
 
 
 for xTempLocA in xLOCS:
-    xCORE[xTempLocA] = ET.parse(xLOCS[xTempLocA]).getroot()[0]
+    xCORE[xTempLocA] = ET.parse(xLOFL + xLOCS[xTempLocA]).getroot()[0]
     for xNODE in xCORE[xTempLocA]:
         xFXML[xNODE.attrib['name']][xTempLocA] = xNODE.attrib['value']
 
